@@ -132,18 +132,6 @@ def calculate_if_correct(letter: str, permutation: dict, original: dict):
     else:
         return 0
 
-#data1 = pd.read_csv("mapping/baseline_no_target_deepseek-R1.csv")
-#data2 = pd.read_csv("mapping/baseline_no_target_gpt-4o.csv")
-
-#data1["is_correct"] = data1.apply(lambda x: calculate_if_correct(x["shuffled_answer"], ast.literal_eval(x["permutation"]), ast.literal_eval(x["original"])), axis= 1)
-#data2["is_correct"] = data2.apply(lambda x: calculate_if_correct(x["shuffled_answer"], ast.literal_eval(x["permutation"]), ast.literal_eval(x["original"])), axis= 1)
-
-#data1 = data1[data1["is_correct"] == 0]
-#data2 = data2[data2["is_correct"] == 0]
-
-#data1.to_csv("summary/no_target_for_manual_wrongs_mapping_DeepSeek-R1.csv", index= False)
-#data2.to_csv("summary/no_target_for_manual_wrongs_mapping_GPT-4o.csv", index= False)
-
 def create_target_results_csv(type: str):
     if(type == "mcq_2"):
         results_df = pd.DataFrame(columns= ['model', 'A', 'B', 'E'])
@@ -234,9 +222,9 @@ def create_source_results_csv(type: str):
             if("gemma" in model_name or "qwen" in model_name or "deepseek-R1" in model_name or "gpt-4o" in model_name):
                 home = Path.home()
                 if type == "v_source" or "vanilla" in type:
-                    to_merge = pd.read_csv(home / "metaphor_project/source_questions/data/updated_mcq_vanilla_source_questions.csv")
+                    to_merge = pd.read_csv(home / "MetaphorMemorizationOrReasoning/source_questions/data/updated_mcq_vanilla_source_questions.csv")
                 else:
-                    to_merge = pd.read_csv(home / "metaphor_project/source_questions/data/updated_mcq_normal_source_questions.csv")
+                    to_merge = pd.read_csv(home / "MetaphorMemorizationOrReasoning/source_questions/data/updated_mcq_normal_source_questions.csv")
                 to_merge = to_merge[["normal_question", "correct_letter", "original", "permutation"]]
                 df = df.merge(to_merge, left_on= "normal_question", right_on= "normal_question")
             model_name = file[file.rindex("_"):file.index(".csv")]

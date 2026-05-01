@@ -5,12 +5,9 @@ from transformers import BitsAndBytesConfig, AutoModelForCausalLM, AutoTokenizer
 import random
 import torch
 import re
-import time
-import numpy as np
 import torch._dynamo
 torch._dynamo.config.suppress_errors = True
 from datasets import Dataset
-from tqdm.auto import tqdm
 from openai import OpenAI
 import os
 import gc
@@ -569,38 +566,6 @@ def create_open(is_cot: bool) -> None:
         data["normal_question"] = data["open_prompt"].apply(lambda x: finalize_question(fix_open_prompt(x), True))
         data.to_csv("data/open_questions.csv", index= False)
 
-#create_mcqs()
-#create_open(True)
-#create_seojin_mcqs()
-#print("Done...")
-#time.sleep(60)
-
-#data = pd.read_csv("data/mcq_2.csv")
-#print(data.at[0, "normal_question"])
-#time.sleep(120)
-
-MODELS = [
-    # Small
-    ("google/gemma-3-1b-it", "gemma-1b"),
-    ("google/gemma-3-4b-it", "gemma-4b"),
-    ("Qwen/Qwen2.5-1.5B-Instruct", "qwen2.5-1.5b"),
-    ("deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B", "deepseek-qwen-1.5b"),
-
-    # Medium
-    ("google/gemma-3-12b-it", "gemma-12b"),
-    ("Qwen/Qwen2.5-7B-Instruct", "qwen2.5-7b"),
-    ("deepseek-ai/DeepSeek-R1-Distill-Qwen-7B", "deepseek-qwen-7b"),
-
-    # Large
-    ("google/gemma-3-27b-it", "gemma-27b"),
-    ("Qwen/Qwen2.5-32B-Instruct", "qwen2.5-32b"),
-    ("deepseek-ai/DeepSeek-R1-Distill-Qwen-32B", "deepseek-qwen-32b"),
-
-    # API
-    ("gpt-4o", "gpt-4o"),
-    ("deepseek-R1", "deepseek-R1"),
-]
-
 NEW_MODELS = [
     # Small (vLLM bfloat16)
     ("google/gemma-3-1b-it", "gemma-1b", False),
@@ -623,58 +588,6 @@ NEW_MODELS = [
     ("deepseek-R1", "deepseek-R1", True),
 ]
 
-QWEN_ONLY = [
-    #("Qwen/Qwen3.5-4B", "qwen3.5-4b-thinking", True),
-    #("Qwen/Qwen3.5-4B", "qwen3.5-4b-nothinking", False),
-    ("Qwen/Qwen3.5-9B", "qwen3.5-9b-thinking", True),
-    ("Qwen/Qwen3.5-9B", "qwen3.5-9b-nothinking", False),
-    ("Qwen/Qwen3.5-35B-A3B-FP8", "qwen3.5-35b-fp8-thinking", True),
-    ("Qwen/Qwen3.5-35B-A3B-FP8", "qwen3.5-35b-fp8-nothinking", False),
-]
-
-QWEN_ONLY_THINKING = [
-    ("Qwen/Qwen3.5-4B", "qwen3.5-4b-thinking", True),
-    ("Qwen/Qwen3.5-9B", "qwen3.5-9b-thinking", True),
-    ("Qwen/Qwen3.5-35B-A3B-FP8", "qwen3.5-35b-fp8-thinking", True),
-]
-
-QWEN_ONLY_NONTHINKING = [
-    ("Qwen/Qwen3.5-4B", "qwen3.5-4b-nothinking", False),
-    ("Qwen/Qwen3.5-9B", "qwen3.5-9b-nothinking", False),
-    ("Qwen/Qwen3.5-35B-A3B-FP8", "qwen3.5-35b-fp8-nothinking", False),
-]
-
-SMALL_MODELS = [
-    # API
-    ("gpt-4o", "gpt-4o", False),
-    ("deepseek-R1", "deepseek-R1", True),
-]
-
-NEW_GEMMA_ONLY = [
-    ("google/gemma-4-E2B-it", "gemma-4-e2b", False),
-    ("google/gemma-4-E4B-it", "gemma-4-e4b", False),
-    ("google/gemma-4-26B-A4B-it", "gemma-4-26b", False),
-    #("google/gemma-4-31B-it", "gemma-4-31b", False),
-    ("google/gemma-4-E2B-it", "gemma-4-e2b-thinking", True),
-    ("google/gemma-4-E4B-it", "gemma-4-e4b-thinking",  True),
-    ("google/gemma-4-26B-A4B-it", "gemma-4-26b-thinking", True),
-    #("google/gemma-4-31B-it", "gemma-4-31b-thinking", True)
-]
-
-#REMAINING = QWEN_ONLY + SMALL_MODELS
-
-#vanilla_s = pd.read_csv("/home/vsiddons/metaphor_project/source_questions/data/mcq_vanilla_source_questions.csv")
-#normal_s = pd.read_csv("/home/vsiddons/metaphor_project/source_questions/data/mcq_normal_source_questions.csv")
-
-#vanilla_s = vanilla_s["normal_question"].apply(lambda x: x + "\nFINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.")
-#normal_s = normal_s["normal_question"].apply(lambda x: x + "\nFINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.")
-
-#vanilla_s.to_csv("/home/vsiddons/metaphor_project/source_questions/data/updated_mcq_vanilla_source_questions.csv", index= False)
-#normal_s.to_csv("/home/vsiddons/metaphor_project/source_questions/data/updated_mcq_normal_source_questions.csv", index= False)
-
-#print("Done.")
-#time.sleep(900)
-
 '''Remember to change NEW_GEMMA_ONLY back to NEW_MODELS'''
 
 if __name__ == '__main__':
@@ -687,12 +600,12 @@ if __name__ == '__main__':
 
     elif args.type == "v_source":
         for model_name, short, thinking in NEW_MODELS:
-            test_model(model_name, f"mcq_source/vanilla_source_{short}", "/home/vsiddons/metaphor_project_refactor/metaphor_project/source_questions/data/updated_mcq_vanilla_source_questions.csv", True, thinking)
+            test_model(model_name, f"mcq_source/vanilla_source_{short}", "MetaphorMemorizationOrReasoning/source_questions/data/updated_mcq_vanilla_source_questions.csv", True, thinking)
             print("results saved to directory: results/mcq_source")
 
     elif args.type == "n_source":
         for model_name, short, thinking in NEW_MODELS:
-            test_model(model_name, f"mcq_source/normal_source_{short}", "/home/vsiddons/metaphor_project_refactor/metaphor_project/source_questions/data/updated_mcq_normal_source_questions.csv", True, thinking)
+            test_model(model_name, f"mcq_source/normal_source_{short}", "MetaphorMemorizationOrReasoning/source_questions/data/updated_mcq_normal_source_questions.csv", True, thinking)
             print("results saved to directory: results/mcq_source")
 
     elif args.type == "baseline_mapping":
@@ -700,30 +613,23 @@ if __name__ == '__main__':
             test_model(model_name, f"mapping/final_baseline_original_target_{short}", "mapping_data/for_llms/final_baseline_original_target.csv", True, thinking)
             test_model(model_name, f"mapping/final_baseline_our_target_{short}", "mapping_data/for_llms/final_baseline_our_target.csv", True, thinking)
             print("results saved to directory: results/mapping")
-            #test_model(model_name, f"mapping/baseline_no_target_{short}", "mapping_data/for_llms/baseline_no_target.csv", True, thinking)
 
     elif args.type == "antonym_mapping":
         for model_name, short, thinking in NEW_MODELS:
             test_model(model_name, f"mapping/final_antonym_original_target_{short}", "mapping_data/for_llms/final_antonym_original_target.csv", True, thinking)
             test_model(model_name, f"mapping/final_antonym_our_target_{short}", "mapping_data/for_llms/final_antonym_our_target.csv", True, thinking)
             print("results saved to directory: results/mapping")
-            #test_model(model_name, f"mapping/antonym_no_target_{short}", "mapping_data/for_llms/antonym_no_target.csv", True, thinking)
 
     elif args.type == "pseudoword_mapping":
         for model_name, short, thinking in NEW_MODELS:
             test_model(model_name, f"mapping/final_pseudoword_original_target_{short}", "mapping_data/for_llms/final_pseudoword_original_target.csv", True, thinking)
             test_model(model_name, f"mapping/final_pseudoword_our_target_{short}", "mapping_data/for_llms/final_pseudoword_our_target.csv", True, thinking)
             print("results saved to directory: results/mapping")
-            #test_model(model_name, f"mapping/pseudoword_no_target_{short}", "mapping_data/for_llms/pseudoword_no_target.csv", True, thinking)
-
-    #elif args.type == "together_baseline":
-        #for model_name, short in SMALL_MODELS:
-            #test_model(model_name, f"together/baseline_together_{short}", "/home/vsiddons/metaphor_project/together/questions/all_together_baseline_original_target.csv", True)
 
     elif(args.type == "open_source"):
         #API
-        test_model("gpt-4o", "open_source/gpt-4o-source-open-full", "/home/vsiddons/metaphor_project/metaphor_detection_data/entire_data_grouped_by_current_text.csv", True)
-        test_model("deepseek-R1", "open_source/deepseek-R1-source-open-full", "/home/vsiddons/metaphor_project/metaphor_detection_data/entire_data_grouped_by_current_text.csv", True)
+        test_model("gpt-4o", "open_source/gpt-4o-source-open-full", "MetaphorMemorizationOrReasoning/annotations/for_question_generation.csv", True)
+        test_model("deepseek-R1", "open_source/deepseek-R1-source-open-full", "MetaphorMemorizationOrReasoning/annotations/for_question_generation.csv", True)
         print("results saved to directory: results/open_source")
 
     elif(args.type == "open_source_stage_2"):
