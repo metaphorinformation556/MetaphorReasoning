@@ -16,6 +16,7 @@ questions/ask_llm_questions.py -> ["open", "mcq_2", "mcq_4", "mcq_seojin", "open
 questions/summary_utils.py -> ["open", "mcq_2", "mcq_4", "mcq_none_or_all", "open_source", "open_source_stage_2", "baseline_mapping", "antonym_mapping", "pseudoword_mapping", "v_source", "n_source"]
 score_target/score_and_compare_open_questions.py -> N/A
 source_questions/second_stage_scoring.py -> N/A
+score_target/get_detection_metrics.py -> N/A
 '''
 
 import argparse
@@ -75,6 +76,8 @@ if __name__ == "__main__":
 
     #---- get_open_source_metrics ----
     subparsers.add_parser("get_open_source_metrics")
+
+    subparsers.add_parser("get_detection_metrics")
 
     args = parser.parse_args()
 

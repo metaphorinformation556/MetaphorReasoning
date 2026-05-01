@@ -8,9 +8,9 @@ stemmer = PorterStemmer()
 
 home = str(Path.home())
 
-PATH = home + "/metaphor_project_refactor/metaphor_project/questions/results/open_target/"
+PATH = home + "MetaphorMemorizationOrReasoning/questions/results/open_target/"
 
-conceptnet_path = home + "/advertising/GNN/conceptnet_embeddings/embeddings.pkl"
+conceptnet_path = home + "/advertising/GNN/conceptnet_embeddings/embeddings.pkl" ##change to yours
 
 files = [
     "deepseek-R1-target-open.csv",
@@ -165,7 +165,7 @@ def semantic_similarity_score(golden: str, response: str, embeddings: dict) -> f
 if __name__ == "__main__":
     embeddings = get_conceptnet_embeddings()
     for file in files:
-        old = pd.read_csv(home + "metaphor_project/annotations/for_question_generation.csv")
+        old = pd.read_csv(home + "MetaphorMemorizationOrReasoning/annotations/for_question_generation.csv")
         curr = pd.read_csv(PATH + file)
         curr["cleaned_text"] = curr["mcq_prompt"].apply(lambda x: get_current_text(x, True))
         old["cleaned_text"] = old["current_text"].apply(lambda x: get_current_text(x, False))
