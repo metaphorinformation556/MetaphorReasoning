@@ -10,6 +10,7 @@ args to execute each file from this file:
 --summarize_responses -> questions/summary_utils.py
 --get_target_specificity -> score_target/score_and_compare_open_questions.py
 --get_open_source_metrics -> source_questions/second_stage_scoring.py
+--get_detection_metrics -> score_target/get_detection_metrics.py
 
 args per file:
 questions/ask_llm_questions.py -> ["open", "mcq_2", "mcq_4", "mcq_seojin", "open_source", "open_source_stage_2", "baseline_mapping", "antonym_mapping", "pseudoword_mapping", "v_source", "n_source"]
@@ -31,6 +32,7 @@ SCRIPT_PATHS = {
     "summarize_responses": BASE_DIR / "questions" / "summary_utils.py",
     "get_target_specificity": BASE_DIR / "score_target" / "score_and_compare_open_questions.py",
     "get_open_source_metrics": BASE_DIR / "source_questions" / "second_stage_scoring.py",
+    "get_detection_metrics": BASE_DIR / "score_target" / "get_detection_metrics.py"
 }
 
 VALID_DATASETS = [
@@ -41,7 +43,6 @@ VALID_DATASETS = [
     ,"pseudoword_original_target" , "v_source", "n_source"
 ]
 
-
 def run_script(script_path, child_args):
     cmd = [sys.executable, str(script_path)] + child_args
 
@@ -49,7 +50,6 @@ def run_script(script_path, child_args):
     print(f"CWD: {script_path.parent}")
 
     return subprocess.run(cmd, cwd= script_path.parent)
-
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
