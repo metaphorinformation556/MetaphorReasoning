@@ -1,0 +1,313 @@
+,0,normal_question,correct_letter,original,permutation
+0,normal_question,"TEXT: Second Your Arhuing that if America Wantstovote emotionally to FRG us back 100 years in time,we should.Why I may ask,do you want to return to failed tariff wars and anti globalist great depression policies that ruined nearly every economy in the Western world????Do you realize no economy can be on top by producing and selling to itself,Infact those countries are almost always the poorest countries with the lowest standard of living.
+QUESTION: How is ""tariff"" being metaphorically described? Choose the best word from the options:""
+ A) placid
+ B) destructive
+ C) tax
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",B,"{'destructive': 'A', 'tax': 'B', 'placid': 'C'}","{'A': 'placid', 'B': 'destructive', 'C': 'tax'}"
+1,correct_letter,"TEXT: So yes, I believe as Bob, that much of what we read in scripture is focused on and around Israel and the Middle East, with judgements on the nations also for rejecting the truth and turning to idols of wealth, lust and false teachings.
+QUESTION: How is ""wealth"" being metaphorically described? Choose the best word from the options:""
+ A) central
+ B) unpretentious
+ C) penniless
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",A,"{'central': 'A', 'penniless': 'B', 'unpretentious': 'C'}","{'A': 'central', 'B': 'unpretentious', 'C': 'penniless'}"
+2,original,"TEXT: It can redeem the whole human scene through the understanding that addresses the roots of poverty, persecution, or other issues of deep concern.
+QUESTION: How is ""poverty"" being metaphorically described? Choose the best word from the options:""
+ A) flourishing
+ B) fundamental
+ C) lavish
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",B,"{'fundamental': 'A', 'lavish': 'B', 'flourishing': 'C'}","{'A': 'flourishing', 'B': 'fundamental', 'C': 'lavish'}"
+3,permutation,"TEXT: Poverty and food security are heterogeneous phenomena in most countries; types and depth of poverty, measured in different ways, vary between and within countries and regions.
+QUESTION: How is ""poverty"" being metaphorically described? Choose the best word from the options:""
+ A) empty
+ B) tiered
+ C) trivial
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",B,"{'tiered': 'A', 'empty': 'B', 'trivial': 'C'}","{'A': 'empty', 'B': 'tiered', 'C': 'trivial'}"
+4,,"TEXT: Then Monday arrived and with it came an infestation of congressmen and women.
+QUESTION: How is ""congressmen"" being metaphorically described? Choose the best word from the options:""
+ A) unwelcome
+ B) silent
+ C) ethical
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",A,"{'unwelcome': 'A', 'ethical': 'B', 'silent': 'C'}","{'A': 'unwelcome', 'B': 'silent', 'C': 'ethical'}"
+5,,"TEXT: Part III explains why elections do not deserve the label of beacon of democracy, given the record of past transitions to democracy.
+QUESTION: How is ""democracy"" being metaphorically described? Choose the best word from the options:""
+ A) disorganized
+ B) oligarchic
+ C) guide
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",C,"{'guide': 'A', 'disorganized': 'B', 'oligarchic': 'C'}","{'A': 'disorganized', 'B': 'oligarchic', 'C': 'guide'}"
+6,,"TEXT: It is all too common for countries attempting political transitions to achieve the forms but not the substance of democracy.
+QUESTION: How is ""democracy"" being metaphorically described? Choose the best word from the options:""
+ A) accountable
+ B) inflexible
+ C) fundamental
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",C,"{'fundamental': 'A', 'accountable': 'B', 'inflexible': 'C'}","{'A': 'accountable', 'B': 'inflexible', 'C': 'fundamental'}"
+7,,"TEXT: News24 Home > MyNews24 > Your Story Planting the seeds of poverty View 109 Comments By: Kevin King 2011-05-11 13:00 Planting the seeds of poverty
+QUESTION: How is ""poverty"" being metaphorically described? Choose the best word from the options:""
+ A) originator
+ B) luxurious
+ C) flourishing
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",A,"{'originator': 'A', 'luxurious': 'B', 'flourishing': 'C'}","{'A': 'originator', 'B': 'luxurious', 'C': 'flourishing'}"
+8,,"TEXT: You do not feel your family clutching the heels of your feet as you climb up the ladder, out of the well of poverty, clinging and pushing away.
+QUESTION: How is ""poverty"" being metaphorically described? Choose the best word from the options:""
+ A) rich
+ B) debilitating
+ C) widespread
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",B,"{'debilitating': 'A', 'widespread': 'B', 'rich': 'C'}","{'A': 'rich', 'B': 'debilitating', 'C': 'widespread'}"
+9,,"TEXT: The Arab Spring arose from the prescription of political reform as the democracy cure for what ails the Muslim world.
+QUESTION: How is ""democracy"" being metaphorically described? Choose the best word from the options:""
+ A) renewal
+ B) imperfect
+ C) tyrannical
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",A,"{'renewal': 'A', 'imperfect': 'B', 'tyrannical': 'C'}","{'A': 'renewal', 'B': 'imperfect', 'C': 'tyrannical'}"
+10,,"TEXT: But, we are there now and the President articulated a vision in an American Enterprises Institute speech in February in which he talked about Iraq as a democracy beacon for the rest of the region.
+QUESTION: How is ""democracy"" being metaphorically described? Choose the best word from the options:""
+ A) tyrannical
+ B) disorganized
+ C) guide
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",C,"{'guide': 'A', 'disorganized': 'B', 'tyrannical': 'C'}","{'A': 'tyrannical', 'B': 'disorganized', 'C': 'guide'}"
+11,,"TEXT: Indeed, as so often happens in centralized systems, the bureaucratic remedy for one problem led to even worse trouble down the line.
+QUESTION: How is ""bureaucratic"" being metaphorically described? Choose the best word from the options:""
+ A) generative
+ B) slow
+ C) innovative
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",A,"{'generative': 'A', 'slow': 'B', 'innovative': 'C'}","{'A': 'generative', 'B': 'slow', 'C': 'innovative'}"
+12,,"TEXT: Plato witnessed the death of Socrates at the hands of the Athenian democracy in 399 BC.
+QUESTION: How is ""democracy"" being metaphorically described? Choose the best word from the options:""
+ A) powerful
+ B) savory
+ C) oligarchic
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",A,"{'powerful': 'A', 'savory': 'B', 'oligarchic': 'C'}","{'A': 'powerful', 'B': 'savory', 'C': 'oligarchic'}"
+13,,"TEXT: Political philosophers from Aristotle to Samuel Huntington have noted that economic development and an expanding middle class can provide more fertile ground for democracy.
+QUESTION: How is ""democracy"" being metaphorically described? Choose the best word from the options:""
+ A) diverse
+ B) stiff
+ C) justified
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",C,"{'justified': 'A', 'diverse': 'B', 'stiff': 'C'}","{'A': 'diverse', 'B': 'stiff', 'C': 'justified'}"
+14,,"TEXT: As the madnessÂ in Iraq claims the lives of more citizens of the United States of America with each passing week, media reports are filled with very moving stories of how members of our armed forces, who have been placed into harm's way needlessly by a president who lied about the underlying premises to justify our invasion of Iraq and who continues to believe that the ""demigod"" of ""democracy"" will prevail in land torn by sectarian strife among competing bands of Mohammedans, are dealing with ever more novel ways being invented and adapted by Iraqi nationals, who resent their presence in Iraq, to kill them.
+QUESTION: How is ""democracy"" being metaphorically described? Choose the best word from the options:""
+ A) finite
+ B) diverse
+ C) faith-receiving
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",C,"{'faith-receiving': 'A', 'diverse': 'B', 'finite': 'C'}","{'A': 'finite', 'B': 'diverse', 'C': 'faith-receiving'}"
+15,,"TEXT: Behind thought control in bourgeois democracy is the thinly gloved hand of repressive power.
+QUESTION: How is ""democracy"" being metaphorically described? Choose the best word from the options:""
+ A) oligarchic
+ B) powerful
+ C) savory
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",B,"{'powerful': 'A', 'savory': 'B', 'oligarchic': 'C'}","{'A': 'oligarchic', 'B': 'powerful', 'C': 'savory'}"
+16,,"TEXT: Thank you for helping to free us from the clutches of democracy and community and sharing.&lt;/saracasm&gt;
+QUESTION: How is ""democracy"" being metaphorically described? Choose the best word from the options:""
+ A) oppressive
+ B) controled
+ C) bright
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",B,"{'controled': 'A', 'bright': 'B', 'oppressive': 'C'}","{'A': 'oppressive', 'B': 'controled', 'C': 'bright'}"
+17,,"TEXT: There are good libertarian ideas that a global democracy nut like Gravel should find interesting such as jury nullification--if Gravel really wants to give power to ""the people""--but after hearing that interview with Scott Horton, Gravel just seemed too pig-headed to open his mind up to anything.
+QUESTION: How is ""democracy"" being metaphorically described? Choose the best word from the options:""
+ A) crunchy
+ B) multifaceted
+ C) insane
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",C,"{'insane': 'A', 'multifaceted': 'B', 'crunchy': 'C'}","{'A': 'crunchy', 'B': 'multifaceted', 'C': 'insane'}"
+18,,"TEXT: accurate characterization?In other words, have we reached the apex of democracy in which citizens are mobilized to provide a foundation for government?What about the people who do not watch Stewart or Colbert?Should we ignore them and emphasize that the existence of these programs
+QUESTION: How is ""democracy"" being metaphorically described? Choose the best word from the options:""
+ A) imperial
+ B) quintessential
+ C) accountable
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",B,"{'quintessential': 'A', 'accountable': 'B', 'imperial': 'C'}","{'A': 'imperial', 'B': 'quintessential', 'C': 'accountable'}"
+19,,"TEXT: But, insanity seems to be a regular affliction of Congress.
+QUESTION: How is ""congress"" being metaphorically described? Choose the best word from the options:""
+ A) impaired
+ B) cooperative
+ C) superficial
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",A,"{'impaired': 'A', 'cooperative': 'B', 'superficial': 'C'}","{'A': 'impaired', 'B': 'cooperative', 'C': 'superficial'}"
+20,,"TEXT: Without the blueprint of the Constitution and the Bill of Rights, our government would be more invasive in our lives than it already is.
+QUESTION: How is ""constitution"" being metaphorically described? Choose the best word from the options:""
+ A) generative
+ B) temporary
+ C) noisy
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",A,"{'generative': 'A', 'noisy': 'B', 'temporary': 'C'}","{'A': 'generative', 'B': 'temporary', 'C': 'noisy'}"
+21,,"TEXT: Timmerman's interviews with numerous factory workers make it clear that taking away their jobs is akin to creating a poverty tsunami.
+QUESTION: How is ""poverty"" being metaphorically described? Choose the best word from the options:""
+ A) lavish
+ B) rapid increase
+ C) still
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",B,"{'rapid increase': 'A', 'still': 'B', 'lavish': 'C'}","{'A': 'lavish', 'B': 'rapid increase', 'C': 'still'}"
+22,,"TEXT: These measures would help close the wealth chasm.
+QUESTION: How is ""wealth"" being metaphorically described? Choose the best word from the options:""
+ A) height
+ B) plentiful
+ C) restricted
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",A,"{'height': 'A', 'plentiful': 'B', 'restricted': 'C'}","{'A': 'height', 'B': 'plentiful', 'C': 'restricted'}"
+23,,"TEXT: Filed Under 24 Comments Â» Published: December 29, 2010 under Archived Featured Articles, Archived Guest Articles If you hired a wealth coach to help you build a seven-figure income by investing or starting a new business, would you expect to find yourself in bankruptcy court a year later, with your house on the auction block?
+QUESTION: How is ""wealth"" being metaphorically described? Choose the best word from the options:""
+ A) invisible
+ B) expertise
+ C) unpretentious
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",B,"{'expertise': 'A', 'invisible': 'B', 'unpretentious': 'C'}","{'A': 'invisible', 'B': 'expertise', 'C': 'unpretentious'}"
+24,,"TEXT: But in order to build your wealth shield against the threats posed by intrusive government, or what we call the â€œfederal leviathan,â€ central bank currency manipulation, corporatism and other exogenous threats, you have to remain nimble and flexible enough to be able to move our assets into specific areas of the equity, bond and commodity markets that, at any given time, could be outperforming other asset classes.
+QUESTION: How is ""wealth"" being metaphorically described? Choose the best word from the options:""
+ A) insubstantial
+ B) protection
+ C) fleeting
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",B,"{'protection': 'A', 'fleeting': 'B', 'insubstantial': 'C'}","{'A': 'insubstantial', 'B': 'protection', 'C': 'fleeting'}"
+25,,"TEXT: The intent of this form of intrusive legislation is to keep an eye on any NGO that could be considered unfavorable to the government.
+QUESTION: How is ""legislation"" being metaphorically described? Choose the best word from the options:""
+ A) perishable
+ B) physical
+ C) detailed
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",B,"{'physical': 'A', 'detailed': 'B', 'perishable': 'C'}","{'A': 'perishable', 'B': 'physical', 'C': 'detailed'}"
+26,,"TEXT: The Open Door Raj assumed that when the doors were open and restraints removed, China would naturally follow the American path to democracy, prosperity and Christianity.
+QUESTION: How is ""democracy"" being metaphorically described? Choose the best word from the options:""
+ A) inflexible
+ B) spicy
+ C) progression
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",C,"{'progression': 'A', 'spicy': 'B', 'inflexible': 'C'}","{'A': 'inflexible', 'B': 'spicy', 'C': 'progression'}"
+27,,"TEXT: The NGO experiences establish that there is a strong latent demand for education even among the poorest and a responsive education system can overcome the obstacle of poverty to bring children into schools.
+QUESTION: How is ""poverty"" being metaphorically described? Choose the best word from the options:""
+ A) challenge
+ B) opulent
+ C) ample
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",A,"{'challenge': 'A', 'ample': 'B', 'opulent': 'C'}","{'A': 'challenge', 'B': 'opulent', 'C': 'ample'}"
+28,,"TEXT: This guy is nothing more than a skidmark on the underwear of government, and when we get done you'll think so, too.
+QUESTION: How is ""government"" being metaphorically described? Choose the best word from the options:""
+ A) elastic
+ B) insignificant
+ C) official
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",B,"{'insignificant': 'A', 'official': 'B', 'elastic': 'C'}","{'A': 'elastic', 'B': 'insignificant', 'C': 'official'}"
+29,,"TEXT: Now the instruments of navigation of democracy are threefold, for democracy rests upon three simple facts : what a man thinks of himself, what a man thinks of others, and what a man thinks of God.
+QUESTION: How is ""democracy"" being metaphorically described? Choose the best word from the options:""
+ A) imperial
+ B) adaptable
+ C) inclusive
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",B,"{'adaptable': 'A', 'inclusive': 'B', 'imperial': 'C'}","{'A': 'imperial', 'B': 'adaptable', 'C': 'inclusive'}"
+30,,"TEXT: Mr. Speaker, I believe that there is no greater barometer of democracy than free speech and freedom of the press.
+QUESTION: How is ""democracy"" being metaphorically described? Choose the best word from the options:""
+ A) furry
+ B) irregular
+ C) granularity
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",C,"{'granularity': 'A', 'furry': 'B', 'irregular': 'C'}","{'A': 'furry', 'B': 'irregular', 'C': 'granularity'}"
+31,,"TEXT: So what do we need to know to break the chains of poverty in our lives?
+QUESTION: How is ""poverty"" being metaphorically described? Choose the best word from the options:""
+ A) restrictive
+ B) solid
+ C) pervasive
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",A,"{'restrictive': 'A', 'pervasive': 'B', 'solid': 'C'}","{'A': 'restrictive', 'B': 'solid', 'C': 'pervasive'}"
+32,,"TEXT: 0comments BURLINGTON â€” Selling a project that relies entirely on sales tax to the largest tax generator in the county was a tough sell Thursday night.
+QUESTION: How is ""tax"" being metaphorically described? Choose the best word from the options:""
+ A) deductible
+ B) reliable
+ C) expressive
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",B,"{'reliable': 'A', 'deductible': 'B', 'expressive': 'C'}","{'A': 'deductible', 'B': 'reliable', 'C': 'expressive'}"
+33,,"TEXT: There are many visions of democracy, and in America we are fortunate to have The Bill of rights together with The Constitution and the Declaration of Independence to create a strong impression of the voice of Democracy.
+QUESTION: How is ""democracy"" being metaphorically described? Choose the best word from the options:""
+ A) quiet
+ B) persuasion
+ C) palpable
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",B,"{'persuasion': 'A', 'palpable': 'B', 'quiet': 'C'}","{'A': 'quiet', 'B': 'persuasion', 'C': 'palpable'}"
+34,,"TEXT: The Senate is poison.
+QUESTION: How is ""senate"" being metaphorically described? Choose the best word from the options:""
+ A) bicameral
+ B) harmful
+ C) innocuous
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",B,"{'harmful': 'A', 'bicameral': 'B', 'innocuous': 'C'}","{'A': 'bicameral', 'B': 'harmful', 'C': 'innocuous'}"
+35,,"TEXT: December 10, 1996 The Teamsters union, which has filed a petition to represent Anne Arundel police officers and deputy sheriffs, is stuck in a bureaucratic turnstile that may ruin its chance of becoming the county's largest law enforcement bargaining unit.Since October, when more than 400 county police officers filed petition cards calling for a union vote, the Teamsters have been unable to arrange for elections.
+QUESTION: How is ""bureaucratic"" being metaphorically described? Choose the best word from the options:""
+ A) fluffy
+ B) repitition
+ C) spontaneous
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",B,"{'repitition': 'A', 'fluffy': 'B', 'spontaneous': 'C'}","{'A': 'fluffy', 'B': 'repitition', 'C': 'spontaneous'}"
+36,,"TEXT: TIRANA, Dec 16 (Reuters) - Albania announced on Monday that it would raise taxes from January, scrapping a flat 10 percent corporate and income tax rate, and plans to end tax exemptions for foreign oil workers, as its new government wrestles rising debt.
+QUESTION: How is ""government"" being metaphorically described? Choose the best word from the options:""
+ A) unregulated
+ B) inclusive
+ C) difficult
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",C,"{'difficult': 'A', 'inclusive': 'B', 'unregulated': 'C'}","{'A': 'unregulated', 'B': 'inclusive', 'C': 'difficult'}"
+37,,"TEXT: Thus it is that humanity today labors under the burden of a vast parasite, which, left unchecked, will do what all parasites do: it will destroy its host, even though its own survival depends upon the health of its host.Â Today the parasite of government has the power to turn our entire planet into a radioactive cinder, unfit to sustain any kind of life as we know it.Â As things stand now, it is likely to do this. But maybe itâ€™s not too late. Maybe, by using HoloMatic institutions comprised of ethical Octologues, we can pull ourselves back from the brink of disaster and transform human society into a sustainable thriving whole.
+QUESTION: How is ""government"" being metaphorically described? Choose the best word from the options:""
+ A) accountable
+ B) small
+ C) degrading
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",C,"{'degrading': 'A', 'accountable': 'B', 'small': 'C'}","{'A': 'accountable', 'B': 'small', 'C': 'degrading'}"
+38,,"TEXT: 08 Nor yet again is there any logical reason in the division of the field of the science of political economy for following that department which treats of the distribution of wealth with other departments treating of the consumption of wealth or of taxation, as is done by some of the minor and more recent writers.
+QUESTION: How is ""wealth"" being metaphorically described? Choose the best word from the options:""
+ A) resource-like
+ B) modest
+ C) endless
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",A,"{'resource-like': 'A', 'endless': 'B', 'modest': 'C'}","{'A': 'resource-like', 'B': 'modest', 'C': 'endless'}"
+39,,"TEXT: The system as it evolved seemed to work as intended. Though 29 charter schools closed in the first decade of the stateâ€™s charter school initiative, others thrived. Thereâ€™s no doubt that theyâ€™re popular. Once the legislature eliminated a cap of 100 schools statewide, the ranks of charters grew to 107 this year. Another 25 will open in the fall. The State Board of Education has largely let charter schools rise or fall on their own merits. To its credit, the state board didnâ€™t drown charter schools in a bureaucratic bathtub.
+QUESTION: How is ""bureaucratic"" being metaphorically described? Choose the best word from the options:""
+ A) wooden
+ B) informal
+ C) inhibitory
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",C,"{'inhibitory': 'A', 'wooden': 'B', 'informal': 'C'}","{'A': 'wooden', 'B': 'informal', 'C': 'inhibitory'}"
+40,,"TEXT: Your problem is like ours - if the very rich hoover up all the money, how can the system work?
+QUESTION: How is ""money"" being metaphorically described? Choose the best word from the options:""
+ A) organic
+ B) colorful
+ C) siezed
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",C,"{'siezed': 'A', 'colorful': 'B', 'organic': 'C'}","{'A': 'organic', 'B': 'colorful', 'C': 'siezed'}"
+41,,"TEXT: But the cost of gun proliferation in America is far higher then the security it provides.
+QUESTION: How is ""gun"" being metaphorically described? Choose the best word from the options:""
+ A) obsolete
+ B) soothing
+ C) spiked
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",C,"{'spiked': 'A', 'obsolete': 'B', 'soothing': 'C'}","{'A': 'obsolete', 'B': 'soothing', 'C': 'spiked'}"
+42,,"TEXT: Is that most of your fellow gun worshippers?
+QUESTION: How is ""gun"" being metaphorically described? Choose the best word from the options:""
+ A) noisy
+ B) faith-receiving
+ C) quiet
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",B,"{'faith-receiving': 'A', 'noisy': 'B', 'quiet': 'C'}","{'A': 'noisy', 'B': 'faith-receiving', 'C': 'quiet'}"
+43,,"TEXT: The gun cult and their stooges won't allow it to be released.
+QUESTION: How is ""gun"" being metaphorically described? Choose the best word from the options:""
+ A) innocuous
+ B) tender
+ C) faith-receiving
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",C,"{'faith-receiving': 'A', 'innocuous': 'B', 'tender': 'C'}","{'A': 'innocuous', 'B': 'tender', 'C': 'faith-receiving'}"
+44,,"TEXT: No, we can not agree that taxation is theft because it is not theft.
+QUESTION: How is ""taxation"" being metaphorically described? Choose the best word from the options:""
+ A) expropriation
+ B) benevolent
+ C) systematic
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",A,"{'expropriation': 'A', 'systematic': 'B', 'benevolent': 'C'}","{'A': 'expropriation', 'B': 'benevolent', 'C': 'systematic'}"
+45,,"TEXT: â€œThis cannot be called poverty migration,â€ insists Herbert BrÃ¼cker of the IAB.
+QUESTION: How is ""poverty"" being metaphorically described? Choose the best word from the options:""
+ A) relocation
+ B) fluffy
+ C) plentiful
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",A,"{'relocation': 'A', 'fluffy': 'B', 'plentiful': 'C'}","{'A': 'relocation', 'B': 'fluffy', 'C': 'plentiful'}"
+46,,"TEXT: There is only one way to stop the tax hemorrhage.
+QUESTION: How is ""tax"" being metaphorically described? Choose the best word from the options:""
+ A) fluffy
+ B) tasty
+ C) rapid decrease
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",C,"{'rapid decrease': 'A', 'fluffy': 'B', 'tasty': 'C'}","{'A': 'fluffy', 'B': 'tasty', 'C': 'rapid decrease'}"
+47,,"TEXT: Should he succeed, he's likely to bring this poverty propagation to Washington.
+QUESTION: How is ""poverty"" being metaphorically described? Choose the best word from the options:""
+ A) No option c
+ B) rapid increase
+ C) No option d
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",B,"{'rapid increase': 'A', 'No option c': 'B', 'No option d': 'C'}","{'A': 'No option c', 'B': 'rapid increase', 'C': 'No option d'}"
+48,,"TEXT: Government taxation is a parasite on the economic life of any country.
+QUESTION: How is ""taxation"" being metaphorically described? Choose the best word from the options:""
+ A) harmful
+ B) superfluous
+ C) positive
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",A,"{'harmful': 'A', 'superfluous': 'B', 'positive': 'C'}","{'A': 'harmful', 'B': 'superfluous', 'C': 'positive'}"
+49,,"TEXT: My idea of pursuing happiness does not include the leech of taxation and the loss of freedoms by regulation without representation.
+QUESTION: How is ""taxation"" being metaphorically described? Choose the best word from the options:""
+ A) positive
+ B) regulated
+ C) harmful
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",C,"{'harmful': 'A', 'regulated': 'B', 'positive': 'C'}","{'A': 'positive', 'B': 'regulated', 'C': 'harmful'}"
+50,,"TEXT: And their manipulation of rhetoric blinds taxpayers to the inappropriateness of both their means and ends.
+QUESTION: How is ""taxpayers"" being metaphorically described? Choose the best word from the options:""
+ A) generous
+ B) deceived
+ C) vertical
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",B,"{'deceived': 'A', 'generous': 'B', 'vertical': 'C'}","{'A': 'generous', 'B': 'deceived', 'C': 'vertical'}"
+51,,"TEXT: We need to return to a constitutional federal government, instead of this bloated leech of bureaucracy.
+QUESTION: How is ""bureaucracy"" being metaphorically described? Choose the best word from the options:""
+ A) decentralized
+ B) fluid
+ C) harmful
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",C,"{'harmful': 'A', 'decentralized': 'B', 'fluid': 'C'}","{'A': 'decentralized', 'B': 'fluid', 'C': 'harmful'}"

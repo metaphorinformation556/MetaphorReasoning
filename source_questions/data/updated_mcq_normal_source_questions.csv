@@ -1,0 +1,1105 @@
+,normal_question,correct_letter,original,permutation
+0,"TEXT: Second Your Arhuing that if America Wantstovote emotionally to FRG us back 100 years in time,we should.Why I may ask,do you want to return to failed tariff wars and anti globalist great depression policies that ruined nearly every economy in the Western world????Do you realize no economy can be on top by producing and selling to itself,Infact those countries are almost always the poorest countries with the lowest standard of living. Tariff is reciprocal.
+QUESTION: Which word is being used metaphorically in the given text? Choose the best option from the following:
+ A) wars
+ B) tool
+ C) reciprocal
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",A,"{'wars': 'A', 'tool': 'B', 'reciprocal': 'C'}","{'A': 'wars', 'B': 'tool', 'C': 'reciprocal'}"
+1,"TEXT: So yes, I believe as Bob, that much of what we read in scripture is focused on and around Israel and the Middle East, with judgements on the nations also for rejecting the truth and turning to idols of wealth, lust and false teachings. Wealth is abundant.
+QUESTION: Which word is being used metaphorically in the given text? Choose the best option from the following:
+ A) river
+ B) abundant
+ C) idols
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",C,"{'idols': 'A', 'river': 'B', 'abundant': 'C'}","{'A': 'river', 'B': 'abundant', 'C': 'idols'}"
+2,"TEXT: It can redeem the whole human scene through the understanding that addresses the roots of poverty, persecution, or other issues of deep concern. Poverty is widespread.
+QUESTION: Which word is being used metaphorically in the given text? Choose the best option from the following:
+ A) roots
+ B) widespread
+ C) storm
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",A,"{'roots': 'A', 'storm': 'B', 'widespread': 'C'}","{'A': 'roots', 'B': 'widespread', 'C': 'storm'}"
+3,"TEXT: Poverty and food security are heterogeneous phenomena in most countries; types and depth of poverty, measured in different ways, vary between and within countries and regions. Poverty is widespread.
+QUESTION: Which word is being used metaphorically in the given text? Choose the best option from the following:
+ A) depth
+ B) widespread
+ C) storm
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",A,"{'depth': 'A', 'storm': 'B', 'widespread': 'C'}","{'A': 'depth', 'B': 'widespread', 'C': 'storm'}"
+4,"TEXT: Then Monday arrived and with it came an infestation of congressmen and women. Congressmen is influential.
+QUESTION: Which word is being used metaphorically in the given text? Choose the best option from the following:
+ A) cats
+ B) influential
+ C) infestation
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",C,"{'infestation': 'A', 'cats': 'B', 'influential': 'C'}","{'A': 'cats', 'B': 'influential', 'C': 'infestation'}"
+5,"TEXT: Part III explains why elections do not deserve the label of beacon of democracy, given the record of past transitions to democracy. Democracy is participatory.
+QUESTION: Which word is being used metaphorically in the given text? Choose the best option from the following:
+ A) beacon
+ B) participatory
+ C) bridge
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",A,"{'beacon': 'A', 'bridge': 'B', 'participatory': 'C'}","{'A': 'beacon', 'B': 'participatory', 'C': 'bridge'}"
+6,"TEXT: It is all too common for countries attempting political transitions to achieve the forms but not the substance of democracy. Democracy is participatory.
+QUESTION: Which word is being used metaphorically in the given text? Choose the best option from the following:
+ A) bridge
+ B) substance
+ C) participatory
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",B,"{'substance': 'A', 'bridge': 'B', 'participatory': 'C'}","{'A': 'bridge', 'B': 'substance', 'C': 'participatory'}"
+7,"TEXT: News24 Home > MyNews24 > Your Story Planting the seeds of poverty View 109 Comments By: Kevin King 2011-05-11 13:00 Planting the seeds of poverty Poverty is widespread.
+QUESTION: Which word is being used metaphorically in the given text? Choose the best option from the following:
+ A) storm
+ B) widespread
+ C) seeds
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",C,"{'seeds': 'A', 'storm': 'B', 'widespread': 'C'}","{'A': 'storm', 'B': 'widespread', 'C': 'seeds'}"
+8,"TEXT: You do not feel your family clutching the heels of your feet as you climb up the ladder, out of the well of poverty, clinging and pushing away. Poverty is widespread.
+QUESTION: Which word is being used metaphorically in the given text? Choose the best option from the following:
+ A) widespread
+ B) storm
+ C) well
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",C,"{'well': 'A', 'storm': 'B', 'widespread': 'C'}","{'A': 'widespread', 'B': 'storm', 'C': 'well'}"
+9,"TEXT: The Arab Spring arose from the prescription of political reform as the democracy cure for what ails the Muslim world. Democracy is participatory.
+QUESTION: Which word is being used metaphorically in the given text? Choose the best option from the following:
+ A) bridge
+ B) participatory
+ C) cure
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",C,"{'cure': 'A', 'bridge': 'B', 'participatory': 'C'}","{'A': 'bridge', 'B': 'participatory', 'C': 'cure'}"
+10,"TEXT: But, we are there now and the President articulated a vision in an American Enterprises Institute speech in February in which he talked about Iraq as a democracy beacon for the rest of the region. Democracy is participatory.
+QUESTION: Which word is being used metaphorically in the given text? Choose the best option from the following:
+ A) melody
+ B) beacon
+ C) participatory
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",B,"{'beacon': 'A', 'melody': 'B', 'participatory': 'C'}","{'A': 'melody', 'B': 'beacon', 'C': 'participatory'}"
+11,"TEXT: Indeed, as so often happens in centralized systems, the bureaucratic remedy for one problem led to even worse trouble down the line. Bureaucratic is formal.
+QUESTION: Which word is being used metaphorically in the given text? Choose the best option from the following:
+ A) machine
+ B) remedy
+ C) formal
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",B,"{'remedy': 'A', 'machine': 'B', 'formal': 'C'}","{'A': 'machine', 'B': 'remedy', 'C': 'formal'}"
+12,"TEXT: Plato witnessed the death of Socrates at the hands of the Athenian democracy in 399 BC. Democracy is participatory.
+QUESTION: Which word is being used metaphorically in the given text? Choose the best option from the following:
+ A) participatory
+ B) hands
+ C) canvas
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",B,"{'hands': 'A', 'canvas': 'B', 'participatory': 'C'}","{'A': 'participatory', 'B': 'hands', 'C': 'canvas'}"
+13,"TEXT: Political philosophers from Aristotle to Samuel Huntington have noted that economic development and an expanding middle class can provide more fertile ground for democracy. Democracy is participatory.
+QUESTION: Which word is being used metaphorically in the given text? Choose the best option from the following:
+ A) melody
+ B) participatory
+ C) ground
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",C,"{'ground': 'A', 'melody': 'B', 'participatory': 'C'}","{'A': 'melody', 'B': 'participatory', 'C': 'ground'}"
+14,"TEXT: As the madness  in Iraq claims the lives of more citizens of the United States of America with each passing week, media reports are filled with very moving stories of how members of our armed forces, who have been placed into harm's way needlessly by a president who lied about the underlying premises to justify our invasion of Iraq and who continues to believe that the ""demigod"" of ""democracy"" will prevail in land torn by sectarian strife among competing bands of Mohammedans, are dealing with ever more novel ways being invented and adapted by Iraqi nationals, who resent their presence in Iraq, to kill them. Democracy is participatory.
+QUESTION: Which word is being used metaphorically in the given text? Choose the best option from the following:
+ A) bridge
+ B) demigod
+ C) participatory
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",B,"{'demigod': 'A', 'bridge': 'B', 'participatory': 'C'}","{'A': 'bridge', 'B': 'demigod', 'C': 'participatory'}"
+15,"TEXT: Behind thought control in bourgeois democracy is the thinly gloved hand of repressive power. Democracy is participatory.
+QUESTION: Which word is being used metaphorically in the given text? Choose the best option from the following:
+ A) bridge
+ B) participatory
+ C) hand
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",C,"{'hand': 'A', 'bridge': 'B', 'participatory': 'C'}","{'A': 'bridge', 'B': 'participatory', 'C': 'hand'}"
+16,"TEXT: Thank you for helping to free us from the clutches of democracy and community and sharing.&lt;/saracasm&gt; Democracy is participatory.
+QUESTION: Which word is being used metaphorically in the given text? Choose the best option from the following:
+ A) participatory
+ B) clutches
+ C) bridge
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",B,"{'clutches': 'A', 'bridge': 'B', 'participatory': 'C'}","{'A': 'participatory', 'B': 'clutches', 'C': 'bridge'}"
+17,"TEXT: There are good libertarian ideas that a global democracy nut like Gravel should find interesting such as jury nullification--if Gravel really wants to give power to ""the people""--but after hearing that interview with Scott Horton, Gravel just seemed too pig-headed to open his mind up to anything. Democracy is participatory.
+QUESTION: Which word is being used metaphorically in the given text? Choose the best option from the following:
+ A) nut
+ B) bridge
+ C) participatory
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",A,"{'nut': 'A', 'bridge': 'B', 'participatory': 'C'}","{'A': 'nut', 'B': 'bridge', 'C': 'participatory'}"
+18,"TEXT: accurate characterization?In other words, have we reached the apex of democracy in which citizens are mobilized to provide a foundation for government?What about the people who do not watch Stewart or Colbert?Should we ignore them and emphasize that the existence of these programs Democracy is participatory.
+QUESTION: Which word is being used metaphorically in the given text? Choose the best option from the following:
+ A) apex
+ B) participatory
+ C) melody
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",A,"{'apex': 'A', 'melody': 'B', 'participatory': 'C'}","{'A': 'apex', 'B': 'participatory', 'C': 'melody'}"
+19,"TEXT: But, insanity seems to be a regular affliction of Congress. Congress are governing.
+QUESTION: Which word is being used metaphorically in the given text? Choose the best option from the following:
+ A) affliction
+ B) tapestry
+ C) governing
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",A,"{'affliction': 'A', 'tapestry': 'B', 'governing': 'C'}","{'A': 'affliction', 'B': 'tapestry', 'C': 'governing'}"
+20,"TEXT: Without the blueprint of the Constitution and the Bill of Rights, our government would be more invasive in our lives than it already is. Constitution is federal.
+QUESTION: Which word is being used metaphorically in the given text? Choose the best option from the following:
+ A) compass
+ B) blueprint
+ C) federal
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",B,"{'blueprint': 'A', 'compass': 'B', 'federal': 'C'}","{'A': 'compass', 'B': 'blueprint', 'C': 'federal'}"
+21,"TEXT: Timmerman's interviews with numerous factory workers make it clear that taking away their jobs is akin to creating a poverty tsunami. Poverty is widespread.
+QUESTION: Which word is being used metaphorically in the given text? Choose the best option from the following:
+ A) widespread
+ B) tsunami
+ C) storm
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",B,"{'tsunami': 'A', 'storm': 'B', 'widespread': 'C'}","{'A': 'widespread', 'B': 'tsunami', 'C': 'storm'}"
+22,"TEXT: These measures would help close the wealth chasm. Wealth is abundant.
+QUESTION: Which word is being used metaphorically in the given text? Choose the best option from the following:
+ A) chasm
+ B) river
+ C) abundant
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",A,"{'chasm': 'A', 'river': 'B', 'abundant': 'C'}","{'A': 'chasm', 'B': 'river', 'C': 'abundant'}"
+23,"TEXT: Filed Under 24 Comments » Published: December 29, 2010 under Archived Featured Articles, Archived Guest Articles If you hired a wealth coach to help you build a seven-figure income by investing or starting a new business, would you expect to find yourself in bankruptcy court a year later, with your house on the auction block? Wealth is abundant.
+QUESTION: Which word is being used metaphorically in the given text? Choose the best option from the following:
+ A) abundant
+ B) coach
+ C) river
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",B,"{'coach': 'A', 'river': 'B', 'abundant': 'C'}","{'A': 'abundant', 'B': 'coach', 'C': 'river'}"
+24,"TEXT: But in order to build your wealth shield against the threats posed by intrusive government, or what we call the “federal leviathan,” central bank currency manipulation, corporatism and other exogenous threats, you have to remain nimble and flexible enough to be able to move our assets into specific areas of the equity, bond and commodity markets that, at any given time, could be outperforming other asset classes. Wealth is abundant.
+QUESTION: Which word is being used metaphorically in the given text? Choose the best option from the following:
+ A) shield
+ B) river
+ C) abundant
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",A,"{'shield': 'A', 'river': 'B', 'abundant': 'C'}","{'A': 'shield', 'B': 'river', 'C': 'abundant'}"
+25,"TEXT: The intent of this form of intrusive legislation is to keep an eye on any NGO that could be considered unfavorable to the government. Legislation is formal.
+QUESTION: Which word is being used metaphorically in the given text? Choose the best option from the following:
+ A) compass
+ B) form
+ C) formal
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",B,"{'form': 'A', 'compass': 'B', 'formal': 'C'}","{'A': 'compass', 'B': 'form', 'C': 'formal'}"
+26,"TEXT: The Open Door Raj assumed that when the doors were open and restraints removed, China would naturally follow the American path to democracy, prosperity and Christianity. Democracy is participatory.
+QUESTION: Which word is being used metaphorically in the given text? Choose the best option from the following:
+ A) bridge
+ B) path
+ C) participatory
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",B,"{'path': 'A', 'bridge': 'B', 'participatory': 'C'}","{'A': 'bridge', 'B': 'path', 'C': 'participatory'}"
+27,"TEXT: The NGO experiences establish that there is a strong latent demand for education even among the poorest and a responsive education system can overcome the obstacle of poverty to bring children into schools. Poverty is widespread.
+QUESTION: Which word is being used metaphorically in the given text? Choose the best option from the following:
+ A) storm
+ B) widespread
+ C) obstacle
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",C,"{'obstacle': 'A', 'storm': 'B', 'widespread': 'C'}","{'A': 'storm', 'B': 'widespread', 'C': 'obstacle'}"
+28,"TEXT: This guy is nothing more than a skidmark on the underwear of government, and when we get done you'll think so, too. Government is municipal.
+QUESTION: Which word is being used metaphorically in the given text? Choose the best option from the following:
+ A) machine
+ B) municipal
+ C) underwear
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",C,"{'underwear': 'A', 'machine': 'B', 'municipal': 'C'}","{'A': 'machine', 'B': 'municipal', 'C': 'underwear'}"
+29,"TEXT: In the best of the prophetic tradition they will stand in the gateway of government and in the portals of business, calling people to justice for the poor, for the broken and for the excluded. Government is bureaucratic.
+QUESTION: Which word is being used metaphorically in the given text? Choose the best option from the following:
+ A) gateway
+ B) machine
+ C) bureaucratic
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",A,"{'gateway': 'A', 'machine': 'B', 'bureaucratic': 'C'}","{'A': 'gateway', 'B': 'machine', 'C': 'bureaucratic'}"
+30,"TEXT: Now the instruments of navigation of democracy are threefold, for democracy rests upon three simple facts : what a man thinks of himself, what a man thinks of others, and what a man thinks of God. Democracy is participatory.
+QUESTION: Which word is being used metaphorically in the given text? Choose the best option from the following:
+ A) navigation
+ B) melody
+ C) participatory
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",A,"{'navigation': 'A', 'melody': 'B', 'participatory': 'C'}","{'A': 'navigation', 'B': 'melody', 'C': 'participatory'}"
+31,"TEXT: Mr. Speaker, I believe that there is no greater barometer of democracy than free speech and freedom of the press. Democracy is participatory.
+QUESTION: Which word is being used metaphorically in the given text? Choose the best option from the following:
+ A) melody
+ B) participatory
+ C) barometer
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",C,"{'barometer': 'A', 'melody': 'B', 'participatory': 'C'}","{'A': 'melody', 'B': 'participatory', 'C': 'barometer'}"
+32,"TEXT: So what do we need to know to break the chains of poverty in our lives? Poverty is widespread.
+QUESTION: Which word is being used metaphorically in the given text? Choose the best option from the following:
+ A) widespread
+ B) chains
+ C) storm
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",B,"{'chains': 'A', 'storm': 'B', 'widespread': 'C'}","{'A': 'widespread', 'B': 'chains', 'C': 'storm'}"
+33,"TEXT: There are many visions of democracy, and in America we are fortunate to have The Bill of rights together with The Constitution and the Declaration of Independence to create a strong impression of the voice of Democracy. Democracy is participatory.
+QUESTION: Which word is being used metaphorically in the given text? Choose the best option from the following:
+ A) voice
+ B) bridge
+ C) participatory
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",A,"{'voice': 'A', 'bridge': 'B', 'participatory': 'C'}","{'A': 'voice', 'B': 'bridge', 'C': 'participatory'}"
+34,"TEXT: The Senate is poison. Senate is governing.
+QUESTION: Which word is being used metaphorically in the given text? Choose the best option from the following:
+ A) stage
+ B) poison
+ C) governing
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",B,"{'poison': 'A', 'stage': 'B', 'governing': 'C'}","{'A': 'stage', 'B': 'poison', 'C': 'governing'}"
+35,"TEXT: December 10, 1996 The Teamsters union, which has filed a petition to represent Anne Arundel police officers and deputy sheriffs, is stuck in a bureaucratic turnstile that may ruin its chance of becoming the county's largest law enforcement bargaining unit.Since October, when more than 400 county police officers filed petition cards calling for a union vote, the Teamsters have been unable to arrange for elections. Bureaucratic is procedural.
+QUESTION: Which word is being used metaphorically in the given text? Choose the best option from the following:
+ A) turnstile
+ B) machine
+ C) procedural
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",A,"{'turnstile': 'A', 'machine': 'B', 'procedural': 'C'}","{'A': 'turnstile', 'B': 'machine', 'C': 'procedural'}"
+36,"TEXT: Thus it is that humanity today labors under the burden of a vast parasite, which, left unchecked, will do what all parasites do: it will destroy its host, even though its own survival depends upon the health of its host.  Today the parasite of government has the power to turn our entire planet into a radioactive cinder, unfit to sustain any kind of life as we know it.  As things stand now, it is likely to do this. But maybe it’s not too late. Maybe, by using HoloMatic institutions comprised of ethical Octologues, we can pull ourselves back from the brink of disaster and transform human society into a sustainable thriving whole. Government is bureaucratic.
+QUESTION: Which word is being used metaphorically in the given text? Choose the best option from the following:
+ A) parasite
+ B) bureaucratic
+ C) ship
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",A,"{'parasite': 'A', 'ship': 'B', 'bureaucratic': 'C'}","{'A': 'parasite', 'B': 'bureaucratic', 'C': 'ship'}"
+37,"TEXT: 08 Nor yet again is there any logical reason in the division of the field of the science of political economy for following that department which treats of the distribution of wealth with other departments treating of the consumption of wealth or of taxation, as is done by some of the minor and more recent writers. Wealth is abundant.
+QUESTION: Which word is being used metaphorically in the given text? Choose the best option from the following:
+ A) consumption
+ B) river
+ C) abundant
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",A,"{'consumption': 'A', 'river': 'B', 'abundant': 'C'}","{'A': 'consumption', 'B': 'river', 'C': 'abundant'}"
+38,"TEXT: The system as it evolved seemed to work as intended. Though 29 charter schools closed in the first decade of the state’s charter school initiative, others thrived. There’s no doubt that they’re popular. Once the legislature eliminated a cap of 100 schools statewide, the ranks of charters grew to 107 this year. Another 25 will open in the fall. The State Board of Education has largely let charter schools rise or fall on their own merits. To its credit, the state board didn’t drown charter schools in a bureaucratic bathtub. Bureaucratic is procedural.
+QUESTION: Which word is being used metaphorically in the given text? Choose the best option from the following:
+ A) bathtub
+ B) procedural
+ C) machine
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",A,"{'bathtub': 'A', 'machine': 'B', 'procedural': 'C'}","{'A': 'bathtub', 'B': 'procedural', 'C': 'machine'}"
+39,"TEXT: In the final analysis, Keynesianism became the economic design whereby the modern capitalist state assumed its present bureaucratic vastness and endemic parasitism. Bureaucratic is procedural.
+QUESTION: Which word is being used metaphorically in the given text? Choose the best option from the following:
+ A) machine
+ B) procedural
+ C) vastness
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",C,"{'vastness': 'A', 'machine': 'B', 'procedural': 'C'}","{'A': 'machine', 'B': 'procedural', 'C': 'vastness'}"
+40,"TEXT: But the cost of gun proliferation in America is far higher then the security it provides. Gun is mechanical.
+QUESTION: Which word is being used metaphorically in the given text? Choose the best option from the following:
+ A) mechanical
+ B) threat
+ C) proliferation
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",C,"{'proliferation': 'A', 'threat': 'B', 'mechanical': 'C'}","{'A': 'mechanical', 'B': 'threat', 'C': 'proliferation'}"
+41,"TEXT: Is that most of your fellow gun worshippers? Gun is concealed.
+QUESTION: Which word is being used metaphorically in the given text? Choose the best option from the following:
+ A) threat
+ B) concealed
+ C) worshippers
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",C,"{'worshippers': 'A', 'threat': 'B', 'concealed': 'C'}","{'A': 'threat', 'B': 'concealed', 'C': 'worshippers'}"
+42,"TEXT: The gun cult and their stooges won't allow it to be released. Gun is metallic.
+QUESTION: Which word is being used metaphorically in the given text? Choose the best option from the following:
+ A) voice
+ B) cult
+ C) metallic
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",B,"{'cult': 'A', 'voice': 'B', 'metallic': 'C'}","{'A': 'voice', 'B': 'cult', 'C': 'metallic'}"
+43,"TEXT: No, we can not agree that taxation is theft because it is not theft. Taxation is controversial.
+QUESTION: Which word is being used metaphorically in the given text? Choose the best option from the following:
+ A) controversial
+ B) theft
+ C) monster
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",B,"{'theft': 'A', 'monster': 'B', 'controversial': 'C'}","{'A': 'controversial', 'B': 'theft', 'C': 'monster'}"
+44,"TEXT: In other cultures, the keeping of records and maintenance of bureaucracy was often dependent on much more laborious processes, or on products that surrendered to the vagaries of time. Bureaucracy is procedural.
+QUESTION: Which word is being used metaphorically in the given text? Choose the best option from the following:
+ A) procedural
+ B) storm
+ C) maintenance
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",C,"{'maintenance': 'A', 'storm': 'B', 'procedural': 'C'}","{'A': 'procedural', 'B': 'storm', 'C': 'maintenance'}"
+45,"TEXT: The bureaucratic pruning the Secretary General has in mind clearly falls well short of the ''50 percent cut in the entire U.N. bureaucracy'' demanded last year by Senator Jesse Helms, the North Carolina Republican who is chairman of the Senate Foreign Relations Committee and the most powerful congressional critic of the United Nations. Bureaucratic is procedural.
+QUESTION: Which word is being used metaphorically in the given text? Choose the best option from the following:
+ A) procedural
+ B) pruning
+ C) machine
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",B,"{'pruning': 'A', 'machine': 'B', 'procedural': 'C'}","{'A': 'procedural', 'B': 'pruning', 'C': 'machine'}"
+46,"TEXT: But even if it did the feminist exploitation of the bureaucracy scarcely justifies a distortion of the law as originally intended. Bureaucracy is inefficient.
+QUESTION: Which word is being used metaphorically in the given text? Choose the best option from the following:
+ A) inefficient
+ B) exploitation
+ C) machine
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",B,"{'exploitation': 'A', 'machine': 'B', 'inefficient': 'C'}","{'A': 'inefficient', 'B': 'exploitation', 'C': 'machine'}"
+47,"TEXT: “This cannot be called poverty migration,” insists Herbert Brücker of the IAB. Poverty is widespread.
+QUESTION: Which word is being used metaphorically in the given text? Choose the best option from the following:
+ A) widespread
+ B) migration
+ C) storm
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",B,"{'migration': 'A', 'storm': 'B', 'widespread': 'C'}","{'A': 'widespread', 'B': 'migration', 'C': 'storm'}"
+48,"TEXT: Wisconsin Republican names notorious election thief to oversee the next election Election is decisive.
+QUESTION: Which word is being used metaphorically in the given text? Choose the best option from the following:
+ A) decisive
+ B) mirror
+ C) thief
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",C,"{'thief': 'A', 'mirror': 'B', 'decisive': 'C'}","{'A': 'decisive', 'B': 'mirror', 'C': 'thief'}"
+49,"TEXT: There is only one way to stop the tax hemorrhage. Tax is federal.
+QUESTION: Which word is being used metaphorically in the given text? Choose the best option from the following:
+ A) federal
+ B) hemorrhage
+ C) storm
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",B,"{'hemorrhage': 'A', 'storm': 'B', 'federal': 'C'}","{'A': 'federal', 'B': 'hemorrhage', 'C': 'storm'}"
+50,"TEXT: * Although it’s now being reported, most of the American public, distracted by the cheerleading, hasn’t noticed that despite the general falseness and blindness of the election, the Iraqis learned enough about who was representing what to give the leaders of our puppet government, led by Ayad Allawi, a thorough whupping. Election is decisive.
+QUESTION: Which word is being used metaphorically in the given text? Choose the best option from the following:
+ A) decisive
+ B) race
+ C) blindness
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",C,"{'blindness': 'A', 'race': 'B', 'decisive': 'C'}","{'A': 'decisive', 'B': 'race', 'C': 'blindness'}"
+51,"TEXT: Inflation in value is not under the control of legislators and is the reason we are suffering from the blight of taxation without representation. Taxation is controversial.
+QUESTION: Which word is being used metaphorically in the given text? Choose the best option from the following:
+ A) blight
+ B) storm
+ C) controversial
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",A,"{'blight': 'A', 'storm': 'B', 'controversial': 'C'}","{'A': 'blight', 'B': 'storm', 'C': 'controversial'}"
+52,"TEXT: Greed is not considered an awful vice in poor communities--everyone reacts differently to the invisible squeeze of poverty. Poverty is widespread.
+QUESTION: Which word is being used metaphorically in the given text? Choose the best option from the following:
+ A) squeeze
+ B) storm
+ C) widespread
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",A,"{'squeeze': 'A', 'storm': 'B', 'widespread': 'C'}","{'A': 'squeeze', 'B': 'storm', 'C': 'widespread'}"
+53,"TEXT: And they don’t have the glamour and veneer of wealth that appeals and dazzles, nor do they have the support of the lobbyists they can promise sweet payouts to once they get into office. Wealth is abundant.
+QUESTION: Which word is being used metaphorically in the given text? Choose the best option from the following:
+ A) veneer
+ B) abundant
+ C) river
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",A,"{'veneer': 'A', 'river': 'B', 'abundant': 'C'}","{'A': 'veneer', 'B': 'abundant', 'C': 'river'}"
+54,"TEXT: Should he succeed, he's likely to bring this poverty propagation to Washington. Poverty is widespread.
+QUESTION: Which word is being used metaphorically in the given text? Choose the best option from the following:
+ A) storm
+ B) propagation
+ C) widespread
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",B,"{'propagation': 'A', 'storm': 'B', 'widespread': 'C'}","{'A': 'storm', 'B': 'propagation', 'C': 'widespread'}"
+55,"TEXT: Because the trajectory of wealth is pointing away from highly indebted, wealth-grabbing, freedom-stealing nations in the west. Wealth is abundant.
+QUESTION: Which word is being used metaphorically in the given text? Choose the best option from the following:
+ A) trajectory
+ B) abundant
+ C) river
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",A,"{'trajectory': 'A', 'river': 'B', 'abundant': 'C'}","{'A': 'trajectory', 'B': 'abundant', 'C': 'river'}"
+56,"TEXT: How do you know if you are on the brink of change and you just need the right bit of information to tip you over the edge into a wealth avalanche? Wealth is abundant.
+QUESTION: Which word is being used metaphorically in the given text? Choose the best option from the following:
+ A) avalanche
+ B) abundant
+ C) river
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",A,"{'avalanche': 'A', 'river': 'B', 'abundant': 'C'}","{'A': 'avalanche', 'B': 'abundant', 'C': 'river'}"
+57,"TEXT: I’ll make this bet – if they do win the Prez prize, you can be sure that the fastest growing industry will not be that in the private sector – it WILL be the non-profits, the social services organizations, that will be feasting off the fat of taxes (e.g., those that are really in it for the business rather than the charitable purposes). Taxes are progressive.
+QUESTION: Which word is being used metaphorically in the given text? Choose the best option from the following:
+ A) storm
+ B) fat
+ C) progressive
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",B,"{'fat': 'A', 'storm': 'B', 'progressive': 'C'}","{'A': 'storm', 'B': 'fat', 'C': 'progressive'}"
+58,"TEXT: Government taxation is a parasite on the economic life of any country. Taxation is controversial.
+QUESTION: Which word is being used metaphorically in the given text? Choose the best option from the following:
+ A) storm
+ B) parasite
+ C) controversial
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",B,"{'parasite': 'A', 'storm': 'B', 'controversial': 'C'}","{'A': 'storm', 'B': 'parasite', 'C': 'controversial'}"
+59,"TEXT: My idea of pursuing happiness does not include the leech of taxation and the loss of freedoms by regulation without representation. Taxation is controversial.
+QUESTION: Which word is being used metaphorically in the given text? Choose the best option from the following:
+ A) leech
+ B) controversial
+ C) chain
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",A,"{'leech': 'A', 'chain': 'B', 'controversial': 'C'}","{'A': 'leech', 'B': 'controversial', 'C': 'chain'}"
+60,"TEXT: Oil wealth pirate and Alaska governor, Sean Parnell. Wealth is abundant.
+QUESTION: Which word is being used metaphorically in the given text? Choose the best option from the following:
+ A) pirate
+ B) abundant
+ C) river
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",A,"{'pirate': 'A', 'river': 'B', 'abundant': 'C'}","{'A': 'pirate', 'B': 'abundant', 'C': 'river'}"
+61,"TEXT: Using a trusty “Academic to English” translator, you get this: “A primary implication of our results is that a government which seeks to prioritize and advance its own internal interests over the interests of citizens will want to reduce the visibility of taxation. Taxation is controversial.
+QUESTION: Which word is being used metaphorically in the given text? Choose the best option from the following:
+ A) controversial
+ B) storm
+ C) visibility
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",C,"{'visibility': 'A', 'storm': 'B', 'controversial': 'C'}","{'A': 'controversial', 'B': 'storm', 'C': 'visibility'}"
+62,"TEXT: The Constitutional seed has been firmly placed, and one of the Sheriffs in New Hampshire has conceded that the Obama's placement on the primary ballot in NH is in clear violation of NH law; in that on November 18, 2011, theBallot Law Commission failed to answer the complaint questioning Obama's eligibility. Constitutional is legislative.
+QUESTION: Which word is being used metaphorically in the given text? Choose the best option from the following:
+ A) seed
+ B) legislative
+ C) compass
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",A,"{'seed': 'A', 'compass': 'B', 'legislative': 'C'}","{'A': 'seed', 'B': 'legislative', 'C': 'compass'}"
+63,"TEXT: Most government job creation the Left wants, however, has the opposite effect. It destroys economic value and results in net job losses. Even in areas where properly structured government programs can add value, such as infrastructure improvement, today’s programs are so poorly conceived that routing more tax dollars into them to “stimulate the economy” is a fool’s errand. Government exists to perform a small number of discrete tasks that are difficult to perform through voluntary means. Beyond that, government is a liability, not an asset — and one that needs to be removed from our balance sheets. [Editorial from the Carolina Journal, September 2011 Government is bureaucratic.
+QUESTION: Which word is being used metaphorically in the given text? Choose the best option from the following:
+ A) machine
+ B) liability
+ C) bureaucratic
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",B,"{'liability': 'A', 'machine': 'B', 'bureaucratic': 'C'}","{'A': 'machine', 'B': 'liability', 'C': 'bureaucratic'}"
+64,"TEXT: We need to return to a constitutional federal government, instead of this bloated leech of bureaucracy. Bureaucracy is inefficient.
+QUESTION: Which word is being used metaphorically in the given text? Choose the best option from the following:
+ A) machine
+ B) inefficient
+ C) leech
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",C,"{'leech': 'A', 'machine': 'B', 'inefficient': 'C'}","{'A': 'machine', 'B': 'inefficient', 'C': 'leech'}"
+65,"TEXT: The Acting Armenian Foreign Minister, Edward Nabandian, added fuel to this diplomatic fire by welcoming the Senate resolution as “an important step” toward establishing “historical truth and prevention of crimes against humanity.” Diplomatic is discreet.
+QUESTION: Which word is being used metaphorically in the given text? Choose the best option from the following:
+ A) discreet
+ B) mirror
+ C) fire
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",C,"{'fire': 'A', 'mirror': 'B', 'discreet': 'C'}","{'A': 'discreet', 'B': 'mirror', 'C': 'fire'}"
+66,"TEXT: Wealth wizards on the art of investing Wealth is abundant.
+QUESTION: Which word is being used metaphorically in the given text? Choose the best option from the following:
+ A) abundant
+ B) river
+ C) wizards
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",C,"{'wizards': 'A', 'river': 'B', 'abundant': 'C'}","{'A': 'abundant', 'B': 'river', 'C': 'wizards'}"
+67,"TEXT: American policymakers don't get it; the politicians don't get it; Fox News certainly doesn't get it; the advocates for various flavors and colors of democracy don't get it. Democracy is participatory.
+QUESTION: Which word is being used metaphorically in the given text? Choose the best option from the following:
+ A) participatory
+ B) colors
+ C) bridge
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",B,"{'colors': 'A', 'bridge': 'B', 'participatory': 'C'}","{'A': 'participatory', 'B': 'colors', 'C': 'bridge'}"
+68,"TEXT: Please come out of your bureaucratic shell and visit the real world. Bureaucratic is procedural.
+QUESTION: Which word is being used metaphorically in the given text? Choose the best option from the following:
+ A) machine
+ B) shell
+ C) procedural
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",B,"{'shell': 'A', 'machine': 'B', 'procedural': 'C'}","{'A': 'machine', 'B': 'shell', 'C': 'procedural'}"
+69,"TEXT: Once when I acknowledged to another poet that, if given the opportunity (i.e. through sudden windfall of cash via lottery winnings, discovery of buried treasure, money tree, or similar), I probably wouldn’t work at all, she said, “You see, you’re buying into the idea that poetry isn’t work.” Money is portable.
+QUESTION: Which word is being used metaphorically in the given text? Choose the best option from the following:
+ A) tree
+ B) portable
+ C) mask
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",A,"{'tree': 'A', 'mask': 'B', 'portable': 'C'}","{'A': 'tree', 'B': 'portable', 'C': 'mask'}"
+70,"TEXT: The FBC was founded at the University of Wisconsin at Madison in 1995 as a Burmese-led political initiative to support Burmese people's aspirations and struggle for democracy and human rights through boycotts, pro-sanctions advocacy and Burma awareness promotion. Democracy is participatory.
+QUESTION: Which word is being used metaphorically in the given text? Choose the best option from the following:
+ A) participatory
+ B) struggle
+ C) bridge
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",B,"{'struggle': 'A', 'bridge': 'B', 'participatory': 'C'}","{'A': 'participatory', 'B': 'struggle', 'C': 'bridge'}"
+71,"TEXT: If in addition to the risks of the investment projects, the investor has to be concerned with the credibility of government policies, or arbitrary government decisions or distortions that threaten long-term price stability in the economy, he/she will be reluctant to invest in contracts that do not provide fixed nominal payoffs. Government is bureaucratic.
+QUESTION: Which word is being used metaphorically in the given text? Choose the best option from the following:
+ A) ship
+ B) decisions
+ C) bureaucratic
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",B,"{'decisions': 'A', 'ship': 'B', 'bureaucratic': 'C'}","{'A': 'ship', 'B': 'decisions', 'C': 'bureaucratic'}"
+72,"TEXT: what's their tax burden been like for the past, say, 5-6 decades or so? fairly low - same story for general burden of governance. which, yes, is a major reason for their incredible economic success. Tax is federal.
+QUESTION: Which word is being used metaphorically in the given text? Choose the best option from the following:
+ A) burden
+ B) federal
+ C) storm
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",A,"{'burden': 'A', 'storm': 'B', 'federal': 'C'}","{'A': 'burden', 'B': 'federal', 'C': 'storm'}"
+73,"TEXT: Shifting the entire tax burden onto landowners would likely result in a disaster from massive hikes in the price of food. Tax is federal.
+QUESTION: Which word is being used metaphorically in the given text? Choose the best option from the following:
+ A) burden
+ B) storm
+ C) federal
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",A,"{'burden': 'A', 'storm': 'B', 'federal': 'C'}","{'A': 'burden', 'B': 'storm', 'C': 'federal'}"
+74,"TEXT: Even an idiot knows that when imports exceed exports you have a net money and wealth drain, a drain that has now reached catastrophic proportions. Wealth is abundant.
+QUESTION: Which word is being used metaphorically in the given text? Choose the best option from the following:
+ A) drain
+ B) river
+ C) abundant
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",A,"{'drain': 'A', 'river': 'B', 'abundant': 'C'}","{'A': 'drain', 'B': 'river', 'C': 'abundant'}"
+75,"TEXT: These are the wealth barrier, the bureaucracy barrier and, lastly, the capital barrier. Bureaucracy is inefficient.
+QUESTION: Which word is being used metaphorically in the given text? Choose the best option from the following:
+ A) inefficient
+ B) machine
+ C) barrier
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",C,"{'barrier': 'A', 'machine': 'B', 'inefficient': 'C'}","{'A': 'inefficient', 'B': 'machine', 'C': 'barrier'}"
+76,"TEXT: I also created an income bucket, Salaries, for the money coming in. Income is variable.
+QUESTION: Which word is being used metaphorically in the given text? Choose the best option from the following:
+ A) variable
+ B) bucket
+ C) compass
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",B,"{'bucket': 'A', 'compass': 'B', 'variable': 'C'}","{'A': 'variable', 'B': 'bucket', 'C': 'compass'}"
+77,"TEXT: Like everyone else, Times opinionaters are slowly recovering from election delirium and are now surveying the landscape. Election is decisive.
+QUESTION: Which word is being used metaphorically in the given text? Choose the best option from the following:
+ A) decisive
+ B) race
+ C) delirium
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",C,"{'delirium': 'A', 'race': 'B', 'decisive': 'C'}","{'A': 'decisive', 'B': 'race', 'C': 'delirium'}"
+78,"TEXT: Governments are fictions and gain their power through the belief of the population that the government has power, when in reality the only power the government has is from the people, if the people cease to blindly believe, the power of the ruling elite could be broken, but this is very unlikely with so much hate in the world and non-caring for your neighbor. Governments are parliamentary.
+QUESTION: Which word is being used metaphorically in the given text? Choose the best option from the following:
+ A) fictions
+ B) parliamentary
+ C) machine
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",A,"{'fictions': 'A', 'machine': 'B', 'parliamentary': 'C'}","{'A': 'fictions', 'B': 'parliamentary', 'C': 'machine'}"
+79,"TEXT: They’re not apostles of the GOP, he says, but because of their conservative outlook he is not part of what he calls the Democratic fantasy of a monolithic youth vote that backs Obama. Democratic is participatory.
+QUESTION: Which word is being used metaphorically in the given text? Choose the best option from the following:
+ A) compass
+ B) fantasy
+ C) participatory
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",B,"{'fantasy': 'A', 'compass': 'B', 'participatory': 'C'}","{'A': 'compass', 'B': 'fantasy', 'C': 'participatory'}"
+80,"TEXT: Demand for the luxury cars is soaring as new wealth floods into Asia, especially China. Wealth is abundant.
+QUESTION: Which word is being used metaphorically in the given text? Choose the best option from the following:
+ A) floods
+ B) fire
+ C) abundant
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",A,"{'floods': 'A', 'fire': 'B', 'abundant': 'C'}","{'A': 'floods', 'B': 'fire', 'C': 'abundant'}"
+81,"TEXT: Preliminary findings of ADB's Poverty Analysis in Pakistan show extreme pockets of poverty in rural Sindh and southern Punjab, whereas the whole province of Balochistan is poor by all indicators of poverty and development. Poverty is widespread.
+QUESTION: Which word is being used metaphorically in the given text? Choose the best option from the following:
+ A) widespread
+ B) storm
+ C) pockets
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",C,"{'pockets': 'A', 'storm': 'B', 'widespread': 'C'}","{'A': 'widespread', 'B': 'storm', 'C': 'pockets'}"
+82,"TEXT: But the flow of firearms to these Caribbean countries goes unchecked through their ports. Firearms are mechanical.
+QUESTION: Which word is being used metaphorically in the given text? Choose the best option from the following:
+ A) human
+ B) flow
+ C) mechanical
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",B,"{'flow': 'A', 'human': 'B', 'mechanical': 'C'}","{'A': 'human', 'B': 'flow', 'C': 'mechanical'}"
+83,"TEXT: In his second term, he has led a high profile national campaign to stem the flow of illegal guns and a local effort to reduce the stubbornly high rate of poverty, which affects one in five residents of a city of vast wealth. Guns are controversial.
+QUESTION: Which word is being used metaphorically in the given text? Choose the best option from the following:
+ A) dragon
+ B) flow
+ C) controversial
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",B,"{'flow': 'A', 'dragon': 'B', 'controversial': 'C'}","{'A': 'dragon', 'B': 'flow', 'C': 'controversial'}"
+84,"TEXT: Our democracy must be not only the envy of the world but the engine of our OWN renewal. Democracy is participatory.
+QUESTION: Which word is being used metaphorically in the given text? Choose the best option from the following:
+ A) tree
+ B) participatory
+ C) envy
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",C,"{'envy': 'A', 'tree': 'B', 'participatory': 'C'}","{'A': 'tree', 'B': 'participatory', 'C': 'envy'}"
+85,"TEXT: Poverty is the mother of crime. Poverty is widespread.
+QUESTION: Which word is being used metaphorically in the given text? Choose the best option from the following:
+ A) mother
+ B) widespread
+ C) storm
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",A,"{'mother': 'A', 'storm': 'B', 'widespread': 'C'}","{'A': 'mother', 'B': 'widespread', 'C': 'storm'}"
+86,"TEXT: We see, in private property and in economy based upon and fostering private property, the one way to make government a durable ally of the whole man, rather than his determined enemy. Government is bureaucratic.
+QUESTION: Which word is being used metaphorically in the given text? Choose the best option from the following:
+ A) ally
+ B) machine
+ C) bureaucratic
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",A,"{'ally': 'A', 'machine': 'B', 'bureaucratic': 'C'}","{'A': 'ally', 'B': 'machine', 'C': 'bureaucratic'}"
+87,"TEXT: First, it wraps the opposition in the mantle of popular democracy. Democracy is participatory.
+QUESTION: Which word is being used metaphorically in the given text? Choose the best option from the following:
+ A) participatory
+ B) bridge
+ C) mantle
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",C,"{'mantle': 'A', 'bridge': 'B', 'participatory': 'C'}","{'A': 'participatory', 'B': 'bridge', 'C': 'mantle'}"
+88,"TEXT: Guns are the tools...gangs are the 'problem'...and OH it would be just SO ****ing inspirational to see those that purport to 'care' actually going after the 'problem' instead of repeatedly and mindlessly targeting firearms in the hands of law abiding citizens. Guns are controversial.
+QUESTION: Which word is being used metaphorically in the given text? Choose the best option from the following:
+ A) dragon
+ B) controversial
+ C) tools
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",C,"{'tools': 'A', 'dragon': 'B', 'controversial': 'C'}","{'A': 'dragon', 'B': 'controversial', 'C': 'tools'}"
+89,"TEXT: Just as West Germany, more importantly, West Berlin, was used as a showcase for democracy, justice, and freedom against the Warsaw Pact; we can use similar frameworks to model Afghanistan to weaken, recruit, and win over the fanatics of the region. Democracy is sovereign.
+QUESTION: Which word is being used metaphorically in the given text? Choose the best option from the following:
+ A) showcase
+ B) sovereign
+ C) bridge
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",A,"{'showcase': 'A', 'bridge': 'B', 'sovereign': 'C'}","{'A': 'showcase', 'B': 'sovereign', 'C': 'bridge'}"
+90,"TEXT: Katherine Newman explores the explosion of working poverty in urban America. Poverty is widespread.
+QUESTION: Which word is being used metaphorically in the given text? Choose the best option from the following:
+ A) storm
+ B) explosion
+ C) widespread
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",B,"{'explosion': 'A', 'storm': 'B', 'widespread': 'C'}","{'A': 'storm', 'B': 'explosion', 'C': 'widespread'}"
+91,"TEXT: Hopefully this can open the eyes of several other european governments. Governments are parliamentary.
+QUESTION: Which word is being used metaphorically in the given text? Choose the best option from the following:
+ A) parliamentary
+ B) machine
+ C) eyes
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",C,"{'eyes': 'A', 'machine': 'B', 'parliamentary': 'C'}","{'A': 'parliamentary', 'B': 'machine', 'C': 'eyes'}"
+92,"TEXT: Just as local experts were revealing their plans to ""fix"" what ails Colorado, a heavy-handed health care overhaul crashed on the rocks in California and Democrat presidential candidates clashed over the appropriate size of government’s health care hammer. Government is bureaucratic.
+QUESTION: Which word is being used metaphorically in the given text? Choose the best option from the following:
+ A) bureaucratic
+ B) ship
+ C) hammer
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",C,"{'hammer': 'A', 'ship': 'B', 'bureaucratic': 'C'}","{'A': 'bureaucratic', 'B': 'ship', 'C': 'hammer'}"
+93,"TEXT: Because the gun is just the next incarnation of what equalizes the weak from the strong. Gun is concealed.
+QUESTION: Which word is being used metaphorically in the given text? Choose the best option from the following:
+ A) threat
+ B) incarnation
+ C) concealed
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",B,"{'incarnation': 'A', 'threat': 'B', 'concealed': 'C'}","{'A': 'threat', 'B': 'incarnation', 'C': 'concealed'}"
+94,"TEXT: A gun, in my opinion, is a tool. Gun is metallic.
+QUESTION: Which word is being used metaphorically in the given text? Choose the best option from the following:
+ A) threat
+ B) tool
+ C) metallic
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",B,"{'tool': 'A', 'threat': 'B', 'metallic': 'C'}","{'A': 'threat', 'B': 'tool', 'C': 'metallic'}"
+95,"TEXT: I frankly think that Redress' language accurately reflects the position of all three branches of our government, and that's frankly just disturbing to me. Government is bureaucratic.
+QUESTION: Which word is being used metaphorically in the given text? Choose the best option from the following:
+ A) machine
+ B) branches
+ C) bureaucratic
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",B,"{'branches': 'A', 'machine': 'B', 'bureaucratic': 'C'}","{'A': 'machine', 'B': 'branches', 'C': 'bureaucratic'}"
+96,"TEXT: The 'obvious' would be that when there is a mass shooting, the anti-gun loons start screaming about more laws. Anti-gun is legislative.
+QUESTION: Which word is being used metaphorically in the given text? Choose the best option from the following:
+ A) wall
+ B) legislative
+ C) loons
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",C,"{'loons': 'A', 'wall': 'B', 'legislative': 'C'}","{'A': 'wall', 'B': 'legislative', 'C': 'loons'}"
+97,"TEXT: A Topical Directory: Search for poverty and crime The Crime of Poverty by Henry George; Global Distribution of Poverty Global poverty ... The Crime of Poverty ... Poverty in the United States - Wikipedia, ... www.topicala.com/tag/poverty%20and%20crime Poverty is widespread.
+QUESTION: Which word is being used metaphorically in the given text? Choose the best option from the following:
+ A) widespread
+ B) crime
+ C) storm
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",B,"{'crime': 'A', 'storm': 'B', 'widespread': 'C'}","{'A': 'widespread', 'B': 'crime', 'C': 'storm'}"
+98,"TEXT: At this critical juncture between the promise and its realization, poverty remains a complex puzzle. Poverty is widespread.
+QUESTION: Which word is being used metaphorically in the given text? Choose the best option from the following:
+ A) widespread
+ B) puzzle
+ C) storm
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",B,"{'puzzle': 'A', 'storm': 'B', 'widespread': 'C'}","{'A': 'widespread', 'B': 'puzzle', 'C': 'storm'}"
+99,"TEXT: One way and another, that could let the Legislature open the tax door a lot wider than voters wanted when they passed I-1053. Tax is federal.
+QUESTION: Which word is being used metaphorically in the given text? Choose the best option from the following:
+ A) shadow
+ B) door
+ C) federal
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",B,"{'door': 'A', 'shadow': 'B', 'federal': 'C'}","{'A': 'shadow', 'B': 'door', 'C': 'federal'}"
+100,"TEXT: Government is a factory that produces only two products Government is bureaucratic.
+QUESTION: Which word is being used metaphorically in the given text? Choose the best option from the following:
+ A) factory
+ B) bureaucratic
+ C) ship
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",A,"{'factory': 'A', 'ship': 'B', 'bureaucratic': 'C'}","{'A': 'factory', 'B': 'bureaucratic', 'C': 'ship'}"
+101,"TEXT: How to Build a Fortune [With CD-ROM with Workbook and Trump Cards and DVD] 4.75 of 5 stars 4.75  ·  rating details  ·  4 ratings  ·  3 reviews Learn from a true master of wealth how to create your own personal fortune! Wealth is abundant.
+QUESTION: Which word is being used metaphorically in the given text? Choose the best option from the following:
+ A) master
+ B) abundant
+ C) river
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",A,"{'master': 'A', 'river': 'B', 'abundant': 'C'}","{'A': 'master', 'B': 'abundant', 'C': 'river'}"
+102,"TEXT: The Rothschilds were the servants of money who undertook the reconstruct the world as an image of money and its functions. Money is portable.
+QUESTION: Which word is being used metaphorically in the given text? Choose the best option from the following:
+ A) servants
+ B) portable
+ C) mirror
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",A,"{'servants': 'A', 'mirror': 'B', 'portable': 'C'}","{'A': 'servants', 'B': 'portable', 'C': 'mirror'}"
+103,"TEXT: Instead, many religions simply accumulate countless millions of dollars in assets, including vast amounts of property, huge and lavish church buildings, and unceasing luxury for their leaders - this although virtually all religions teach that excessive wealth is a barrier to salvation. Wealth is abundant.
+QUESTION: Which word is being used metaphorically in the given text? Choose the best option from the following:
+ A) barrier
+ B) abundant
+ C) river
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",A,"{'barrier': 'A', 'river': 'B', 'abundant': 'C'}","{'A': 'barrier', 'B': 'abundant', 'C': 'river'}"
+104,"TEXT: You’re bound to experience the Kafkaesque horrors of Czech bureaucracy eventually – there’s really no way of escaping it. Bureaucracy is inefficient.
+QUESTION: Which word is being used metaphorically in the given text? Choose the best option from the following:
+ A) horrors
+ B) inefficient
+ C) storm
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",A,"{'horrors': 'A', 'storm': 'B', 'inefficient': 'C'}","{'A': 'horrors', 'B': 'inefficient', 'C': 'storm'}"
+105,"TEXT: I am not aware of another developed country that has had a similar romance of the gun. Gun is metallic.
+QUESTION: Which word is being used metaphorically in the given text? Choose the best option from the following:
+ A) threat
+ B) romance
+ C) metallic
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",B,"{'romance': 'A', 'threat': 'B', 'metallic': 'C'}","{'A': 'threat', 'B': 'romance', 'C': 'metallic'}"
+106,"TEXT: AMT (the tax bubble for the semi-rich that we should eliminate) is a second contributor to the regressive nature of our current income tax system. Tax is federal.
+QUESTION: Which word is being used metaphorically in the given text? Choose the best option from the following:
+ A) storm
+ B) bubble
+ C) federal
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",B,"{'bubble': 'A', 'storm': 'B', 'federal': 'C'}","{'A': 'storm', 'B': 'bubble', 'C': 'federal'}"
+107,"TEXT: In making these claims Jacobson seeks to revise the work of Oscar Handlin and John Higham, who have depicted racism as periodically causing aberrations in America's grand odyssey of democracy, not as a ""language and a logic"" that caught white as well as black and red others in its grasp throughout America's history (135, 164, 274). Democracy is challenging.
+QUESTION: Which word is being used metaphorically in the given text? Choose the best option from the following:
+ A) bridge
+ B) odyssey
+ C) challenging
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",B,"{'odyssey': 'A', 'bridge': 'B', 'challenging': 'C'}","{'A': 'bridge', 'B': 'odyssey', 'C': 'challenging'}"
+108,"TEXT: Democracy is a circle where each and everybody have equal distance from the center, a center which represents the one voice for all. Democracy is challenging.
+QUESTION: Which word is being used metaphorically in the given text? Choose the best option from the following:
+ A) circle
+ B) challenging
+ C) bridge
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",A,"{'circle': 'A', 'bridge': 'B', 'challenging': 'C'}","{'A': 'circle', 'B': 'challenging', 'C': 'bridge'}"
+109,"TEXT: But since citizens are so distant and disconnected from the government, does this mean that democracy is a fantasy? Democracy is participatory.
+QUESTION: Which word is being used metaphorically in the given text? Choose the best option from the following:
+ A) participatory
+ B) fantasy
+ C) bridge
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",B,"{'fantasy': 'A', 'bridge': 'B', 'participatory': 'C'}","{'A': 'participatory', 'B': 'fantasy', 'C': 'bridge'}"
+110,"TEXT: ""Press freedom is the thermometer of democracy. Democracy is challenging.
+QUESTION: Which word is being used metaphorically in the given text? Choose the best option from the following:
+ A) thermometer
+ B) challenging
+ C) bridge
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",A,"{'thermometer': 'A', 'bridge': 'B', 'challenging': 'C'}","{'A': 'thermometer', 'B': 'challenging', 'C': 'bridge'}"
+111,"TEXT: In Ohio Romney won 72 of 88 counties but lost due to a tsunami of votes in Democrat-controlled Cleveland Votes are absentee.
+QUESTION: Which word is being used metaphorically in the given text? Choose the best option from the following:
+ A) mirror
+ B) absentee
+ C) tsunami
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",C,"{'tsunami': 'A', 'mirror': 'B', 'absentee': 'C'}","{'A': 'mirror', 'B': 'absentee', 'C': 'tsunami'}"
+112,"TEXT: ""It's a calculated risk, because if they go down, the state will have even bigger fiscal problems, and his reputation for ballot-box magic will take a hit."" Ballot-box is plastic.
+QUESTION: Which word is being used metaphorically in the given text? Choose the best option from the following:
+ A) magic
+ B) plastic
+ C) voice
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",A,"{'magic': 'A', 'voice': 'B', 'plastic': 'C'}","{'A': 'magic', 'B': 'plastic', 'C': 'voice'}"
+113,"TEXT: he debate over the automatic cuts parallels the presidential election duel over fiscal visions between President Obama and Mitt Romney. Election is controversial.
+QUESTION: Which word is being used metaphorically in the given text? Choose the best option from the following:
+ A) duel
+ B) race
+ C) controversial
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",A,"{'duel': 'A', 'race': 'B', 'controversial': 'C'}","{'A': 'duel', 'B': 'race', 'C': 'controversial'}"
+114,"TEXT: This seems like familiar bureaucratic jealousy of rival agencies, though the Commission ascribes the fbi behavior to an “unduly restrictive view of its role.” Bureaucratic is procedural.
+QUESTION: Which word is being used metaphorically in the given text? Choose the best option from the following:
+ A) jealousy
+ B) machine
+ C) procedural
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",A,"{'jealousy': 'A', 'machine': 'B', 'procedural': 'C'}","{'A': 'jealousy', 'B': 'machine', 'C': 'procedural'}"
+115,"TEXT: He advocates for the burning of bureaucracy, noting that though most New England police stations are made of brick or stone, their roofs are still wood, and providing instructions on how to make a Molotov cocktail. Bureaucracy is inefficient.
+QUESTION: Which word is being used metaphorically in the given text? Choose the best option from the following:
+ A) burning
+ B) machine
+ C) inefficient
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",A,"{'burning': 'A', 'machine': 'B', 'inefficient': 'C'}","{'A': 'burning', 'B': 'machine', 'C': 'inefficient'}"
+116,"TEXT: Cheers from a fellow bureaucratic traveler. Bureaucratic is procedural.
+QUESTION: Which word is being used metaphorically in the given text? Choose the best option from the following:
+ A) machine
+ B) procedural
+ C) traveler
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",C,"{'traveler': 'A', 'machine': 'B', 'procedural': 'C'}","{'A': 'machine', 'B': 'procedural', 'C': 'traveler'}"
+117,"TEXT: The unloading of bureaucracy could be achieved by ensuring a comprehensive and understandable map of qualifications and a range of informed brokerage services. Bureaucracy is procedural.
+QUESTION: Which word is being used metaphorically in the given text? Choose the best option from the following:
+ A) unloading
+ B) procedural
+ C) machine
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",A,"{'unloading': 'A', 'machine': 'B', 'procedural': 'C'}","{'A': 'unloading', 'B': 'procedural', 'C': 'machine'}"
+118,"TEXT: Although the relationships between them and the other participants in public policy making can theoretically range from bureaucratic dominance, or at least autonomy, to passive bureaucratic subservience, most political scientists tend to treat American bureaucrats as significant but not commanding partners in the interplay of checks and balances in the political process. Bureaucratic is procedural.
+QUESTION: Which word is being used metaphorically in the given text? Choose the best option from the following:
+ A) machine
+ B) procedural
+ C) subservience
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",C,"{'subservience': 'A', 'machine': 'B', 'procedural': 'C'}","{'A': 'machine', 'B': 'procedural', 'C': 'subservience'}"
+119,"TEXT: Over the past two years, a fellow dubbed the “Obama Robber” has donned a disguise bearing Barack’s image and mimicked the world’s highest-ranking bureaucratic burglar while proceeding to empty the coffers of more than a few Austrian financial institutions. Bureaucratic is procedural.
+QUESTION: Which word is being used metaphorically in the given text? Choose the best option from the following:
+ A) machine
+ B) procedural
+ C) burglar
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",C,"{'burglar': 'A', 'machine': 'B', 'procedural': 'C'}","{'A': 'machine', 'B': 'procedural', 'C': 'burglar'}"
+120,"TEXT: Can the current combination of positive social change and government regression continue indefinitely? Government is bureaucratic.
+QUESTION: Which word is being used metaphorically in the given text? Choose the best option from the following:
+ A) regression
+ B) bureaucratic
+ C) machine
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",A,"{'regression': 'A', 'machine': 'B', 'bureaucratic': 'C'}","{'A': 'regression', 'B': 'bureaucratic', 'C': 'machine'}"
+121,"TEXT: It’s not that the villains they’ve identified don’t share in the blame, because they’ve all played a part in the unraveling of government. Government is bureaucratic.
+QUESTION: Which word is being used metaphorically in the given text? Choose the best option from the following:
+ A) machine
+ B) bureaucratic
+ C) unraveling
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",C,"{'unraveling': 'A', 'machine': 'B', 'bureaucratic': 'C'}","{'A': 'machine', 'B': 'bureaucratic', 'C': 'unraveling'}"
+122,"TEXT: The fact remains that technology will be the death of government. Government is bureaucratic.
+QUESTION: Which word is being used metaphorically in the given text? Choose the best option from the following:
+ A) machine
+ B) bureaucratic
+ C) death
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",C,"{'death': 'A', 'machine': 'B', 'bureaucratic': 'C'}","{'A': 'machine', 'B': 'bureaucratic', 'C': 'death'}"
+123,"TEXT: The flexibility of the marketplace is constantly praised over the rigidity of government. Government is bureaucratic.
+QUESTION: Which word is being used metaphorically in the given text? Choose the best option from the following:
+ A) rigidity
+ B) bureaucratic
+ C) machine
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",A,"{'rigidity': 'A', 'machine': 'B', 'bureaucratic': 'C'}","{'A': 'rigidity', 'B': 'bureaucratic', 'C': 'machine'}"
+124,"TEXT: On every continent in every age men have sought escape from poverty’s oppression. Poverty’s are widespread.
+QUESTION: Which word is being used metaphorically in the given text? Choose the best option from the following:
+ A) widespread
+ B) storm
+ C) oppression
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",C,"{'oppression': 'A', 'storm': 'B', 'widespread': 'C'}","{'A': 'widespread', 'B': 'storm', 'C': 'oppression'}"
+125,"TEXT: The living conditions of most Mauritanians have worsened, and, more important, their vulnerability to poverty has increased and the threat of poverty loom persistently in the background. Poverty is widespread.
+QUESTION: Which word is being used metaphorically in the given text? Choose the best option from the following:
+ A) widespread
+ B) storm
+ C) threat
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",C,"{'threat': 'A', 'storm': 'B', 'widespread': 'C'}","{'A': 'widespread', 'B': 'storm', 'C': 'threat'}"
+126,"TEXT: We'd provide the guns and the ammo as a way of dispelling the perceived taint of guns. Guns are controversial.
+QUESTION: Which word is being used metaphorically in the given text? Choose the best option from the following:
+ A) taint
+ B) dragon
+ C) controversial
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",A,"{'taint': 'A', 'dragon': 'B', 'controversial': 'C'}","{'A': 'taint', 'B': 'dragon', 'C': 'controversial'}"
+127,"TEXT: You then calmly get out of bed, go to the kitchen to get the key to the guncase out of hte sugar, you get the gun body, and the key to the bookcase that has the cylinder. Gun is metallic.
+QUESTION: Which word is being used metaphorically in the given text? Choose the best option from the following:
+ A) voice
+ B) metallic
+ C) body
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",C,"{'body': 'A', 'voice': 'B', 'metallic': 'C'}","{'A': 'voice', 'B': 'metallic', 'C': 'body'}"
+128,"TEXT: Now his space shuttle is in a museum, so he's trying to fly on the coat-tails of BHO's one-way anti-gun trip to Utopia. Anti-gun is legislative.
+QUESTION: Which word is being used metaphorically in the given text? Choose the best option from the following:
+ A) shield
+ B) legislative
+ C) trip
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",C,"{'trip': 'A', 'shield': 'B', 'legislative': 'C'}","{'A': 'shield', 'B': 'legislative', 'C': 'trip'}"
+129,"TEXT: They’re hell bent on returning America to their vision of the Wild West, which isn’t the gun haven they imagine it was. Gun is metallic.
+QUESTION: Which word is being used metaphorically in the given text? Choose the best option from the following:
+ A) haven
+ B) metallic
+ C) hammer
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",A,"{'haven': 'A', 'hammer': 'B', 'metallic': 'C'}","{'A': 'haven', 'B': 'metallic', 'C': 'hammer'}"
+130,"TEXT: ""And if you're not going to reduce the volume of guns, make the ammunition expensive so that every time you point a gun at somebody and you're going to pull the trigger, think, is that life worth $5,000 for a bullet?"" Guns are controversial.
+QUESTION: Which word is being used metaphorically in the given text? Choose the best option from the following:
+ A) controversial
+ B) dragon
+ C) volume
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",C,"{'volume': 'A', 'dragon': 'B', 'controversial': 'C'}","{'A': 'controversial', 'B': 'dragon', 'C': 'volume'}"
+131,"TEXT: The more you seriously think about real self-defense, instead relying on magical gun talisman, the more you realize what a small part firing your gun plays. Gun is concealed.
+QUESTION: Which word is being used metaphorically in the given text? Choose the best option from the following:
+ A) concealed
+ B) hammer
+ C) talisman
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",C,"{'talisman': 'A', 'hammer': 'B', 'concealed': 'C'}","{'A': 'concealed', 'B': 'hammer', 'C': 'talisman'}"
+132,"TEXT: The businessman’s tool is values; the bureaucrat’s tool is fear. Bureaucrat is diligent.
+QUESTION: Which word is being used metaphorically in the given text? Choose the best option from the following:
+ A) diligent
+ B) tool
+ C) machine
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",B,"{'tool': 'A', 'machine': 'B', 'diligent': 'C'}","{'A': 'diligent', 'B': 'tool', 'C': 'machine'}"
+133,"TEXT: So we hope the start of 2013 — with the addition of a promising at-large member and plans for an improved committee structure — will usher in a chapter of government in which the only ambitions that matter are those of a growing city. Government is bureaucratic.
+QUESTION: Which word is being used metaphorically in the given text? Choose the best option from the following:
+ A) bureaucratic
+ B) machine
+ C) chapter
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",C,"{'chapter': 'A', 'machine': 'B', 'bureaucratic': 'C'}","{'A': 'bureaucratic', 'B': 'machine', 'C': 'chapter'}"
+134,"TEXT: Sitting on a sidewalk for hours is business of the homeless, so people go to beaches to sunbathe and loiter. Homeless are marginalized.
+QUESTION: Which word is being used metaphorically in the given text? Choose the best option from the following:
+ A) business
+ B) marginalized
+ C) canvas
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",A,"{'business': 'A', 'canvas': 'B', 'marginalized': 'C'}","{'A': 'business', 'B': 'marginalized', 'C': 'canvas'}"
+135,"TEXT: What is great about this resource is that it targets every possible area and route of poverty, rather than focusing on the traditional case studies of African poverty. Poverty is widespread.
+QUESTION: Which word is being used metaphorically in the given text? Choose the best option from the following:
+ A) storm
+ B) widespread
+ C) route
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",C,"{'route': 'A', 'storm': 'B', 'widespread': 'C'}","{'A': 'storm', 'B': 'widespread', 'C': 'route'}"
+136,"TEXT: The “stimulus” bill will only stimulate production of taxes and money to cover the trillion dollar debts “as far as the eye can see.” Taxes are progressive.
+QUESTION: Which word is being used metaphorically in the given text? Choose the best option from the following:
+ A) progressive
+ B) storm
+ C) production
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",C,"{'production': 'A', 'storm': 'B', 'progressive': 'C'}","{'A': 'progressive', 'B': 'storm', 'C': 'production'}"
+137,"TEXT: While our president is deciding “whose ass to kick,” as he said most un-presidentially in an interview last night, we are perhaps in the first stages of a tax exodus asset selloff in the U.S. stock markets. Tax is federal.
+QUESTION: Which word is being used metaphorically in the given text? Choose the best option from the following:
+ A) federal
+ B) exodus
+ C) storm
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",B,"{'exodus': 'A', 'storm': 'B', 'federal': 'C'}","{'A': 'federal', 'B': 'exodus', 'C': 'storm'}"
+138,"TEXT: “I am afraid the divorce of wealth from power will probably not only lead to the unfair treatment of many businessmen and former politicians, but might also take Egypt in a direction that will be devastating for the economy and the prospects of democracy. Wealth is abundant.
+QUESTION: Which word is being used metaphorically in the given text? Choose the best option from the following:
+ A) river
+ B) divorce
+ C) abundant
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",B,"{'divorce': 'A', 'river': 'B', 'abundant': 'C'}","{'A': 'river', 'B': 'divorce', 'C': 'abundant'}"
+139,"TEXT: Income is the most inaccurate judge of wealth. Wealth is abundant.
+QUESTION: Which word is being used metaphorically in the given text? Choose the best option from the following:
+ A) river
+ B) abundant
+ C) judge
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",C,"{'judge': 'A', 'river': 'B', 'abundant': 'C'}","{'A': 'river', 'B': 'abundant', 'C': 'judge'}"
+140,"TEXT: They just didn't know any better because of the wealthy soup they swim in. Wealthy is prosperous.
+QUESTION: Which word is being used metaphorically in the given text? Choose the best option from the following:
+ A) prosperous
+ B) soup
+ C) overflowing
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",B,"{'soup': 'A', 'overflowing': 'B', 'prosperous': 'C'}","{'A': 'prosperous', 'B': 'soup', 'C': 'overflowing'}"
+141,"TEXT: It is time we come together and hold the NRA lapdogs accountable for the lives that are being lost every day because of their despicable behavior,” said Dan Gross, president of the Brady Campaign to Prevent Gun Violence. Nra is influential.
+QUESTION: Which word is being used metaphorically in the given text? Choose the best option from the following:
+ A) lapdogs
+ B) influential
+ C) force
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",A,"{'lapdogs': 'A', 'force': 'B', 'influential': 'C'}","{'A': 'lapdogs', 'B': 'influential', 'C': 'force'}"
+142,"TEXT: The gun ordinance also addresses what police and others believe is a big reason for what they say is a flood of illegal guns into Chicago and why the city’s police officers seize more illegal guns than any police department in the United States: The sale of guns by so-called straw purchasers, who then transfer them to people who are not legally allowed to buy and possess firearms. Guns are controversial.
+QUESTION: Which word is being used metaphorically in the given text? Choose the best option from the following:
+ A) flood
+ B) dragon
+ C) controversial
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",A,"{'flood': 'A', 'dragon': 'B', 'controversial': 'C'}","{'A': 'flood', 'B': 'dragon', 'C': 'controversial'}"
+143,"TEXT: NRA fingerprints in landmark health-care law Nra is advocacy.
+QUESTION: Which word is being used metaphorically in the given text? Choose the best option from the following:
+ A) force
+ B) fingerprints
+ C) advocacy
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",B,"{'fingerprints': 'A', 'force': 'B', 'advocacy': 'C'}","{'A': 'force', 'B': 'fingerprints', 'C': 'advocacy'}"
+144,"TEXT: I would add that the author goes on to write this after his other article on the ""top 10 gun myths"" is trounced and laughable filled with such lies like ""armed citizens"" have never stopped a mass shooting. Gun is concealed.
+QUESTION: Which word is being used metaphorically in the given text? Choose the best option from the following:
+ A) threat
+ B) myths
+ C) concealed
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",B,"{'myths': 'A', 'threat': 'B', 'concealed': 'C'}","{'A': 'threat', 'B': 'myths', 'C': 'concealed'}"
+145,"TEXT: It has nothing to do with the avalanche of firearms or the current epidemic of gun violence in our society. Firearms are mechanical.
+QUESTION: Which word is being used metaphorically in the given text? Choose the best option from the following:
+ A) avalanche
+ B) mechanical
+ C) human
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",A,"{'avalanche': 'A', 'human': 'B', 'mechanical': 'C'}","{'A': 'avalanche', 'B': 'mechanical', 'C': 'human'}"
+146,"TEXT: In the days of smoothbore muskets, soldiers compensated for the guns’ inaccuracy by standing shoulder to shoulder and firing in unison, creating a wall of bullets. Bullets are metallic.
+QUESTION: Which word is being used metaphorically in the given text? Choose the best option from the following:
+ A) wall
+ B) metallic
+ C) storm
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",A,"{'wall': 'A', 'storm': 'B', 'metallic': 'C'}","{'A': 'wall', 'B': 'metallic', 'C': 'storm'}"
+147,"TEXT: Do you stand for the Republic for which it stands or the do we stand for the ravings of Democracy. Democracy is participatory.
+QUESTION: Which word is being used metaphorically in the given text? Choose the best option from the following:
+ A) ravings
+ B) bridge
+ C) participatory
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",A,"{'ravings': 'A', 'bridge': 'B', 'participatory': 'C'}","{'A': 'ravings', 'B': 'bridge', 'C': 'participatory'}"
+148,"TEXT: American leaders were ill-prepared to grasp this because the Republicans were still besotted with an idealistic vision of American democracy propounded by the Democratic Party in the first half of the last century and utterly incapable of understanding that democracy is a tool and it only works in the hands of a people of good character. Democracy is participatory.
+QUESTION: Which word is being used metaphorically in the given text? Choose the best option from the following:
+ A) participatory
+ B) tool
+ C) bridge
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",B,"{'tool': 'A', 'bridge': 'B', 'participatory': 'C'}","{'A': 'participatory', 'B': 'tool', 'C': 'bridge'}"
+149,"TEXT: Message control is paramount to modern campaigns, but it’s also a candidate’s straitjacket hemmed in by voter interests, poll-tested buzz words, and obligatory nods to patriotism and family. Candidate’s are dedicated.
+QUESTION: Which word is being used metaphorically in the given text? Choose the best option from the following:
+ A) canvas
+ B) straitjacket
+ C) dedicated
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",B,"{'straitjacket': 'A', 'canvas': 'B', 'dedicated': 'C'}","{'A': 'canvas', 'B': 'straitjacket', 'C': 'dedicated'}"
+150,"TEXT: Terror as an election tool in Zimbabwe In March, the Zimbabwe election commission confirmed that Robert Mugabe and his party, ZANU-PF, had lost control of Parliament. Election is controversial.
+QUESTION: Which word is being used metaphorically in the given text? Choose the best option from the following:
+ A) controversial
+ B) tool
+ C) race
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",B,"{'tool': 'A', 'race': 'B', 'controversial': 'C'}","{'A': 'controversial', 'B': 'tool', 'C': 'race'}"
+151,"TEXT: Again the bewitched-line-of-thought has to strike someone, which made me realize that poverty is a malaise that makes people want more than is given to them. Poverty is widespread.
+QUESTION: Which word is being used metaphorically in the given text? Choose the best option from the following:
+ A) malaise
+ B) storm
+ C) widespread
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",A,"{'malaise': 'A', 'storm': 'B', 'widespread': 'C'}","{'A': 'malaise', 'B': 'storm', 'C': 'widespread'}"
+152,"TEXT: If the Scotish and the Irish can raise themselves from the stupidity of poverty I see no reason why the circle arbitrairily closes at hispanics. Poverty is widespread.
+QUESTION: Which word is being used metaphorically in the given text? Choose the best option from the following:
+ A) widespread
+ B) stupidity
+ C) storm
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",B,"{'stupidity': 'A', 'storm': 'B', 'widespread': 'C'}","{'A': 'widespread', 'B': 'stupidity', 'C': 'storm'}"
+153,"TEXT: Taxation is a man made curse, however it can be used for the benefit of many, but we should not confuse it with the issue of mis-selling apartments for rental and then later the enforcement of the 1995 tourist laws, where the only beneficiary appears to be the “Sole Agent” I Dont Belive It on 5 April 2013 at 10:41 pm Taxation is controversial.
+QUESTION: Which word is being used metaphorically in the given text? Choose the best option from the following:
+ A) storm
+ B) controversial
+ C) curse
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",C,"{'curse': 'A', 'storm': 'B', 'controversial': 'C'}","{'A': 'storm', 'B': 'controversial', 'C': 'curse'}"
+154,"TEXT: The power craving madman of wealth has been a staple for movies of all sorts, in fact. Wealth is abundant.
+QUESTION: Which word is being used metaphorically in the given text? Choose the best option from the following:
+ A) river
+ B) madman
+ C) abundant
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",B,"{'madman': 'A', 'river': 'B', 'abundant': 'C'}","{'A': 'river', 'B': 'madman', 'C': 'abundant'}"
+155,"TEXT: So this myopic aversion of the NRA and fellow gun advocates to gun reform and background checks is baffling. Nra is influential.
+QUESTION: Which word is being used metaphorically in the given text? Choose the best option from the following:
+ A) force
+ B) aversion
+ C) influential
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",B,"{'aversion': 'A', 'force': 'B', 'influential': 'C'}","{'A': 'force', 'B': 'aversion', 'C': 'influential'}"
+156,"TEXT: They live in bondage to the NRA, these cowards, and if just one of them escapes the slavery and lives to tell the tale, others will follow. - See more at: http://www.thomhartmann.com/forum/2013/04/nra-may-have-won-temporary-victory-it-can%E2%80%99t-keep-winning-forever#sthash.rL9uS0BJ.dpuf Nra is influential.
+QUESTION: Which word is being used metaphorically in the given text? Choose the best option from the following:
+ A) bondage
+ B) force
+ C) influential
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",A,"{'bondage': 'A', 'force': 'B', 'influential': 'C'}","{'A': 'bondage', 'B': 'force', 'C': 'influential'}"
+157,"TEXT: Like any tool, the tool of government can be used well or used poorly.آ  As someone working in government, I’m committed to using it well. Government is municipal.
+QUESTION: Which word is being used metaphorically in the given text? Choose the best option from the following:
+ A) municipal
+ B) machine
+ C) tool
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",C,"{'tool': 'A', 'machine': 'B', 'municipal': 'C'}","{'A': 'municipal', 'B': 'machine', 'C': 'tool'}"
+158,"TEXT: Washington, in defiance of the NRA, passed an initiative to require criminal and mental-health checks on gun buyers. Nra is influential.
+QUESTION: Which word is being used metaphorically in the given text? Choose the best option from the following:
+ A) defiance
+ B) force
+ C) influential
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",A,"{'defiance': 'A', 'force': 'B', 'influential': 'C'}","{'A': 'defiance', 'B': 'force', 'C': 'influential'}"
+159,"TEXT: Thank you, Congress, for being the slave of the NRA- you cowardly, spineless, self serving sons of Satan. Nra is influential.
+QUESTION: Which word is being used metaphorically in the given text? Choose the best option from the following:
+ A) force
+ B) slave
+ C) influential
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",B,"{'slave': 'A', 'force': 'B', 'influential': 'C'}","{'A': 'force', 'B': 'slave', 'C': 'influential'}"
+160,"TEXT: Guns are accidents waiting to happen. Guns are controversial.
+QUESTION: Which word is being used metaphorically in the given text? Choose the best option from the following:
+ A) accidents
+ B) shadow
+ C) controversial
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",A,"{'accidents': 'A', 'shadow': 'B', 'controversial': 'C'}","{'A': 'accidents', 'B': 'shadow', 'C': 'controversial'}"
+161,"TEXT: Considering the gaza line is being filled by water etc, supposedly in order to block out the weapons smugglers, I hope HAMAS will lose its artery of guns. Guns are controversial.
+QUESTION: Which word is being used metaphorically in the given text? Choose the best option from the following:
+ A) controversial
+ B) shadow
+ C) artery
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",C,"{'artery': 'A', 'shadow': 'B', 'controversial': 'C'}","{'A': 'controversial', 'B': 'shadow', 'C': 'artery'}"
+162,"TEXT: In 3"" guns they're about the only option, but 3"" guns are a sinkhole of unreliability anyways. Guns are controversial.
+QUESTION: Which word is being used metaphorically in the given text? Choose the best option from the following:
+ A) sinkhole
+ B) controversial
+ C) shadow
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",A,"{'sinkhole': 'A', 'shadow': 'B', 'controversial': 'C'}","{'A': 'sinkhole', 'B': 'controversial', 'C': 'shadow'}"
+163,"TEXT: I’ve never been a maniac of guns, I’ve never shot to anyone, before… well… before this…” Guns are controversial.
+QUESTION: Which word is being used metaphorically in the given text? Choose the best option from the following:
+ A) controversial
+ B) maniac
+ C) dragon
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",B,"{'maniac': 'A', 'dragon': 'B', 'controversial': 'C'}","{'A': 'controversial', 'B': 'maniac', 'C': 'dragon'}"
+164,"TEXT: I couldn't get the gun to group inside of 3"" so I took it and the targets to a gun magician I know. Gun is metallic.
+QUESTION: Which word is being used metaphorically in the given text? Choose the best option from the following:
+ A) metallic
+ B) storm
+ C) magician
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",C,"{'magician': 'A', 'storm': 'B', 'metallic': 'C'}","{'A': 'metallic', 'B': 'storm', 'C': 'magician'}"
+165,"TEXT: As a former felony prosecutor, I have seen the havoc of guns on the victim’s families, their community and even on the shooter’s family. Guns are controversial.
+QUESTION: Which word is being used metaphorically in the given text? Choose the best option from the following:
+ A) controversial
+ B) dragon
+ C) havoc
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",C,"{'havoc': 'A', 'dragon': 'B', 'controversial': 'C'}","{'A': 'controversial', 'B': 'dragon', 'C': 'havoc'}"
+166,"TEXT: According to the survey,The United States of America,which has 90 guns for every 100 citizens,is the world's biggest haven of guns. Guns are controversial.
+QUESTION: Which word is being used metaphorically in the given text? Choose the best option from the following:
+ A) dragon
+ B) haven
+ C) controversial
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",B,"{'haven': 'A', 'dragon': 'B', 'controversial': 'C'}","{'A': 'dragon', 'B': 'haven', 'C': 'controversial'}"
+167,"TEXT: And he has focused on gun suppression: There was a 13 percent increase in gun arrests in the city from 2005 to 2006. Gun is concealed.
+QUESTION: Which word is being used metaphorically in the given text? Choose the best option from the following:
+ A) dragon
+ B) suppression
+ C) concealed
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",B,"{'suppression': 'A', 'dragon': 'B', 'concealed': 'C'}","{'A': 'dragon', 'B': 'suppression', 'C': 'concealed'}"
+168,"TEXT: To him, the gun is a hammer. Gun is concealed.
+QUESTION: Which word is being used metaphorically in the given text? Choose the best option from the following:
+ A) concealed
+ B) voice
+ C) hammer
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",C,"{'hammer': 'A', 'voice': 'B', 'concealed': 'C'}","{'A': 'concealed', 'B': 'voice', 'C': 'hammer'}"
+169,"TEXT: 08-23-2010 I thoroughly detest the stupid fragility of guns in this game. Guns are controversial.
+QUESTION: Which word is being used metaphorically in the given text? Choose the best option from the following:
+ A) controversial
+ B) fragility
+ C) dragon
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",B,"{'fragility': 'A', 'dragon': 'B', 'controversial': 'C'}","{'A': 'controversial', 'B': 'fragility', 'C': 'dragon'}"
+170,"TEXT: Yet if we are to rescue the people of South Asia from the scourge of poverty, disease, war, ignorance, pestilence and hunger, this is the model to follow. Poverty is widespread.
+QUESTION: Which word is being used metaphorically in the given text? Choose the best option from the following:
+ A) scourge
+ B) widespread
+ C) storm
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",A,"{'scourge': 'A', 'storm': 'B', 'widespread': 'C'}","{'A': 'scourge', 'B': 'widespread', 'C': 'storm'}"
+171,"TEXT: The examples and case studies he places under the microscope range from the ancient to the modern, and from the popular to the unpopular faces of populism, as well as from classical to parliamentary to postmodern and cultural politics. Populism is widespread.
+QUESTION: Which word is being used metaphorically in the given text? Choose the best option from the following:
+ A) widespread
+ B) mirror
+ C) faces
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",C,"{'faces': 'A', 'mirror': 'B', 'widespread': 'C'}","{'A': 'widespread', 'B': 'mirror', 'C': 'faces'}"
+172,"TEXT: In the chart below, also set for end date 21 December 2012, you can see the pattern of the wave for the invasion of Poland on 1st September 1939. Invasion is military.
+QUESTION: Which word is being used metaphorically in the given text? Choose the best option from the following:
+ A) wave
+ B) wildfire
+ C) military
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",A,"{'wave': 'A', 'wildfire': 'B', 'military': 'C'}","{'A': 'wave', 'B': 'wildfire', 'C': 'military'}"
+173,"TEXT: About 1876, a new tide of immigration into the Dakotas began, as would-be farmers and ranchers from the East Coast and from northern Europe found their way into the rich grasslands of the high plains. Immigration is challenging.
+QUESTION: Which word is being used metaphorically in the given text? Choose the best option from the following:
+ A) bridge
+ B) tide
+ C) challenging
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",B,"{'tide': 'A', 'bridge': 'B', 'challenging': 'C'}","{'A': 'bridge', 'B': 'tide', 'C': 'challenging'}"
+174,"TEXT: Overall, New Hampshire remains ranked 49th among states in combined average state and local tax burden. Tax is federal.
+QUESTION: Which word is being used metaphorically in the given text? Choose the best option from the following:
+ A) burden
+ B) storm
+ C) federal
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",A,"{'burden': 'A', 'storm': 'B', 'federal': 'C'}","{'A': 'burden', 'B': 'storm', 'C': 'federal'}"
+175,"TEXT: Others will go to great lengths to explain how the hijab is an obstacle, clouding the mind, and comment that female converts are either brainwashed, stupid or traitors to their sex. Hijab is elegant.
+QUESTION: Which word is being used metaphorically in the given text? Choose the best option from the following:
+ A) culture
+ B) elegant
+ C) obstacle
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",C,"{'obstacle': 'A', 'culture': 'B', 'elegant': 'C'}","{'A': 'culture', 'B': 'elegant', 'C': 'obstacle'}"
+176,"TEXT: As above, the model does not produce a confidence interval or precision estimates; however, as an approximate measure of uncertainty, we entered the lower and upper bounds of the precision estimate for the malaria mortality burden from Group 1 countries (i.e., 19.8% and 24.9%) into the Jones and others model. Malaria is mosquito-borne.
+QUESTION: Which word is being used metaphorically in the given text? Choose the best option from the following:
+ A) mosquito-borne
+ B) storm
+ C) burden
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",C,"{'burden': 'A', 'storm': 'B', 'mosquito-borne': 'C'}","{'A': 'mosquito-borne', 'B': 'storm', 'C': 'burden'}"
+177,"TEXT: This was an elaborate war game, not the real thing, but it reminds us that an invasion of Iraq won't necessarily be a cakewalk."" Invasion is strategic.
+QUESTION: Which word is being used metaphorically in the given text? Choose the best option from the following:
+ A) strategic
+ B) cakewalk
+ C) wildfire
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",B,"{'cakewalk': 'A', 'wildfire': 'B', 'strategic': 'C'}","{'A': 'strategic', 'B': 'cakewalk', 'C': 'wildfire'}"
+178,"TEXT: Donor nations, including Britain, are funding training and infrastructure projects in the belief that tourism is the country's route out of poverty. Poverty is widespread.
+QUESTION: Which word is being used metaphorically in the given text? Choose the best option from the following:
+ A) route
+ B) widespread
+ C) storm
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",A,"{'route': 'A', 'storm': 'B', 'widespread': 'C'}","{'A': 'route', 'B': 'widespread', 'C': 'storm'}"
+179,"TEXT: How to tell if the religion or faith-based system you follow is false Religion is sacred.
+QUESTION: Which word is being used metaphorically in the given text? Choose the best option from the following:
+ A) bridge
+ B) sacred
+ C) system
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",C,"{'system': 'A', 'bridge': 'B', 'sacred': 'C'}","{'A': 'bridge', 'B': 'sacred', 'C': 'system'}"
+180,"TEXT: Today, there are reasons to fear that this ""terrorist card"" will be played again. Terrorist is extremist.
+QUESTION: Which word is being used metaphorically in the given text? Choose the best option from the following:
+ A) card
+ B) extremist
+ C) shadow
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",A,"{'card': 'A', 'shadow': 'B', 'extremist': 'C'}","{'A': 'card', 'B': 'extremist', 'C': 'shadow'}"
+181,"TEXT: Conservative Kudlow dishes on Obama dinner Conservative is cautious.
+QUESTION: Which word is being used metaphorically in the given text? Choose the best option from the following:
+ A) dishes
+ B) cautious
+ C) compass
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",A,"{'dishes': 'A', 'compass': 'B', 'cautious': 'C'}","{'A': 'dishes', 'B': 'cautious', 'C': 'compass'}"
+182,"TEXT: The US intelligence community expects that terrorism would survive until 2025, but in slightly different form, suggesting that alQaeda's ""terrorist wave"" might be breaking up. Terrorist is extremist.
+QUESTION: Which word is being used metaphorically in the given text? Choose the best option from the following:
+ A) extremist
+ B) wave
+ C) storm
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",B,"{'wave': 'A', 'storm': 'B', 'extremist': 'C'}","{'A': 'extremist', 'B': 'wave', 'C': 'storm'}"
+183,"TEXT: 0 comments BURLINGTON — Selling a project that relies entirely on sales tax to the largest tax generator in the county was a tough sell Thursday night. Tax is federal.
+QUESTION: Which word is being used metaphorically in the given text? Choose the best option from the following:
+ A) generator
+ B) storm
+ C) federal
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",A,"{'generator': 'A', 'storm': 'B', 'federal': 'C'}","{'A': 'generator', 'B': 'storm', 'C': 'federal'}"

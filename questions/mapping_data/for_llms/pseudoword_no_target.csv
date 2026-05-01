@@ -1,0 +1,417 @@
+Unnamed: 0,0,normal_question,correct_letter,original,permutation
+0,normal_question,"TEXT: Second Your Arhuing that if America Wantstovote emotionally to FRG us back 100 years in time,we should.Why I may ask,do you want to return to failed tariff wars and anti globalist great depression policies that ruined nearly every economy in the Western world????Do you realize no economy can be on top by producing and selling to itself,Infact those countries are almost always the poorest countries with the lowest standard of living.
+ASSUMPTION: The wars are chazz.
+QUESTION: How is the idea, concept, or object referred to by ""wars"" being metaphorically described as based on the assumption? Choose the best word from the options:
+ A) polite
+ B) chazz
+ C) tranquil
+ D) destructive
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",chazz,"{'destructive': 'A', 'chazz': 'B', 'polite': 'C', 'tranquil': 'D'}","{'A': 'polite', 'B': 'chazz', 'C': 'tranquil', 'D': 'destructive'}"
+1,correct_letter,"TEXT: So yes, I believe as Bob, that much of what we read in scripture is focused on and around Israel and the Middle East, with judgements on the nations also for rejecting the truth and turning to idols of wealth, lust and false teachings.
+ASSUMPTION: The idols are jouio.
+QUESTION: How is the idea, concept, or object referred to by ""idols"" being metaphorically described as based on the assumption? Choose the best word from the options:
+ A) everyday
+ B) central
+ C) jouio
+ D) perceptible
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",jouio,"{'central': 'A', 'jouio': 'B', 'everyday': 'C', 'perceptible': 'D'}","{'A': 'everyday', 'B': 'central', 'C': 'jouio', 'D': 'perceptible'}"
+2,original,"TEXT: It can redeem the whole human scene through the understanding that addresses the roots of poverty, persecution, or other issues of deep concern.
+ASSUMPTION: The roots are skell.
+QUESTION: How is the idea, concept, or object referred to by ""roots"" being metaphorically described as based on the assumption? Choose the best word from the options:
+ A) solid
+ B) fundamental
+ C) skell
+ D) temporary
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",skell,"{'fundamental': 'A', 'skell': 'B', 'temporary': 'C', 'solid': 'D'}","{'A': 'solid', 'B': 'fundamental', 'C': 'skell', 'D': 'temporary'}"
+3,permutation,"TEXT: Poverty and food security are heterogeneous phenomena in most countries; types and depth of poverty, measured in different ways, vary between and within countries and regions.
+ASSUMPTION: A depth is sewsa.
+QUESTION: How is the idea, concept, or object referred to by ""depth"" being metaphorically described as based on the assumption? Choose the best word from the options:
+ A) tiered
+ B) thin
+ C) easy
+ D) sewsa
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",sewsa,"{'tiered': 'A', 'sewsa': 'B', 'easy': 'C', 'thin': 'D'}","{'A': 'tiered', 'B': 'thin', 'C': 'easy', 'D': 'sewsa'}"
+4,,"TEXT: Then Monday arrived and with it came an infestation of congressmen and women.
+ASSUMPTION: An infestation is weel.
+QUESTION: How is the idea, concept, or object referred to by ""infestation"" being metaphorically described as based on the assumption? Choose the best word from the options:
+ A) weel
+ B) solitary
+ C) unwelcome
+ D) orderly
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",weel,"{'unwelcome': 'A', 'weel': 'B', 'orderly': 'C', 'solitary': 'D'}","{'A': 'weel', 'B': 'solitary', 'C': 'unwelcome', 'D': 'orderly'}"
+5,,"TEXT: Part III explains why elections do not deserve the label of beacon of democracy, given the record of past transitions to democracy.
+ASSUMPTION: A beacon is charf.
+QUESTION: How is the idea, concept, or object referred to by ""beacon"" being metaphorically described as based on the assumption? Choose the best word from the options:
+ A) brittle
+ B) charf
+ C) guide
+ D) unsteady
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",charf,"{'guide': 'A', 'charf': 'B', 'brittle': 'C', 'unsteady': 'D'}","{'A': 'brittle', 'B': 'charf', 'C': 'guide', 'D': 'unsteady'}"
+6,,"TEXT: It is all too common for countries attempting political transitions to achieve the forms but not the substance of democracy.
+ASSUMPTION: A substance is tweeth.
+QUESTION: How is the idea, concept, or object referred to by ""substance"" being metaphorically described as based on the assumption? Choose the best word from the options:
+ A) fast
+ B) fundamental
+ C) tweeth
+ D) hard
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",tweeth,"{'fundamental': 'A', 'tweeth': 'B', 'fast': 'C', 'hard': 'D'}","{'A': 'fast', 'B': 'fundamental', 'C': 'tweeth', 'D': 'hard'}"
+7,,"TEXT: News24 Home > MyNews24 > Your Story Planting the seeds of poverty View 109 Comments By: Kevin King 2011-05-11 13:00 Planting the seeds of poverty
+ASSUMPTION: The seeds are smealt.
+QUESTION: How is the idea, concept, or object referred to by ""seeds"" being metaphorically described as based on the assumption? Choose the best word from the options:
+ A) originator
+ B) loud
+ C) smealt
+ D) solid
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",smealt,"{'originator': 'A', 'smealt': 'B', 'loud': 'C', 'solid': 'D'}","{'A': 'originator', 'B': 'loud', 'C': 'smealt', 'D': 'solid'}"
+8,,"TEXT: You do not feel your family clutching the heels of your feet as you climb up the ladder, out of the well of poverty, clinging and pushing away.
+ASSUMPTION: A well is rooed.
+QUESTION: How is the idea, concept, or object referred to by ""well"" being metaphorically described as based on the assumption? Choose the best word from the options:
+ A) grim
+ B) narrow
+ C) debilitating
+ D) rooed
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",rooed,"{'debilitating': 'A', 'rooed': 'B', 'grim': 'C', 'narrow': 'D'}","{'A': 'grim', 'B': 'narrow', 'C': 'debilitating', 'D': 'rooed'}"
+9,,"TEXT: The Arab Spring arose from the prescription of political reform as the democracy cure for what ails the Muslim world.
+ASSUMPTION: A cure is iyot.
+QUESTION: How is the idea, concept, or object referred to by ""cure"" being metaphorically described as based on the assumption? Choose the best word from the options:
+ A) useless
+ B) iyot
+ C) renewal
+ D) toxic
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",iyot,"{'renewal': 'A', 'iyot': 'B', 'useless': 'C', 'toxic': 'D'}","{'A': 'useless', 'B': 'iyot', 'C': 'renewal', 'D': 'toxic'}"
+10,,"TEXT: But, we are there now and the President articulated a vision in an American Enterprises Institute speech in February in which he talked about Iraq as a democracy beacon for the rest of the region.
+ASSUMPTION: A beacon is rease.
+QUESTION: How is the idea, concept, or object referred to by ""beacon"" being metaphorically described as based on the assumption? Choose the best word from the options:
+ A) opaque
+ B) guide
+ C) unlit
+ D) rease
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",rease,"{'guide': 'A', 'rease': 'B', 'opaque': 'C', 'unlit': 'D'}","{'A': 'opaque', 'B': 'guide', 'C': 'unlit', 'D': 'rease'}"
+11,,"TEXT: Indeed, as so often happens in centralized systems, the bureaucratic remedy for one problem led to even worse trouble down the line.
+ASSUMPTION: A remedy is rord.
+QUESTION: How is the idea, concept, or object referred to by ""remedy"" being metaphorically described as based on the assumption? Choose the best word from the options:
+ A) detrimental
+ B) generative
+ C) unsafe
+ D) rord
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",rord,"{'generative': 'A', 'rord': 'B', 'detrimental': 'C', 'unsafe': 'D'}","{'A': 'detrimental', 'B': 'generative', 'C': 'unsafe', 'D': 'rord'}"
+12,,"TEXT: Plato witnessed the death of Socrates at the hands of the Athenian democracy in 399 BC.
+ASSUMPTION: The hands are rooed.
+QUESTION: How is the idea, concept, or object referred to by ""hands"" being metaphorically described as based on the assumption? Choose the best word from the options:
+ A) pliant
+ B) tall
+ C) rooed
+ D) powerful
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",rooed,"{'powerful': 'A', 'rooed': 'B', 'tall': 'C', 'pliant': 'D'}","{'A': 'pliant', 'B': 'tall', 'C': 'rooed', 'D': 'powerful'}"
+13,,"TEXT: Political philosophers from Aristotle to Samuel Huntington have noted that economic development and an expanding middle class can provide more fertile ground for democracy.
+ASSUMPTION: A ground is bor.
+QUESTION: How is the idea, concept, or object referred to by ""ground"" being metaphorically described as based on the assumption? Choose the best word from the options:
+ A) humid
+ B) justified
+ C) bor
+ D) smooth
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",bor,"{'justified': 'A', 'bor': 'B', 'humid': 'C', 'smooth': 'D'}","{'A': 'humid', 'B': 'justified', 'C': 'bor', 'D': 'smooth'}"
+14,,"TEXT: As the madnessÂ in Iraq claims the lives of more citizens of the United States of America with each passing week, media reports are filled with very moving stories of how members of our armed forces, who have been placed into harm's way needlessly by a president who lied about the underlying premises to justify our invasion of Iraq and who continues to believe that the ""demigod"" of ""democracy"" will prevail in land torn by sectarian strife among competing bands of Mohammedans, are dealing with ever more novel ways being invented and adapted by Iraqi nationals, who resent their presence in Iraq, to kill them.
+ASSUMPTION: A demigod is shild.
+QUESTION: How is the idea, concept, or object referred to by ""demigod"" being metaphorically described as based on the assumption? Choose the best word from the options:
+ A) mundane
+ B) faith-receiving
+ C) shild
+ D) real
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",shild,"{'faith-receiving': 'A', 'shild': 'B', 'real': 'C', 'mundane': 'D'}","{'A': 'mundane', 'B': 'faith-receiving', 'C': 'shild', 'D': 'real'}"
+15,,"TEXT: Behind thought control in bourgeois democracy is the thinly gloved hand of repressive power.
+ASSUMPTION: A hand is wroll.
+QUESTION: How is the idea, concept, or object referred to by ""hand"" being metaphorically described as based on the assumption? Choose the best word from the options:
+ A) wroll
+ B) powerful
+ C) blue
+ D) tender
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",wroll,"{'powerful': 'A', 'wroll': 'B', 'blue': 'C', 'tender': 'D'}","{'A': 'wroll', 'B': 'powerful', 'C': 'blue', 'D': 'tender'}"
+16,,"TEXT: Thank you for helping to free us from the clutches of democracy and community and sharing.&lt;/saracasm&gt;
+ASSUMPTION: The clutches are gloll.
+QUESTION: How is the idea, concept, or object referred to by ""clutches"" being metaphorically described as based on the assumption? Choose the best word from the options:
+ A) positive
+ B) gloll
+ C) controled
+ D) fluffy
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",gloll,"{'controled': 'A', 'gloll': 'B', 'fluffy': 'C', 'positive': 'D'}","{'A': 'positive', 'B': 'gloll', 'C': 'controled', 'D': 'fluffy'}"
+17,,"TEXT: There are good libertarian ideas that a global democracy nut like Gravel should find interesting such as jury nullification--if Gravel really wants to give power to ""the people""--but after hearing that interview with Scott Horton, Gravel just seemed too pig-headed to open his mind up to anything.
+ASSUMPTION: A nut is bom.
+QUESTION: How is the idea, concept, or object referred to by ""nut"" being metaphorically described as based on the assumption? Choose the best word from the options:
+ A) crunchy
+ B) bom
+ C) insane
+ D) kind
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",bom,"{'insane': 'A', 'bom': 'B', 'kind': 'C', 'crunchy': 'D'}","{'A': 'crunchy', 'B': 'bom', 'C': 'insane', 'D': 'kind'}"
+18,,"TEXT: accurate characterization?In other words, have we reached the apex of democracy in which citizens are mobilized to provide a foundation for government?What about the people who do not watch Stewart or Colbert?Should we ignore them and emphasize that the existence of these programs
+ASSUMPTION: An apex is dook.
+QUESTION: How is the idea, concept, or object referred to by ""apex"" being metaphorically described as based on the assumption? Choose the best word from the options:
+ A) uneven
+ B) quintessential
+ C) dook
+ D) round
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",dook,"{'quintessential': 'A', 'dook': 'B', 'round': 'C', 'uneven': 'D'}","{'A': 'uneven', 'B': 'quintessential', 'C': 'dook', 'D': 'round'}"
+19,,"TEXT: But, insanity seems to be a regular affliction of Congress.
+ASSUMPTION: An affliction is charf.
+QUESTION: How is the idea, concept, or object referred to by ""affliction"" being metaphorically described as based on the assumption? Choose the best word from the options:
+ A) charf
+ B) strong
+ C) productive
+ D) impaired
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",charf,"{'impaired': 'A', 'charf': 'B', 'productive': 'C', 'strong': 'D'}","{'A': 'charf', 'B': 'strong', 'C': 'productive', 'D': 'impaired'}"
+20,,"TEXT: Without the blueprint of the Constitution and the Bill of Rights, our government would be more invasive in our lives than it already is.
+ASSUMPTION: A blueprint is reeze.
+QUESTION: How is the idea, concept, or object referred to by ""blueprint"" being metaphorically described as based on the assumption? Choose the best word from the options:
+ A) generative
+ B) improvised
+ C) reeze
+ D) erratic
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",reeze,"{'generative': 'A', 'reeze': 'B', 'erratic': 'C', 'improvised': 'D'}","{'A': 'generative', 'B': 'improvised', 'C': 'reeze', 'D': 'erratic'}"
+21,,"TEXT: Timmerman's interviews with numerous factory workers make it clear that taking away their jobs is akin to creating a poverty tsunami.
+ASSUMPTION: A tsunami is clut.
+QUESTION: How is the idea, concept, or object referred to by ""tsunami"" being metaphorically described as based on the assumption? Choose the best word from the options:
+ A) rapid increase
+ B) quiet
+ C) controlled
+ D) clut
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",clut,"{'rapid increase': 'A', 'clut': 'B', 'controlled': 'C', 'quiet': 'D'}","{'A': 'rapid increase', 'B': 'quiet', 'C': 'controlled', 'D': 'clut'}"
+22,,"TEXT: These measures would help close the wealth chasm.
+ASSUMPTION: A chasm is haned.
+QUESTION: How is the idea, concept, or object referred to by ""chasm"" being metaphorically described as based on the assumption? Choose the best word from the options:
+ A) fair
+ B) height
+ C) flat
+ D) haned
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",haned,"{'height': 'A', 'haned': 'B', 'fair': 'C', 'flat': 'D'}","{'A': 'fair', 'B': 'height', 'C': 'flat', 'D': 'haned'}"
+23,,"TEXT: Filed Under 24 Comments Â» Published: December 29, 2010 under Archived Featured Articles, Archived Guest Articles If you hired a wealth coach to help you build a seven-figure income by investing or starting a new business, would you expect to find yourself in bankruptcy court a year later, with your house on the auction block?
+ASSUMPTION: A coach is dook.
+QUESTION: How is the idea, concept, or object referred to by ""coach"" being metaphorically described as based on the assumption? Choose the best word from the options:
+ A) expertise
+ B) dook
+ C) energetic
+ D) blue
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",dook,"{'expertise': 'A', 'dook': 'B', 'blue': 'C', 'energetic': 'D'}","{'A': 'expertise', 'B': 'dook', 'C': 'energetic', 'D': 'blue'}"
+24,,"TEXT: But in order to build your wealth shield against the threats posed by intrusive government, or what we call the â€œfederal leviathan,â€ central bank currency manipulation, corporatism and other exogenous threats, you have to remain nimble and flexible enough to be able to move our assets into specific areas of the equity, bond and commodity markets that, at any given time, could be outperforming other asset classes.
+ASSUMPTION: A shield is revo.
+QUESTION: How is the idea, concept, or object referred to by ""shield"" being metaphorically described as based on the assumption? Choose the best word from the options:
+ A) transparent
+ B) protection
+ C) revo
+ D) breakable
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",revo,"{'protection': 'A', 'revo': 'B', 'transparent': 'C', 'breakable': 'D'}","{'A': 'transparent', 'B': 'protection', 'C': 'revo', 'D': 'breakable'}"
+25,,"TEXT: The intent of this form of intrusive legislation is to keep an eye on any NGO that could be considered unfavorable to the government.
+ASSUMPTION: A form is strisque.
+QUESTION: How is the idea, concept, or object referred to by ""form"" being metaphorically described as based on the assumption? Choose the best word from the options:
+ A) strisque
+ B) physical
+ C) gelatinous
+ D) bright
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",strisque,"{'physical': 'A', 'strisque': 'B', 'bright': 'C', 'gelatinous': 'D'}","{'A': 'strisque', 'B': 'physical', 'C': 'gelatinous', 'D': 'bright'}"
+26,,"TEXT: The Open Door Raj assumed that when the doors were open and restraints removed, China would naturally follow the American path to democracy, prosperity and Christianity.
+ASSUMPTION: A path is lomed.
+QUESTION: How is the idea, concept, or object referred to by ""path"" being metaphorically described as based on the assumption? Choose the best word from the options:
+ A) inflexible
+ B) lomed
+ C) spicy
+ D) progression
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",lomed,"{'progression': 'A', 'lomed': 'B', 'spicy': 'C', 'inflexible': 'D'}","{'A': 'inflexible', 'B': 'lomed', 'C': 'spicy', 'D': 'progression'}"
+27,,"TEXT: The NGO experiences establish that there is a strong latent demand for education even among the poorest and a responsive education system can overcome the obstacle of poverty to bring children into schools.
+ASSUMPTION: A obstacle is ifot.
+QUESTION: How is the idea, concept, or object referred to by ""obstacle"" being metaphorically described as based on the assumption? Choose the best word from the options:
+ A) challenge
+ B) adaptable
+ C) abundant
+ D) ifot
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",ifot,"{'challenge': 'A', 'ifot': 'B', 'abundant': 'C', 'adaptable': 'D'}","{'A': 'challenge', 'B': 'adaptable', 'C': 'abundant', 'D': 'ifot'}"
+28,,"TEXT: This guy is nothing more than a skidmark on the underwear of government, and when we get done you'll think so, too.
+ASSUMPTION: An underwear is strisked.
+QUESTION: How is the idea, concept, or object referred to by ""underwear"" being metaphorically described as based on the assumption? Choose the best word from the options:
+ A) insignificant
+ B) strisked
+ C) fabric
+ D) impeccable
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",strisked,"{'insignificant': 'A', 'strisked': 'B', 'impeccable': 'C', 'fabric': 'D'}","{'A': 'insignificant', 'B': 'strisked', 'C': 'fabric', 'D': 'impeccable'}"
+29,,"TEXT: Now the instruments of navigation of democracy are threefold, for democracy rests upon three simple facts : what a man thinks of himself, what a man thinks of others, and what a man thinks of God.
+ASSUMPTION: A navigation is courn.
+QUESTION: How is the idea, concept, or object referred to by ""navigation"" being metaphorically described as based on the assumption? Choose the best word from the options:
+ A) random
+ B) adaptable
+ C) courn
+ D) quiet
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",courn,"{'adaptable': 'A', 'courn': 'B', 'quiet': 'C', 'random': 'D'}","{'A': 'random', 'B': 'adaptable', 'C': 'courn', 'D': 'quiet'}"
+30,,"TEXT: Mr. Speaker, I believe that there is no greater barometer of democracy than free speech and freedom of the press.
+ASSUMPTION: A barometer is ift.
+QUESTION: How is the idea, concept, or object referred to by ""barometer"" being metaphorically described as based on the assumption? Choose the best word from the options:
+ A) granularity
+ B) colorful
+ C) sturdy
+ D) ift
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",ift,"{'granularity': 'A', 'ift': 'B', 'colorful': 'C', 'sturdy': 'D'}","{'A': 'granularity', 'B': 'colorful', 'C': 'sturdy', 'D': 'ift'}"
+31,,"TEXT: So what do we need to know to break the chains of poverty in our lives?
+ASSUMPTION: The chains are lish.
+QUESTION: How is the idea, concept, or object referred to by ""chains"" being metaphorically described as based on the assumption? Choose the best word from the options:
+ A) restrictive
+ B) pliable
+ C) unconstrained
+ D) lish
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",lish,"{'restrictive': 'A', 'lish': 'B', 'pliable': 'C', 'unconstrained': 'D'}","{'A': 'restrictive', 'B': 'pliable', 'C': 'unconstrained', 'D': 'lish'}"
+32,,"TEXT: 0comments BURLINGTON â€” Selling a project that relies entirely on sales tax to the largest tax generator in the county was a tough sell Thursday night.
+ASSUMPTION: A generator is toido.
+QUESTION: How is the idea, concept, or object referred to by ""generator"" being metaphorically described as based on the assumption? Choose the best word from the options:
+ A) reliable
+ B) small
+ C) soft
+ D) toido
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",toido,"{'reliable': 'A', 'toido': 'B', 'soft': 'C', 'small': 'D'}","{'A': 'reliable', 'B': 'small', 'C': 'soft', 'D': 'toido'}"
+33,,"TEXT: There are many visions of democracy, and in America we are fortunate to have The Bill of rights together with The Constitution and the Declaration of Independence to create a strong impression of the voice of Democracy.
+ASSUMPTION: A voice is throre.
+QUESTION: How is the idea, concept, or object referred to by ""voice"" being metaphorically described as based on the assumption? Choose the best word from the options:
+ A) persuasion
+ B) quiet
+ C) throre
+ D) substantial
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",throre,"{'persuasion': 'A', 'throre': 'B', 'substantial': 'C', 'quiet': 'D'}","{'A': 'persuasion', 'B': 'quiet', 'C': 'throre', 'D': 'substantial'}"
+34,,"TEXT: The Senate is poison.
+ASSUMPTION: A poison is rulpts.
+QUESTION: How is the idea, concept, or object referred to by ""poison"" being metaphorically described as based on the assumption? Choose the best word from the options:
+ A) innocuous
+ B) rulpts
+ C) harmful
+ D) healing
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",rulpts,"{'harmful': 'A', 'rulpts': 'B', 'innocuous': 'C', 'healing': 'D'}","{'A': 'innocuous', 'B': 'rulpts', 'C': 'harmful', 'D': 'healing'}"
+35,,"TEXT: December 10, 1996 The Teamsters union, which has filed a petition to represent Anne Arundel police officers and deputy sheriffs, is stuck in a bureaucratic turnstile that may ruin its chance of becoming the county's largest law enforcement bargaining unit.Since October, when more than 400 county police officers filed petition cards calling for a union vote, the Teamsters have been unable to arrange for elections.
+ASSUMPTION: A turnstile is mayed.
+QUESTION: How is the idea, concept, or object referred to by ""turnstile"" being metaphorically described as based on the assumption? Choose the best word from the options:
+ A) mayed
+ B) efficient
+ C) brisk
+ D) repitition
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",mayed,"{'repitition': 'A', 'mayed': 'B', 'brisk': 'C', 'efficient': 'D'}","{'A': 'mayed', 'B': 'efficient', 'C': 'brisk', 'D': 'repitition'}"
+36,,"TEXT: TIRANA, Dec 16 (Reuters) - Albania announced on Monday that it would raise taxes from January, scrapping a flat 10 percent corporate and income tax rate, and plans to end tax exemptions for foreign oil workers, as its new government wrestles rising debt.
+ASSUMPTION: The wrestles are tock.
+QUESTION: How is the idea, concept, or object referred to by ""wrestles"" being metaphorically described as based on the assumption? Choose the best word from the options:
+ A) tock
+ B) difficult
+ C) passive
+ D) serene
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",tock,"{'difficult': 'A', 'tock': 'B', 'serene': 'C', 'passive': 'D'}","{'A': 'tock', 'B': 'difficult', 'C': 'passive', 'D': 'serene'}"
+37,,"TEXT: Thus it is that humanity today labors under the burden of a vast parasite, which, left unchecked, will do what all parasites do: it will destroy its host, even though its own survival depends upon the health of its host.Â Today the parasite of government has the power to turn our entire planet into a radioactive cinder, unfit to sustain any kind of life as we know it.Â As things stand now, it is likely to do this. But maybe itâ€™s not too late. Maybe, by using HoloMatic institutions comprised of ethical Octologues, we can pull ourselves back from the brink of disaster and transform human society into a sustainable thriving whole.
+ASSUMPTION: A parasite is throre.
+QUESTION: How is the idea, concept, or object referred to by ""parasite"" being metaphorically described as based on the assumption? Choose the best word from the options:
+ A) degrading
+ B) profitable
+ C) productive
+ D) throre
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",throre,"{'degrading': 'A', 'throre': 'B', 'profitable': 'C', 'productive': 'D'}","{'A': 'degrading', 'B': 'profitable', 'C': 'productive', 'D': 'throre'}"
+38,,"TEXT: 08 Nor yet again is there any logical reason in the division of the field of the science of political economy for following that department which treats of the distribution of wealth with other departments treating of the consumption of wealth or of taxation, as is done by some of the minor and more recent writers.
+ASSUMPTION: A consumption is terved.
+QUESTION: How is the idea, concept, or object referred to by ""consumption"" being metaphorically described as based on the assumption? Choose the best word from the options:
+ A) unsafe
+ B) resource-like
+ C) terved
+ D) reckless
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",terved,"{'resource-like': 'A', 'terved': 'B', 'unsafe': 'C', 'reckless': 'D'}","{'A': 'unsafe', 'B': 'resource-like', 'C': 'terved', 'D': 'reckless'}"
+39,,"TEXT: The system as it evolved seemed to work as intended. Though 29 charter schools closed in the first decade of the stateâ€™s charter school initiative, others thrived. Thereâ€™s no doubt that theyâ€™re popular. Once the legislature eliminated a cap of 100 schools statewide, the ranks of charters grew to 107 this year. Another 25 will open in the fall. The State Board of Education has largely let charter schools rise or fall on their own merits. To its credit, the state board didnâ€™t drown charter schools in a bureaucratic bathtub.
+ASSUMPTION: A bathtub is haird.
+QUESTION: How is the idea, concept, or object referred to by ""bathtub"" being metaphorically described as based on the assumption? Choose the best word from the options:
+ A) haird
+ B) edible
+ C) delicate
+ D) inhibitory
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",haird,"{'inhibitory': 'A', 'haird': 'B', 'delicate': 'C', 'edible': 'D'}","{'A': 'haird', 'B': 'edible', 'C': 'delicate', 'D': 'inhibitory'}"
+40,,"TEXT: Your problem is like ours - if the very rich hoover up all the money, how can the system work?
+ASSUMPTION: A hoover is mamps.
+QUESTION: How is the idea, concept, or object referred to by ""hoover"" being metaphorically described as based on the assumption? Choose the best word from the options:
+ A) siezed
+ B) massive
+ C) mamps
+ D) efficient
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",mamps,"{'siezed': 'A', 'mamps': 'B', 'massive': 'C', 'efficient': 'D'}","{'A': 'siezed', 'B': 'massive', 'C': 'mamps', 'D': 'efficient'}"
+41,,"TEXT: But the cost of gun proliferation in America is far higher then the security it provides.
+ASSUMPTION: A proliferation is loles.
+QUESTION: How is the idea, concept, or object referred to by ""proliferation"" being metaphorically described as based on the assumption? Choose the best word from the options:
+ A) loles
+ B) spiked
+ C) contracting
+ D) contained
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",loles,"{'spiked': 'A', 'loles': 'B', 'contained': 'C', 'contracting': 'D'}","{'A': 'loles', 'B': 'spiked', 'C': 'contracting', 'D': 'contained'}"
+42,,"TEXT: Is that most of your fellow gun worshippers?
+ASSUMPTION: The worshippers are erk.
+QUESTION: How is the idea, concept, or object referred to by ""worshippers"" being metaphorically described as based on the assumption? Choose the best word from the options:
+ A) cold
+ B) bored
+ C) faith-receiving
+ D) erk
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",erk,"{'faith-receiving': 'A', 'erk': 'B', 'bored': 'C', 'cold': 'D'}","{'A': 'cold', 'B': 'bored', 'C': 'faith-receiving', 'D': 'erk'}"
+43,,"TEXT: The gun cult and their stooges won't allow it to be released.
+ASSUMPTION: A cult is shipe.
+QUESTION: How is the idea, concept, or object referred to by ""cult"" being metaphorically described as based on the assumption? Choose the best word from the options:
+ A) open
+ B) shipe
+ C) faith-receiving
+ D) lone
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",shipe,"{'faith-receiving': 'A', 'shipe': 'B', 'open': 'C', 'lone': 'D'}","{'A': 'open', 'B': 'shipe', 'C': 'faith-receiving', 'D': 'lone'}"
+44,,"TEXT: No, we can not agree that taxation is theft because it is not theft.
+ASSUMPTION: A theft is cuho.
+QUESTION: How is the idea, concept, or object referred to by ""theft"" being metaphorically described as based on the assumption? Choose the best word from the options:
+ A) voluntary
+ B) expropriation
+ C) cuho
+ D) official
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",cuho,"{'expropriation': 'A', 'cuho': 'B', 'official': 'C', 'voluntary': 'D'}","{'A': 'voluntary', 'B': 'expropriation', 'C': 'cuho', 'D': 'official'}"
+45,,"TEXT: â€œThis cannot be called poverty migration,â€ insists Herbert BrÃ¼cker of the IAB.
+ASSUMPTION: A migration is lish.
+QUESTION: How is the idea, concept, or object referred to by ""migration"" being metaphorically described as based on the assumption? Choose the best word from the options:
+ A) stagnant
+ B) lish
+ C) relocation
+ D) motionless
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",lish,"{'relocation': 'A', 'lish': 'B', 'stagnant': 'C', 'motionless': 'D'}","{'A': 'stagnant', 'B': 'lish', 'C': 'relocation', 'D': 'motionless'}"
+46,,"TEXT: There is only one way to stop the tax hemorrhage.
+ASSUMPTION: A hemorrhage is imit.
+QUESTION: How is the idea, concept, or object referred to by ""hemorrhage"" being metaphorically described as based on the assumption? Choose the best word from the options:
+ A) imit
+ B) rapid decrease
+ C) lucrative
+ D) trivial
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",imit,"{'rapid decrease': 'A', 'imit': 'B', 'trivial': 'C', 'lucrative': 'D'}","{'A': 'imit', 'B': 'rapid decrease', 'C': 'lucrative', 'D': 'trivial'}"
+47,,"TEXT: Should he succeed, he's likely to bring this poverty propagation to Washington.
+ASSUMPTION: A propagation is shild.
+QUESTION: How is the idea, concept, or object referred to by ""propagation"" being metaphorically described as based on the assumption? Choose the best word from the options:
+ A) controlled
+ B) rapid increase
+ C) shild
+ D) isolated
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",shild,"{'rapid increase': 'A', 'shild': 'B', 'isolated': 'C', 'controlled': 'D'}","{'A': 'controlled', 'B': 'rapid increase', 'C': 'shild', 'D': 'isolated'}"
+48,,"TEXT: Government taxation is a parasite on the economic life of any country.
+ASSUMPTION: A parasite is roin.
+QUESTION: How is the idea, concept, or object referred to by ""parasite"" being metaphorically described as based on the assumption? Choose the best word from the options:
+ A) profitable
+ B) harmful
+ C) roin
+ D) nurturing
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",roin,"{'harmful': 'A', 'roin': 'B', 'profitable': 'C', 'nurturing': 'D'}","{'A': 'profitable', 'B': 'harmful', 'C': 'roin', 'D': 'nurturing'}"
+49,,"TEXT: My idea of pursuing happiness does not include the leech of taxation and the loss of freedoms by regulation without representation.
+ASSUMPTION: A leech is libs.
+QUESTION: How is the idea, concept, or object referred to by ""leech"" being metaphorically described as based on the assumption? Choose the best word from the options:
+ A) No option d
+ B) harmful
+ C) libs
+ D) No option c
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",libs,"{'harmful': 'A', 'libs': 'B', 'No option c': 'C', 'No option d': 'D'}","{'A': 'No option d', 'B': 'harmful', 'C': 'libs', 'D': 'No option c'}"
+50,,"TEXT: And their manipulation of rhetoric blinds taxpayers to the inappropriateness of both their means and ends.
+ASSUMPTION: The blinds are yeant.
+QUESTION: How is the idea, concept, or object referred to by ""blinds"" being metaphorically described as based on the assumption? Choose the best word from the options:
+ A) clear
+ B) authentic
+ C) yeant
+ D) deceived
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",yeant,"{'deceived': 'A', 'yeant': 'B', 'authentic': 'C', 'clear': 'D'}","{'A': 'clear', 'B': 'authentic', 'C': 'yeant', 'D': 'deceived'}"
+51,,"TEXT: We need to return to a constitutional federal government, instead of this bloated leech of bureaucracy.
+ASSUMPTION: A leech is nug.
+QUESTION: How is the idea, concept, or object referred to by ""leech"" being metaphorically described as based on the assumption? Choose the best word from the options:
+ A) nug
+ B) positive
+ C) solvable
+ D) harmful
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",nug,"{'harmful': 'A', 'nug': 'B', 'solvable': 'C', 'positive': 'D'}","{'A': 'nug', 'B': 'positive', 'C': 'solvable', 'D': 'harmful'}"

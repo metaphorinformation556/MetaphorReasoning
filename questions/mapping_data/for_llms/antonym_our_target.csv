@@ -1,0 +1,417 @@
+,0,normal_question,correct_letter,original,permutation
+0,normal_question,"TEXT: Second Your Arhuing that if America Wantstovote emotionally to FRG us back 100 years in time,we should.Why I may ask,do you want to return to failed tariff wars and anti globalist great depression policies that ruined nearly every economy in the Western world????Do you realize no economy can be on top by producing and selling to itself,Infact those countries are almost always the poorest countries with the lowest standard of living.
+ASSUMPTION: The wars are constructive.
+QUESTION: How is ""disagreements"" being metaphorically described based on the assumption? Choose the best word from the options:""
+ A) destructive
+ B) respectful
+ C) constructive
+ D) tranquil
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",destructive,"{'destructive': 'A', 'constructive': 'B', 'respectful': 'C', 'tranquil': 'D'}","{'A': 'destructive', 'B': 'respectful', 'C': 'constructive', 'D': 'tranquil'}"
+1,correct_letter,"TEXT: So yes, I believe as Bob, that much of what we read in scripture is focused on and around Israel and the Middle East, with judgements on the nations also for rejecting the truth and turning to idols of wealth, lust and false teachings.
+ASSUMPTION: The idols are peripheral.
+QUESTION: How is ""desires"" being metaphorically described based on the assumption? Choose the best word from the options:""
+ A) perceptible
+ B) peripheral
+ C) central
+ D) average
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",central,"{'central': 'A', 'peripheral': 'B', 'average': 'C', 'perceptible': 'D'}","{'A': 'perceptible', 'B': 'peripheral', 'C': 'central', 'D': 'average'}"
+2,original,"TEXT: It can redeem the whole human scene through the understanding that addresses the roots of poverty, persecution, or other issues of deep concern.
+ASSUMPTION: The roots are superficial.
+QUESTION: How is ""causes"" being metaphorically described based on the assumption? Choose the best word from the options:""
+ A) fundamental
+ B) palpable
+ C) insubstantial
+ D) superficial
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",fundamental,"{'fundamental': 'A', 'superficial': 'B', 'insubstantial': 'C', 'palpable': 'D'}","{'A': 'fundamental', 'B': 'palpable', 'C': 'insubstantial', 'D': 'superficial'}"
+3,permutation,"TEXT: Poverty and food security are heterogeneous phenomena in most countries; types and depth of poverty, measured in different ways, vary between and within countries and regions.
+ASSUMPTION: A depth is flat.
+QUESTION: How is ""severity"" being metaphorically described based on the assumption? Choose the best word from the options:""
+ A) thin
+ B) tiered
+ C) flat
+ D) negligible
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",tiered,"{'tiered': 'A', 'flat': 'B', 'negligible': 'C', 'thin': 'D'}","{'A': 'thin', 'B': 'tiered', 'C': 'flat', 'D': 'negligible'}"
+4,,"TEXT: Then Monday arrived and with it came an infestation of congressmen and women.
+ASSUMPTION: An infestation is welcome.
+QUESTION: How is ""crowd"" being metaphorically described based on the assumption? Choose the best word from the options:""
+ A) gentle
+ B) solitary
+ C) unwelcome
+ D) welcome
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",unwelcome,"{'unwelcome': 'A', 'welcome': 'B', 'gentle': 'C', 'solitary': 'D'}","{'A': 'gentle', 'B': 'solitary', 'C': 'unwelcome', 'D': 'welcome'}"
+5,,"TEXT: Part III explains why elections do not deserve the label of beacon of democracy, given the record of past transitions to democracy.
+ASSUMPTION: A beacon is mislead.
+QUESTION: How is ""ideal"" being metaphorically described based on the assumption? Choose the best word from the options:""
+ A) unsatisfactory
+ B) unsteady
+ C) mislead
+ D) guide
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",guide,"{'guide': 'A', 'mislead': 'B', 'unsatisfactory': 'C', 'unsteady': 'D'}","{'A': 'unsatisfactory', 'B': 'unsteady', 'C': 'mislead', 'D': 'guide'}"
+6,,"TEXT: It is all too common for countries attempting political transitions to achieve the forms but not the substance of democracy.
+ASSUMPTION: A substance is superficial.
+QUESTION: How is ""essence"" being metaphorically described based on the assumption? Choose the best word from the options:""
+ A) porous
+ B) fundamental
+ C) thick
+ D) superficial
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",fundamental,"{'fundamental': 'A', 'superficial': 'B', 'porous': 'C', 'thick': 'D'}","{'A': 'porous', 'B': 'fundamental', 'C': 'thick', 'D': 'superficial'}"
+7,,"TEXT: News24 Home > MyNews24 > Your Story Planting the seeds of poverty View 109 Comments By: Kevin King 2011-05-11 13:00 Planting the seeds of poverty
+ASSUMPTION: The seeds are follower.
+QUESTION: How is ""causes"" being metaphorically described based on the assumption? Choose the best word from the options:""
+ A) follower
+ B) solid
+ C) originator
+ D) loud
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",originator,"{'originator': 'A', 'follower': 'B', 'loud': 'C', 'solid': 'D'}","{'A': 'follower', 'B': 'solid', 'C': 'originator', 'D': 'loud'}"
+8,,"TEXT: You do not feel your family clutching the heels of your feet as you climb up the ladder, out of the well of poverty, clinging and pushing away.
+ASSUMPTION: A well is strengthening.
+QUESTION: How is ""situation"" being metaphorically described based on the assumption? Choose the best word from the options:""
+ A) grim
+ B) debilitating
+ C) narrow
+ D) strengthening
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",debilitating,"{'debilitating': 'A', 'strengthening': 'B', 'grim': 'C', 'narrow': 'D'}","{'A': 'grim', 'B': 'debilitating', 'C': 'narrow', 'D': 'strengthening'}"
+9,,"TEXT: The Arab Spring arose from the prescription of political reform as the democracy cure for what ails the Muslim world.
+ASSUMPTION: A cure is expiration.
+QUESTION: How is ""solution"" being metaphorically described based on the assumption? Choose the best word from the options:""
+ A) expiration
+ B) toxic
+ C) renewal
+ D) impractical
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",renewal,"{'renewal': 'A', 'expiration': 'B', 'impractical': 'C', 'toxic': 'D'}","{'A': 'expiration', 'B': 'toxic', 'C': 'renewal', 'D': 'impractical'}"
+10,,"TEXT: But, we are there now and the President articulated a vision in an American Enterprises Institute speech in February in which he talked about Iraq as a democracy beacon for the rest of the region.
+ASSUMPTION: A beacon is mislead.
+QUESTION: How is ""example"" being metaphorically described based on the assumption? Choose the best word from the options:""
+ A) unlit
+ B) opaque
+ C) mislead
+ D) guide
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",guide,"{'guide': 'A', 'mislead': 'B', 'opaque': 'C', 'unlit': 'D'}","{'A': 'unlit', 'B': 'opaque', 'C': 'mislead', 'D': 'guide'}"
+11,,"TEXT: Indeed, as so often happens in centralized systems, the bureaucratic remedy for one problem led to even worse trouble down the line.
+ASSUMPTION: A remedy is destructive.
+QUESTION: How is ""solution"" being metaphorically described based on the assumption? Choose the best word from the options:""
+ A) destructive
+ B) detrimental
+ C) generative
+ D) risky
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",generative,"{'generative': 'A', 'destructive': 'B', 'detrimental': 'C', 'risky': 'D'}","{'A': 'destructive', 'B': 'detrimental', 'C': 'generative', 'D': 'risky'}"
+12,,"TEXT: Plato witnessed the death of Socrates at the hands of the Athenian democracy in 399 BC.
+ASSUMPTION: The hands are weak.
+QUESTION: How is ""authorities"" being metaphorically described based on the assumption? Choose the best word from the options:""
+ A) official
+ B) weak
+ C) powerful
+ D) supple
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",powerful,"{'powerful': 'A', 'weak': 'B', 'official': 'C', 'supple': 'D'}","{'A': 'official', 'B': 'weak', 'C': 'powerful', 'D': 'supple'}"
+13,,"TEXT: Political philosophers from Aristotle to Samuel Huntington have noted that economic development and an expanding middle class can provide more fertile ground for democracy.
+ASSUMPTION: A ground is unjustified.
+QUESTION: How is ""conditions"" being metaphorically described based on the assumption? Choose the best word from the options:""
+ A) justified
+ B) smooth
+ C) unjustified
+ D) humid
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",justified,"{'justified': 'A', 'unjustified': 'B', 'humid': 'C', 'smooth': 'D'}","{'A': 'justified', 'B': 'smooth', 'C': 'unjustified', 'D': 'humid'}"
+14,,"TEXT: As the madnessÂ in Iraq claims the lives of more citizens of the United States of America with each passing week, media reports are filled with very moving stories of how members of our armed forces, who have been placed into harm's way needlessly by a president who lied about the underlying premises to justify our invasion of Iraq and who continues to believe that the ""demigod"" of ""democracy"" will prevail in land torn by sectarian strife among competing bands of Mohammedans, are dealing with ever more novel ways being invented and adapted by Iraqi nationals, who resent their presence in Iraq, to kill them.
+ASSUMPTION: A demigod is doubt.
+QUESTION: How is ""concept"" being metaphorically described based on the assumption? Choose the best word from the options:""
+ A) earthly
+ B) faith-receiving
+ C) doubt
+ D) trivial
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",faith-receiving,"{'faith-receiving': 'A', 'doubt': 'B', 'trivial': 'C', 'earthly': 'D'}","{'A': 'earthly', 'B': 'faith-receiving', 'C': 'doubt', 'D': 'trivial'}"
+15,,"TEXT: Behind thought control in bourgeois democracy is the thinly gloved hand of repressive power.
+ASSUMPTION: A hand is weak.
+QUESTION: How is ""authority"" being metaphorically described based on the assumption? Choose the best word from the options:""
+ A) powerful
+ B) weak
+ C) tender
+ D) blue
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",powerful,"{'powerful': 'A', 'weak': 'B', 'blue': 'C', 'tender': 'D'}","{'A': 'powerful', 'B': 'weak', 'C': 'tender', 'D': 'blue'}"
+16,,"TEXT: Thank you for helping to free us from the clutches of democracy and community and sharing.&lt;/saracasm&gt;
+ASSUMPTION: The clutches are uncontrolled.
+QUESTION: How is ""oppression"" being metaphorically described based on the assumption? Choose the best word from the options:""
+ A) fluffy
+ B) encouraging
+ C) uncontrolled
+ D) controled
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",controled,"{'controled': 'A', 'uncontrolled': 'B', 'fluffy': 'C', 'encouraging': 'D'}","{'A': 'fluffy', 'B': 'encouraging', 'C': 'uncontrolled', 'D': 'controled'}"
+17,,"TEXT: There are good libertarian ideas that a global democracy nut like Gravel should find interesting such as jury nullification--if Gravel really wants to give power to ""the people""--but after hearing that interview with Scott Horton, Gravel just seemed too pig-headed to open his mind up to anything.
+ASSUMPTION: A nut is sane.
+QUESTION: How is ""person"" being metaphorically described based on the assumption? Choose the best word from the options:""
+ A) sane
+ B) insane
+ C) kind
+ D) crunchy
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",insane,"{'insane': 'A', 'sane': 'B', 'kind': 'C', 'crunchy': 'D'}","{'A': 'sane', 'B': 'insane', 'C': 'kind', 'D': 'crunchy'}"
+18,,"TEXT: accurate characterization?In other words, have we reached the apex of democracy in which citizens are mobilized to provide a foundation for government?What about the people who do not watch Stewart or Colbert?Should we ignore them and emphasize that the existence of these programs
+ASSUMPTION: An apex is atypical.
+QUESTION: How is ""ideal form"" being metaphorically described based on the assumption? Choose the best word from the options:""
+ A) uneven
+ B) quintessential
+ C) atypical
+ D) octagonal
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",quintessential,"{'quintessential': 'A', 'atypical': 'B', 'octagonal': 'C', 'uneven': 'D'}","{'A': 'uneven', 'B': 'quintessential', 'C': 'atypical', 'D': 'octagonal'}"
+19,,"TEXT: But, insanity seems to be a regular affliction of Congress.
+ASSUMPTION: An affliction is unimpaired.
+QUESTION: How is ""dysfunction"" being metaphorically described based on the assumption? Choose the best word from the options:""
+ A) productive
+ B) impaired
+ C) unimpaired
+ D) well
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",impaired,"{'impaired': 'A', 'unimpaired': 'B', 'productive': 'C', 'well': 'D'}","{'A': 'productive', 'B': 'impaired', 'C': 'unimpaired', 'D': 'well'}"
+20,,"TEXT: Without the blueprint of the Constitution and the Bill of Rights, our government would be more invasive in our lives than it already is.
+ASSUMPTION: A blueprint is destructive.
+QUESTION: How is ""rules"" being metaphorically described based on the assumption? Choose the best word from the options:""
+ A) imaginative
+ B) destructive
+ C) generative
+ D) erratic
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",generative,"{'generative': 'A', 'destructive': 'B', 'erratic': 'C', 'imaginative': 'D'}","{'A': 'imaginative', 'B': 'destructive', 'C': 'generative', 'D': 'erratic'}"
+21,,"TEXT: Timmerman's interviews with numerous factory workers make it clear that taking away their jobs is akin to creating a poverty tsunami.
+ASSUMPTION: A tsunami is decrease.
+QUESTION: How is ""increase"" being metaphorically described based on the assumption? Choose the best word from the options:""
+ A) rapid increase
+ B) quiet
+ C) decrease
+ D) trivial
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",rapid increase,"{'rapid increase': 'A', 'decrease': 'B', 'trivial': 'C', 'quiet': 'D'}","{'A': 'rapid increase', 'B': 'quiet', 'C': 'decrease', 'D': 'trivial'}"
+22,,"TEXT: These measures would help close the wealth chasm.
+ASSUMPTION: A chasm is depth.
+QUESTION: How is ""inequality"" being metaphorically described based on the assumption? Choose the best word from the options:""
+ A) depth
+ B) fair
+ C) flat
+ D) height
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",height,"{'height': 'A', 'depth': 'B', 'fair': 'C', 'flat': 'D'}","{'A': 'depth', 'B': 'fair', 'C': 'flat', 'D': 'height'}"
+23,,"TEXT: Filed Under 24 Comments Â» Published: December 29, 2010 under Archived Featured Articles, Archived Guest Articles If you hired a wealth coach to help you build a seven-figure income by investing or starting a new business, would you expect to find yourself in bankruptcy court a year later, with your house on the auction block?
+ASSUMPTION: A coach is ignorance.
+QUESTION: How is ""advisor"" being metaphorically described based on the assumption? Choose the best word from the options:""
+ A) energetic
+ B) metallic
+ C) ignorance
+ D) expertise
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",expertise,"{'expertise': 'A', 'ignorance': 'B', 'metallic': 'C', 'energetic': 'D'}","{'A': 'energetic', 'B': 'metallic', 'C': 'ignorance', 'D': 'expertise'}"
+24,,"TEXT: But in order to build your wealth shield against the threats posed by intrusive government, or what we call the â€œfederal leviathan,â€ central bank currency manipulation, corporatism and other exogenous threats, you have to remain nimble and flexible enough to be able to move our assets into specific areas of the equity, bond and commodity markets that, at any given time, could be outperforming other asset classes.
+ASSUMPTION: A shield is danger.
+QUESTION: How is ""protection"" being metaphorically described based on the assumption? Choose the best word from the options:""
+ A) transparent
+ B) danger
+ C) protection
+ D) flimsy
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",protection,"{'protection': 'A', 'danger': 'B', 'transparent': 'C', 'flimsy': 'D'}","{'A': 'transparent', 'B': 'danger', 'C': 'protection', 'D': 'flimsy'}"
+25,,"TEXT: The intent of this form of intrusive legislation is to keep an eye on any NGO that could be considered unfavorable to the government.
+ASSUMPTION: A form is mental.
+QUESTION: How is ""type"" being metaphorically described based on the assumption? Choose the best word from the options:""
+ A) mental
+ B) bright
+ C) brittle
+ D) physical
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",physical,"{'physical': 'A', 'mental': 'B', 'bright': 'C', 'brittle': 'D'}","{'A': 'mental', 'B': 'bright', 'C': 'brittle', 'D': 'physical'}"
+26,,"TEXT: The Open Door Raj assumed that when the doors were open and restraints removed, China would naturally follow the American path to democracy, prosperity and Christianity.
+ASSUMPTION: A path is regression.
+QUESTION: How is ""process"" being metaphorically described based on the assumption? Choose the best word from the options:""
+ A) inflexible
+ B) brittle
+ C) regression
+ D) progression
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",progression,"{'progression': 'A', 'regression': 'B', 'brittle': 'C', 'inflexible': 'D'}","{'A': 'inflexible', 'B': 'brittle', 'C': 'regression', 'D': 'progression'}"
+27,,"TEXT: The NGO experiences establish that there is a strong latent demand for education even among the poorest and a responsive education system can overcome the obstacle of poverty to bring children into schools.
+ASSUMPTION: A obstacle is ease.
+QUESTION: How is ""limitations"" being metaphorically described based on the assumption? Choose the best word from the options:""
+ A) plentiful
+ B) facilitation
+ C) challenge
+ D) ease
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",challenge,"{'challenge': 'A', 'ease': 'B', 'plentiful': 'C', 'facilitation': 'D'}","{'A': 'plentiful', 'B': 'facilitation', 'C': 'challenge', 'D': 'ease'}"
+28,,"TEXT: This guy is nothing more than a skidmark on the underwear of government, and when we get done you'll think so, too.
+ASSUMPTION: An underwear is significant.
+QUESTION: How is ""reputation"" being metaphorically described based on the assumption? Choose the best word from the options:""
+ A) significant
+ B) elastic
+ C) insignificant
+ D) impeccable
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",insignificant,"{'insignificant': 'A', 'significant': 'B', 'impeccable': 'C', 'elastic': 'D'}","{'A': 'significant', 'B': 'elastic', 'C': 'insignificant', 'D': 'impeccable'}"
+29,,"TEXT: Now the instruments of navigation of democracy are threefold, for democracy rests upon three simple facts : what a man thinks of himself, what a man thinks of others, and what a man thinks of God.
+ASSUMPTION: A navigation is rigid.
+QUESTION: How is ""guidance"" being metaphorically described based on the assumption? Choose the best word from the options:""
+ A) adaptable
+ B) random
+ C) quiet
+ D) rigid
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",adaptable,"{'adaptable': 'A', 'rigid': 'B', 'quiet': 'C', 'random': 'D'}","{'A': 'adaptable', 'B': 'random', 'C': 'quiet', 'D': 'rigid'}"
+30,,"TEXT: Mr. Speaker, I believe that there is no greater barometer of democracy than free speech and freedom of the press.
+ASSUMPTION: A barometer is coarseness.
+QUESTION: How is ""indicator"" being metaphorically described based on the assumption? Choose the best word from the options:""
+ A) coarseness
+ B) granularity
+ C) tangible
+ D) fragile
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",granularity,"{'granularity': 'A', 'coarseness': 'B', 'tangible': 'C', 'fragile': 'D'}","{'A': 'coarseness', 'B': 'granularity', 'C': 'tangible', 'D': 'fragile'}"
+31,,"TEXT: So what do we need to know to break the chains of poverty in our lives?
+ASSUMPTION: The chains are permissive.
+QUESTION: How is ""restraints, limitations"" being metaphorically described based on the assumption? Choose the best word from the options:""
+ A) unconstrained
+ B) permissive
+ C) restrictive
+ D) pliable
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",restrictive,"{'restrictive': 'A', 'permissive': 'B', 'pliable': 'C', 'unconstrained': 'D'}","{'A': 'unconstrained', 'B': 'permissive', 'C': 'restrictive', 'D': 'pliable'}"
+32,,"TEXT: 0comments BURLINGTON â€” Selling a project that relies entirely on sales tax to the largest tax generator in the county was a tough sell Thursday night.
+ASSUMPTION: A generator is unreliable.
+QUESTION: How is ""source"" being metaphorically described based on the assumption? Choose the best word from the options:""
+ A) reliable
+ B) unreliable
+ C) inefficient
+ D) cold
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",reliable,"{'reliable': 'A', 'unreliable': 'B', 'cold': 'C', 'inefficient': 'D'}","{'A': 'reliable', 'B': 'unreliable', 'C': 'inefficient', 'D': 'cold'}"
+33,,"TEXT: There are many visions of democracy, and in America we are fortunate to have The Bill of rights together with The Constitution and the Declaration of Independence to create a strong impression of the voice of Democracy.
+ASSUMPTION: A voice is dissuasion.
+QUESTION: How is ""example"" being metaphorically described based on the assumption? Choose the best word from the options:""
+ A) quiet
+ B) dissuasion
+ C) persuasion
+ D) substantial
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",persuasion,"{'persuasion': 'A', 'dissuasion': 'B', 'substantial': 'C', 'quiet': 'D'}","{'A': 'quiet', 'B': 'dissuasion', 'C': 'persuasion', 'D': 'substantial'}"
+34,,"TEXT: The Senate is poison.
+ASSUMPTION: A poison is beneficial.
+QUESTION: How is ""detrimental"" being metaphorically described based on the assumption? Choose the best word from the options:""
+ A) healing
+ B) productive
+ C) harmful
+ D) beneficial
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",harmful,"{'harmful': 'A', 'beneficial': 'B', 'productive': 'C', 'healing': 'D'}","{'A': 'healing', 'B': 'productive', 'C': 'harmful', 'D': 'beneficial'}"
+35,,"TEXT: December 10, 1996 The Teamsters union, which has filed a petition to represent Anne Arundel police officers and deputy sheriffs, is stuck in a bureaucratic turnstile that may ruin its chance of becoming the county's largest law enforcement bargaining unit.Since October, when more than 400 county police officers filed petition cards calling for a union vote, the Teamsters have been unable to arrange for elections.
+ASSUMPTION: A turnstile is originality.
+QUESTION: How is ""delay"" being metaphorically described based on the assumption? Choose the best word from the options:""
+ A) repitition
+ B) originality
+ C) brisk
+ D) efficient
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",repitition,"{'repitition': 'A', 'originality': 'B', 'brisk': 'C', 'efficient': 'D'}","{'A': 'repitition', 'B': 'originality', 'C': 'brisk', 'D': 'efficient'}"
+36,,"TEXT: TIRANA, Dec 16 (Reuters) - Albania announced on Monday that it would raise taxes from January, scrapping a flat 10 percent corporate and income tax rate, and plans to end tax exemptions for foreign oil workers, as its new government wrestles rising debt.
+ASSUMPTION: The wrestles are easy.
+QUESTION: How is ""addresses"" being metaphorically described based on the assumption? Choose the best word from the options:""
+ A) mild
+ B) easy
+ C) tender
+ D) difficult
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",difficult,"{'difficult': 'A', 'easy': 'B', 'mild': 'C', 'tender': 'D'}","{'A': 'mild', 'B': 'easy', 'C': 'tender', 'D': 'difficult'}"
+37,,"TEXT: Thus it is that humanity today labors under the burden of a vast parasite, which, left unchecked, will do what all parasites do: it will destroy its host, even though its own survival depends upon the health of its host.Â Today the parasite of government has the power to turn our entire planet into a radioactive cinder, unfit to sustain any kind of life as we know it.Â As things stand now, it is likely to do this. But maybe itâ€™s not too late. Maybe, by using HoloMatic institutions comprised of ethical Octologues, we can pull ourselves back from the brink of disaster and transform human society into a sustainable thriving whole.
+ASSUMPTION: A parasite is uplifting.
+QUESTION: How is ""detriment"" being metaphorically described based on the assumption? Choose the best word from the options:""
+ A) valuable
+ B) profitable
+ C) degrading
+ D) uplifting
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",degrading,"{'degrading': 'A', 'uplifting': 'B', 'profitable': 'C', 'valuable': 'D'}","{'A': 'valuable', 'B': 'profitable', 'C': 'degrading', 'D': 'uplifting'}"
+38,,"TEXT: 08 Nor yet again is there any logical reason in the division of the field of the science of political economy for following that department which treats of the distribution of wealth with other departments treating of the consumption of wealth or of taxation, as is done by some of the minor and more recent writers.
+ASSUMPTION: A consumption is wasteful.
+QUESTION: How is ""use"" being metaphorically described based on the assumption? Choose the best word from the options:""
+ A) reckless
+ B) unsafe
+ C) resource-like
+ D) wasteful
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",resource-like,"{'resource-like': 'A', 'wasteful': 'B', 'unsafe': 'C', 'reckless': 'D'}","{'A': 'reckless', 'B': 'unsafe', 'C': 'resource-like', 'D': 'wasteful'}"
+39,,"TEXT: The system as it evolved seemed to work as intended. Though 29 charter schools closed in the first decade of the stateâ€™s charter school initiative, others thrived. Thereâ€™s no doubt that theyâ€™re popular. Once the legislature eliminated a cap of 100 schools statewide, the ranks of charters grew to 107 this year. Another 25 will open in the fall. The State Board of Education has largely let charter schools rise or fall on their own merits. To its credit, the state board didnâ€™t drown charter schools in a bureaucratic bathtub.
+ASSUMPTION: A bathtub is excitatory.
+QUESTION: How is ""situation"" being metaphorically described based on the assumption? Choose the best word from the options:""
+ A) silent
+ B) excitatory
+ C) dire
+ D) inhibitory
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",inhibitory,"{'inhibitory': 'A', 'excitatory': 'B', 'dire': 'C', 'silent': 'D'}","{'A': 'silent', 'B': 'excitatory', 'C': 'dire', 'D': 'inhibitory'}"
+40,,"TEXT: Your problem is like ours - if the very rich hoover up all the money, how can the system work?
+ASSUMPTION: A hoover is released.
+QUESTION: How is ""hoard"" being metaphorically described based on the assumption? Choose the best word from the options:""
+ A) massive
+ B) neat
+ C) released
+ D) siezed
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",siezed,"{'siezed': 'A', 'released': 'B', 'massive': 'C', 'neat': 'D'}","{'A': 'massive', 'B': 'neat', 'C': 'released', 'D': 'siezed'}"
+41,,"TEXT: But the cost of gun proliferation in America is far higher then the security it provides.
+ASSUMPTION: A proliferation is flat.
+QUESTION: How is ""increase"" being metaphorically described based on the assumption? Choose the best word from the options:""
+ A) flat
+ B) spiked
+ C) finite
+ D) contraction
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",spiked,"{'spiked': 'A', 'flat': 'B', 'finite': 'C', 'contraction': 'D'}","{'A': 'flat', 'B': 'spiked', 'C': 'finite', 'D': 'contraction'}"
+42,,"TEXT: Is that most of your fellow gun worshippers?
+ASSUMPTION: The worshippers are doubt.
+QUESTION: How is ""enthusiasts"" being metaphorically described based on the assumption? Choose the best word from the options:""
+ A) unexcited
+ B) disengaged
+ C) faith-receiving
+ D) doubt
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",faith-receiving,"{'faith-receiving': 'A', 'doubt': 'B', 'disengaged': 'C', 'unexcited': 'D'}","{'A': 'unexcited', 'B': 'disengaged', 'C': 'faith-receiving', 'D': 'doubt'}"
+43,,"TEXT: The gun cult and their stooges won't allow it to be released.
+ASSUMPTION: A cult is doubt.
+QUESTION: How is ""group"" being metaphorically described based on the assumption? Choose the best word from the options:""
+ A) faith-receiving
+ B) lone
+ C) doubt
+ D) open
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",faith-receiving,"{'faith-receiving': 'A', 'doubt': 'B', 'open': 'C', 'lone': 'D'}","{'A': 'faith-receiving', 'B': 'lone', 'C': 'doubt', 'D': 'open'}"
+44,,"TEXT: No, we can not agree that taxation is theft because it is not theft.
+ASSUMPTION: A theft is restitution.
+QUESTION: How is ""expropriation"" being metaphorically described based on the assumption? Choose the best word from the options:""
+ A) charitable
+ B) restitution
+ C) official
+ D) expropriation
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",expropriation,"{'expropriation': 'A', 'restitution': 'B', 'official': 'C', 'charitable': 'D'}","{'A': 'charitable', 'B': 'restitution', 'C': 'official', 'D': 'expropriation'}"
+45,,"TEXT: â€œThis cannot be called poverty migration,â€ insists Herbert BrÃ¼cker of the IAB.
+ASSUMPTION: A migration is settlement.
+QUESTION: How is ""movement"" being metaphorically described based on the assumption? Choose the best word from the options:""
+ A) motionless
+ B) relocation
+ C) permanent
+ D) settlement
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",relocation,"{'relocation': 'A', 'settlement': 'B', 'permanent': 'C', 'motionless': 'D'}","{'A': 'motionless', 'B': 'relocation', 'C': 'permanent', 'D': 'settlement'}"
+46,,"TEXT: There is only one way to stop the tax hemorrhage.
+ASSUMPTION: A hemorrhage is increase.
+QUESTION: How is ""loss"" being metaphorically described based on the assumption? Choose the best word from the options:""
+ A) rapid decrease
+ B) increase
+ C) harmless
+ D) manageable
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",rapid decrease,"{'rapid decrease': 'A', 'increase': 'B', 'manageable': 'C', 'harmless': 'D'}","{'A': 'rapid decrease', 'B': 'increase', 'C': 'harmless', 'D': 'manageable'}"
+47,,"TEXT: Should he succeed, he's likely to bring this poverty propagation to Washington.
+ASSUMPTION: A propagation is decrease.
+QUESTION: How is ""spread"" being metaphorically described based on the assumption? Choose the best word from the options:""
+ A) rapid increase
+ B) decrease
+ C) controlled
+ D) isolated
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",rapid increase,"{'rapid increase': 'A', 'decrease': 'B', 'isolated': 'C', 'controlled': 'D'}","{'A': 'rapid increase', 'B': 'decrease', 'C': 'controlled', 'D': 'isolated'}"
+48,,"TEXT: Government taxation is a parasite on the economic life of any country.
+ASSUMPTION: A parasite is beneficial.
+QUESTION: How is ""detriment"" being metaphorically described based on the assumption? Choose the best word from the options:""
+ A) harmful
+ B) profitable
+ C) beneficial
+ D) nurturing
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",harmful,"{'harmful': 'A', 'beneficial': 'B', 'profitable': 'C', 'nurturing': 'D'}","{'A': 'harmful', 'B': 'profitable', 'C': 'beneficial', 'D': 'nurturing'}"
+49,,"TEXT: My idea of pursuing happiness does not include the leech of taxation and the loss of freedoms by regulation without representation.
+ASSUMPTION: A leech is beneficial.
+QUESTION: How is ""detriment"" being metaphorically described based on the assumption? Choose the best word from the options:""
+ A) No option d
+ B) No option c
+ C) beneficial
+ D) harmful
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",harmful,"{'harmful': 'A', 'beneficial': 'B', 'No option c': 'C', 'No option d': 'D'}","{'A': 'No option d', 'B': 'No option c', 'C': 'beneficial', 'D': 'harmful'}"
+50,,"TEXT: And their manipulation of rhetoric blinds taxpayers to the inappropriateness of both their means and ends.
+ASSUMPTION: The blinds are truthful.
+QUESTION: How is ""deceives"" being metaphorically described based on the assumption? Choose the best word from the options:""
+ A) clear
+ B) truthful
+ C) authentic
+ D) deceived
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",deceived,"{'deceived': 'A', 'truthful': 'B', 'authentic': 'C', 'clear': 'D'}","{'A': 'clear', 'B': 'truthful', 'C': 'authentic', 'D': 'deceived'}"
+51,,"TEXT: We need to return to a constitutional federal government, instead of this bloated leech of bureaucracy.
+ASSUMPTION: A leech is beneficial.
+QUESTION: How is ""problem"" being metaphorically described based on the assumption? Choose the best word from the options:""
+ A) positive
+ B) beneficial
+ C) solvable
+ D) harmful
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",harmful,"{'harmful': 'A', 'beneficial': 'B', 'solvable': 'C', 'positive': 'D'}","{'A': 'positive', 'B': 'beneficial', 'C': 'solvable', 'D': 'harmful'}"

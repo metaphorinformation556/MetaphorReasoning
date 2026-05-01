@@ -1,0 +1,313 @@
+,0,normal_question,correct_letter,original,permutation
+0,normal_question,"TEXT: Second Your Arhuing that if America Wantstovote emotionally to FRG us back 100 years in time,we should.Why I may ask,do you want to return to failed tariff wars and anti globalist great depression policies that ruined nearly every economy in the Western world????Do you realize no economy can be on top by producing and selling to itself,Infact those countries are almost always the poorest countries with the lowest standard of living.
+QUESTION: How is the idea, concept, or object referred to by ""wars"" being metaphorically described? Choose the best word from the options:""
+ A) tranquil
+ B) polite
+ C) destructive
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",C,"{'destructive': 'A', 'polite': 'B', 'tranquil': 'C'}","{'A': 'tranquil', 'B': 'polite', 'C': 'destructive'}"
+1,correct_letter,"TEXT: So yes, I believe as Bob, that much of what we read in scripture is focused on and around Israel and the Middle East, with judgements on the nations also for rejecting the truth and turning to idols of wealth, lust and false teachings.
+QUESTION: How is the idea, concept, or object referred to by ""idols"" being metaphorically described? Choose the best word from the options:""
+ A) central
+ B) everyday
+ C) perceptible
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",A,"{'central': 'A', 'everyday': 'B', 'perceptible': 'C'}","{'A': 'central', 'B': 'everyday', 'C': 'perceptible'}"
+2,original,"TEXT: It can redeem the whole human scene through the understanding that addresses the roots of poverty, persecution, or other issues of deep concern.
+QUESTION: How is the idea, concept, or object referred to by ""roots"" being metaphorically described? Choose the best word from the options:""
+ A) solid
+ B) fundamental
+ C) temporary
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",B,"{'fundamental': 'A', 'temporary': 'B', 'solid': 'C'}","{'A': 'solid', 'B': 'fundamental', 'C': 'temporary'}"
+3,permutation,"TEXT: Poverty and food security are heterogeneous phenomena in most countries; types and depth of poverty, measured in different ways, vary between and within countries and regions.
+QUESTION: How is the idea, concept, or object referred to by ""depth"" being metaphorically described? Choose the best word from the options:""
+ A) thin
+ B) tiered
+ C) easy
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",B,"{'tiered': 'A', 'easy': 'B', 'thin': 'C'}","{'A': 'thin', 'B': 'tiered', 'C': 'easy'}"
+4,,"TEXT: Then Monday arrived and with it came an infestation of congressmen and women.
+QUESTION: How is the idea, concept, or object referred to by ""infestation"" being metaphorically described? Choose the best word from the options:""
+ A) orderly
+ B) unwelcome
+ C) solitary
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",B,"{'unwelcome': 'A', 'orderly': 'B', 'solitary': 'C'}","{'A': 'orderly', 'B': 'unwelcome', 'C': 'solitary'}"
+5,,"TEXT: Part III explains why elections do not deserve the label of beacon of democracy, given the record of past transitions to democracy.
+QUESTION: How is the idea, concept, or object referred to by ""beacon"" being metaphorically described? Choose the best word from the options:""
+ A) brittle
+ B) guide
+ C) unsteady
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",B,"{'guide': 'A', 'brittle': 'B', 'unsteady': 'C'}","{'A': 'brittle', 'B': 'guide', 'C': 'unsteady'}"
+6,,"TEXT: It is all too common for countries attempting political transitions to achieve the forms but not the substance of democracy.
+QUESTION: How is the idea, concept, or object referred to by ""substance"" being metaphorically described? Choose the best word from the options:""
+ A) hard
+ B) fundamental
+ C) fast
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",B,"{'fundamental': 'A', 'fast': 'B', 'hard': 'C'}","{'A': 'hard', 'B': 'fundamental', 'C': 'fast'}"
+7,,"TEXT: News24 Home > MyNews24 > Your Story Planting the seeds of poverty View 109 Comments By: Kevin King 2011-05-11 13:00 Planting the seeds of poverty
+QUESTION: How is the idea, concept, or object referred to by ""seeds"" being metaphorically described? Choose the best word from the options:""
+ A) solid
+ B) loud
+ C) originator
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",C,"{'originator': 'A', 'loud': 'B', 'solid': 'C'}","{'A': 'solid', 'B': 'loud', 'C': 'originator'}"
+8,,"TEXT: You do not feel your family clutching the heels of your feet as you climb up the ladder, out of the well of poverty, clinging and pushing away.
+QUESTION: How is the idea, concept, or object referred to by ""well"" being metaphorically described? Choose the best word from the options:""
+ A) grim
+ B) narrow
+ C) debilitating
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",C,"{'debilitating': 'A', 'grim': 'B', 'narrow': 'C'}","{'A': 'grim', 'B': 'narrow', 'C': 'debilitating'}"
+9,,"TEXT: The Arab Spring arose from the prescription of political reform as the democracy cure for what ails the Muslim world.
+QUESTION: How is the idea, concept, or object referred to by ""cure"" being metaphorically described? Choose the best word from the options:""
+ A) renewal
+ B) useless
+ C) toxic
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",A,"{'renewal': 'A', 'useless': 'B', 'toxic': 'C'}","{'A': 'renewal', 'B': 'useless', 'C': 'toxic'}"
+10,,"TEXT: But, we are there now and the President articulated a vision in an American Enterprises Institute speech in February in which he talked about Iraq as a democracy beacon for the rest of the region.
+QUESTION: How is the idea, concept, or object referred to by ""beacon"" being metaphorically described? Choose the best word from the options:""
+ A) unlit
+ B) opaque
+ C) guide
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",C,"{'guide': 'A', 'opaque': 'B', 'unlit': 'C'}","{'A': 'unlit', 'B': 'opaque', 'C': 'guide'}"
+11,,"TEXT: Indeed, as so often happens in centralized systems, the bureaucratic remedy for one problem led to even worse trouble down the line.
+QUESTION: How is the idea, concept, or object referred to by ""remedy"" being metaphorically described? Choose the best word from the options:""
+ A) generative
+ B) unsafe
+ C) detrimental
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",A,"{'generative': 'A', 'detrimental': 'B', 'unsafe': 'C'}","{'A': 'generative', 'B': 'unsafe', 'C': 'detrimental'}"
+12,,"TEXT: Plato witnessed the death of Socrates at the hands of the Athenian democracy in 399 BC.
+QUESTION: How is the idea, concept, or object referred to by ""hands"" being metaphorically described? Choose the best word from the options:""
+ A) powerful
+ B) tall
+ C) pliant
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",A,"{'powerful': 'A', 'tall': 'B', 'pliant': 'C'}","{'A': 'powerful', 'B': 'tall', 'C': 'pliant'}"
+13,,"TEXT: Political philosophers from Aristotle to Samuel Huntington have noted that economic development and an expanding middle class can provide more fertile ground for democracy.
+QUESTION: How is the idea, concept, or object referred to by ""ground"" being metaphorically described? Choose the best word from the options:""
+ A) smooth
+ B) justified
+ C) humid
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",B,"{'justified': 'A', 'humid': 'B', 'smooth': 'C'}","{'A': 'smooth', 'B': 'justified', 'C': 'humid'}"
+14,,"TEXT: As the madnessÂ in Iraq claims the lives of more citizens of the United States of America with each passing week, media reports are filled with very moving stories of how members of our armed forces, who have been placed into harm's way needlessly by a president who lied about the underlying premises to justify our invasion of Iraq and who continues to believe that the ""demigod"" of ""democracy"" will prevail in land torn by sectarian strife among competing bands of Mohammedans, are dealing with ever more novel ways being invented and adapted by Iraqi nationals, who resent their presence in Iraq, to kill them.
+QUESTION: How is the idea, concept, or object referred to by ""demigod"" being metaphorically described? Choose the best word from the options:""
+ A) mundane
+ B) real
+ C) faith-receiving
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",C,"{'faith-receiving': 'A', 'real': 'B', 'mundane': 'C'}","{'A': 'mundane', 'B': 'real', 'C': 'faith-receiving'}"
+15,,"TEXT: Behind thought control in bourgeois democracy is the thinly gloved hand of repressive power.
+QUESTION: How is the idea, concept, or object referred to by ""hand"" being metaphorically described? Choose the best word from the options:""
+ A) powerful
+ B) tender
+ C) blue
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",A,"{'powerful': 'A', 'blue': 'B', 'tender': 'C'}","{'A': 'powerful', 'B': 'tender', 'C': 'blue'}"
+16,,"TEXT: Thank you for helping to free us from the clutches of democracy and community and sharing.&lt;/saracasm&gt;
+QUESTION: How is the idea, concept, or object referred to by ""clutches"" being metaphorically described? Choose the best word from the options:""
+ A) fluffy
+ B) controled
+ C) positive
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",B,"{'controled': 'A', 'fluffy': 'B', 'positive': 'C'}","{'A': 'fluffy', 'B': 'controled', 'C': 'positive'}"
+17,,"TEXT: There are good libertarian ideas that a global democracy nut like Gravel should find interesting such as jury nullification--if Gravel really wants to give power to ""the people""--but after hearing that interview with Scott Horton, Gravel just seemed too pig-headed to open his mind up to anything.
+QUESTION: How is the idea, concept, or object referred to by ""nut"" being metaphorically described? Choose the best word from the options:""
+ A) crunchy
+ B) kind
+ C) insane
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",C,"{'insane': 'A', 'kind': 'B', 'crunchy': 'C'}","{'A': 'crunchy', 'B': 'kind', 'C': 'insane'}"
+18,,"TEXT: accurate characterization?In other words, have we reached the apex of democracy in which citizens are mobilized to provide a foundation for government?What about the people who do not watch Stewart or Colbert?Should we ignore them and emphasize that the existence of these programs
+QUESTION: How is the idea, concept, or object referred to by ""apex"" being metaphorically described? Choose the best word from the options:""
+ A) quintessential
+ B) uneven
+ C) round
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",A,"{'quintessential': 'A', 'round': 'B', 'uneven': 'C'}","{'A': 'quintessential', 'B': 'uneven', 'C': 'round'}"
+19,,"TEXT: But, insanity seems to be a regular affliction of Congress.
+QUESTION: How is the idea, concept, or object referred to by ""affliction"" being metaphorically described? Choose the best word from the options:""
+ A) impaired
+ B) productive
+ C) strong
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",A,"{'impaired': 'A', 'productive': 'B', 'strong': 'C'}","{'A': 'impaired', 'B': 'productive', 'C': 'strong'}"
+20,,"TEXT: Without the blueprint of the Constitution and the Bill of Rights, our government would be more invasive in our lives than it already is.
+QUESTION: How is the idea, concept, or object referred to by ""blueprint"" being metaphorically described? Choose the best word from the options:""
+ A) improvised
+ B) generative
+ C) erratic
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",B,"{'generative': 'A', 'erratic': 'B', 'improvised': 'C'}","{'A': 'improvised', 'B': 'generative', 'C': 'erratic'}"
+21,,"TEXT: Timmerman's interviews with numerous factory workers make it clear that taking away their jobs is akin to creating a poverty tsunami.
+QUESTION: How is the idea, concept, or object referred to by ""tsunami"" being metaphorically described? Choose the best word from the options:""
+ A) quiet
+ B) rapid increase
+ C) controlled
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",B,"{'rapid increase': 'A', 'controlled': 'B', 'quiet': 'C'}","{'A': 'quiet', 'B': 'rapid increase', 'C': 'controlled'}"
+22,,"TEXT: These measures would help close the wealth chasm.
+QUESTION: How is the idea, concept, or object referred to by ""chasm"" being metaphorically described? Choose the best word from the options:""
+ A) flat
+ B) height
+ C) fair
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",B,"{'height': 'A', 'fair': 'B', 'flat': 'C'}","{'A': 'flat', 'B': 'height', 'C': 'fair'}"
+23,,"TEXT: Filed Under 24 Comments Â» Published: December 29, 2010 under Archived Featured Articles, Archived Guest Articles If you hired a wealth coach to help you build a seven-figure income by investing or starting a new business, would you expect to find yourself in bankruptcy court a year later, with your house on the auction block?
+QUESTION: How is the idea, concept, or object referred to by ""coach"" being metaphorically described? Choose the best word from the options:""
+ A) blue
+ B) expertise
+ C) energetic
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",B,"{'expertise': 'A', 'blue': 'B', 'energetic': 'C'}","{'A': 'blue', 'B': 'expertise', 'C': 'energetic'}"
+24,,"TEXT: But in order to build your wealth shield against the threats posed by intrusive government, or what we call the â€œfederal leviathan,â€ central bank currency manipulation, corporatism and other exogenous threats, you have to remain nimble and flexible enough to be able to move our assets into specific areas of the equity, bond and commodity markets that, at any given time, could be outperforming other asset classes.
+QUESTION: How is the idea, concept, or object referred to by ""shield"" being metaphorically described? Choose the best word from the options:""
+ A) transparent
+ B) protection
+ C) breakable
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",B,"{'protection': 'A', 'transparent': 'B', 'breakable': 'C'}","{'A': 'transparent', 'B': 'protection', 'C': 'breakable'}"
+25,,"TEXT: The intent of this form of intrusive legislation is to keep an eye on any NGO that could be considered unfavorable to the government.
+QUESTION: How is the idea, concept, or object referred to by ""form"" being metaphorically described? Choose the best word from the options:""
+ A) gelatinous
+ B) bright
+ C) physical
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",C,"{'physical': 'A', 'bright': 'B', 'gelatinous': 'C'}","{'A': 'gelatinous', 'B': 'bright', 'C': 'physical'}"
+26,,"TEXT: The Open Door Raj assumed that when the doors were open and restraints removed, China would naturally follow the American path to democracy, prosperity and Christianity.
+QUESTION: How is the idea, concept, or object referred to by ""path"" being metaphorically described? Choose the best word from the options:""
+ A) progression
+ B) inflexible
+ C) spicy
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",A,"{'progression': 'A', 'spicy': 'B', 'inflexible': 'C'}","{'A': 'progression', 'B': 'inflexible', 'C': 'spicy'}"
+27,,"TEXT: The NGO experiences establish that there is a strong latent demand for education even among the poorest and a responsive education system can overcome the obstacle of poverty to bring children into schools.
+QUESTION: How is the idea, concept, or object referred to by ""obstacle"" being metaphorically described? Choose the best word from the options:""
+ A) adaptable
+ B) abundant
+ C) challenge
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",C,"{'challenge': 'A', 'abundant': 'B', 'adaptable': 'C'}","{'A': 'adaptable', 'B': 'abundant', 'C': 'challenge'}"
+28,,"TEXT: This guy is nothing more than a skidmark on the underwear of government, and when we get done you'll think so, too.
+QUESTION: How is the idea, concept, or object referred to by ""underwear"" being metaphorically described? Choose the best word from the options:""
+ A) fabric
+ B) impeccable
+ C) insignificant
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",C,"{'insignificant': 'A', 'impeccable': 'B', 'fabric': 'C'}","{'A': 'fabric', 'B': 'impeccable', 'C': 'insignificant'}"
+29,,"TEXT: Now the instruments of navigation of democracy are threefold, for democracy rests upon three simple facts : what a man thinks of himself, what a man thinks of others, and what a man thinks of God.
+QUESTION: How is the idea, concept, or object referred to by ""navigation"" being metaphorically described? Choose the best word from the options:""
+ A) random
+ B) quiet
+ C) adaptable
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",C,"{'adaptable': 'A', 'quiet': 'B', 'random': 'C'}","{'A': 'random', 'B': 'quiet', 'C': 'adaptable'}"
+30,,"TEXT: Mr. Speaker, I believe that there is no greater barometer of democracy than free speech and freedom of the press.
+QUESTION: How is the idea, concept, or object referred to by ""barometer"" being metaphorically described? Choose the best word from the options:""
+ A) granularity
+ B) sturdy
+ C) colorful
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",A,"{'granularity': 'A', 'colorful': 'B', 'sturdy': 'C'}","{'A': 'granularity', 'B': 'sturdy', 'C': 'colorful'}"
+31,,"TEXT: So what do we need to know to break the chains of poverty in our lives?
+QUESTION: How is the idea, concept, or object referred to by ""chains"" being metaphorically described? Choose the best word from the options:""
+ A) unconstrained
+ B) restrictive
+ C) pliable
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",B,"{'restrictive': 'A', 'pliable': 'B', 'unconstrained': 'C'}","{'A': 'unconstrained', 'B': 'restrictive', 'C': 'pliable'}"
+32,,"TEXT: 0comments BURLINGTON â€” Selling a project that relies entirely on sales tax to the largest tax generator in the county was a tough sell Thursday night.
+QUESTION: How is the idea, concept, or object referred to by ""generator"" being metaphorically described? Choose the best word from the options:""
+ A) reliable
+ B) soft
+ C) small
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",A,"{'reliable': 'A', 'soft': 'B', 'small': 'C'}","{'A': 'reliable', 'B': 'soft', 'C': 'small'}"
+33,,"TEXT: There are many visions of democracy, and in America we are fortunate to have The Bill of rights together with The Constitution and the Declaration of Independence to create a strong impression of the voice of Democracy.
+QUESTION: How is the idea, concept, or object referred to by ""voice"" being metaphorically described? Choose the best word from the options:""
+ A) quiet
+ B) substantial
+ C) persuasion
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",C,"{'persuasion': 'A', 'substantial': 'B', 'quiet': 'C'}","{'A': 'quiet', 'B': 'substantial', 'C': 'persuasion'}"
+34,,"TEXT: The Senate is poison.
+QUESTION: How is the idea, concept, or object referred to by ""poison"" being metaphorically described? Choose the best word from the options:""
+ A) innocuous
+ B) harmful
+ C) healing
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",B,"{'harmful': 'A', 'innocuous': 'B', 'healing': 'C'}","{'A': 'innocuous', 'B': 'harmful', 'C': 'healing'}"
+35,,"TEXT: December 10, 1996 The Teamsters union, which has filed a petition to represent Anne Arundel police officers and deputy sheriffs, is stuck in a bureaucratic turnstile that may ruin its chance of becoming the county's largest law enforcement bargaining unit.Since October, when more than 400 county police officers filed petition cards calling for a union vote, the Teamsters have been unable to arrange for elections.
+QUESTION: How is the idea, concept, or object referred to by ""turnstile"" being metaphorically described? Choose the best word from the options:""
+ A) efficient
+ B) repitition
+ C) brisk
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",B,"{'repitition': 'A', 'brisk': 'B', 'efficient': 'C'}","{'A': 'efficient', 'B': 'repitition', 'C': 'brisk'}"
+36,,"TEXT: TIRANA, Dec 16 (Reuters) - Albania announced on Monday that it would raise taxes from January, scrapping a flat 10 percent corporate and income tax rate, and plans to end tax exemptions for foreign oil workers, as its new government wrestles rising debt.
+QUESTION: How is the idea, concept, or object referred to by ""wrestles"" being metaphorically described? Choose the best word from the options:""
+ A) serene
+ B) passive
+ C) difficult
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",C,"{'difficult': 'A', 'serene': 'B', 'passive': 'C'}","{'A': 'serene', 'B': 'passive', 'C': 'difficult'}"
+37,,"TEXT: Thus it is that humanity today labors under the burden of a vast parasite, which, left unchecked, will do what all parasites do: it will destroy its host, even though its own survival depends upon the health of its host.Â Today the parasite of government has the power to turn our entire planet into a radioactive cinder, unfit to sustain any kind of life as we know it.Â As things stand now, it is likely to do this. But maybe itâ€™s not too late. Maybe, by using HoloMatic institutions comprised of ethical Octologues, we can pull ourselves back from the brink of disaster and transform human society into a sustainable thriving whole.
+QUESTION: How is the idea, concept, or object referred to by ""parasite"" being metaphorically described? Choose the best word from the options:""
+ A) productive
+ B) profitable
+ C) degrading
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",C,"{'degrading': 'A', 'profitable': 'B', 'productive': 'C'}","{'A': 'productive', 'B': 'profitable', 'C': 'degrading'}"
+38,,"TEXT: 08 Nor yet again is there any logical reason in the division of the field of the science of political economy for following that department which treats of the distribution of wealth with other departments treating of the consumption of wealth or of taxation, as is done by some of the minor and more recent writers.
+QUESTION: How is the idea, concept, or object referred to by ""consumption"" being metaphorically described? Choose the best word from the options:""
+ A) resource-like
+ B) unsafe
+ C) reckless
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",A,"{'resource-like': 'A', 'unsafe': 'B', 'reckless': 'C'}","{'A': 'resource-like', 'B': 'unsafe', 'C': 'reckless'}"
+39,,"TEXT: The system as it evolved seemed to work as intended. Though 29 charter schools closed in the first decade of the stateâ€™s charter school initiative, others thrived. Thereâ€™s no doubt that theyâ€™re popular. Once the legislature eliminated a cap of 100 schools statewide, the ranks of charters grew to 107 this year. Another 25 will open in the fall. The State Board of Education has largely let charter schools rise or fall on their own merits. To its credit, the state board didnâ€™t drown charter schools in a bureaucratic bathtub.
+QUESTION: How is the idea, concept, or object referred to by ""bathtub"" being metaphorically described? Choose the best word from the options:""
+ A) edible
+ B) inhibitory
+ C) delicate
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",B,"{'inhibitory': 'A', 'delicate': 'B', 'edible': 'C'}","{'A': 'edible', 'B': 'inhibitory', 'C': 'delicate'}"
+40,,"TEXT: Your problem is like ours - if the very rich hoover up all the money, how can the system work?
+QUESTION: How is the idea, concept, or object referred to by ""hoover"" being metaphorically described? Choose the best word from the options:""
+ A) massive
+ B) efficient
+ C) siezed
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",C,"{'siezed': 'A', 'massive': 'B', 'efficient': 'C'}","{'A': 'massive', 'B': 'efficient', 'C': 'siezed'}"
+41,,"TEXT: But the cost of gun proliferation in America is far higher then the security it provides.
+QUESTION: How is the idea, concept, or object referred to by ""proliferation"" being metaphorically described? Choose the best word from the options:""
+ A) contained
+ B) spiked
+ C) contracting
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",B,"{'spiked': 'A', 'contained': 'B', 'contracting': 'C'}","{'A': 'contained', 'B': 'spiked', 'C': 'contracting'}"
+42,,"TEXT: Is that most of your fellow gun worshippers?
+QUESTION: How is the idea, concept, or object referred to by ""worshippers"" being metaphorically described? Choose the best word from the options:""
+ A) faith-receiving
+ B) bored
+ C) cold
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",A,"{'faith-receiving': 'A', 'bored': 'B', 'cold': 'C'}","{'A': 'faith-receiving', 'B': 'bored', 'C': 'cold'}"
+43,,"TEXT: The gun cult and their stooges won't allow it to be released.
+QUESTION: How is the idea, concept, or object referred to by ""cult"" being metaphorically described? Choose the best word from the options:""
+ A) faith-receiving
+ B) lone
+ C) open
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",A,"{'faith-receiving': 'A', 'open': 'B', 'lone': 'C'}","{'A': 'faith-receiving', 'B': 'lone', 'C': 'open'}"
+44,,"TEXT: No, we can not agree that taxation is theft because it is not theft.
+QUESTION: How is the idea, concept, or object referred to by ""theft"" being metaphorically described? Choose the best word from the options:""
+ A) official
+ B) voluntary
+ C) expropriation
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",C,"{'expropriation': 'A', 'official': 'B', 'voluntary': 'C'}","{'A': 'official', 'B': 'voluntary', 'C': 'expropriation'}"
+45,,"TEXT: â€œThis cannot be called poverty migration,â€ insists Herbert BrÃ¼cker of the IAB.
+QUESTION: How is the idea, concept, or object referred to by ""migration"" being metaphorically described? Choose the best word from the options:""
+ A) motionless
+ B) relocation
+ C) stagnant
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",B,"{'relocation': 'A', 'stagnant': 'B', 'motionless': 'C'}","{'A': 'motionless', 'B': 'relocation', 'C': 'stagnant'}"
+46,,"TEXT: There is only one way to stop the tax hemorrhage.
+QUESTION: How is the idea, concept, or object referred to by ""hemorrhage"" being metaphorically described? Choose the best word from the options:""
+ A) lucrative
+ B) rapid decrease
+ C) trivial
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",B,"{'rapid decrease': 'A', 'trivial': 'B', 'lucrative': 'C'}","{'A': 'lucrative', 'B': 'rapid decrease', 'C': 'trivial'}"
+47,,"TEXT: Should he succeed, he's likely to bring this poverty propagation to Washington.
+QUESTION: How is the idea, concept, or object referred to by ""propagation"" being metaphorically described? Choose the best word from the options:""
+ A) controlled
+ B) rapid increase
+ C) isolated
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",B,"{'rapid increase': 'A', 'isolated': 'B', 'controlled': 'C'}","{'A': 'controlled', 'B': 'rapid increase', 'C': 'isolated'}"
+48,,"TEXT: Government taxation is a parasite on the economic life of any country.
+QUESTION: How is the idea, concept, or object referred to by ""parasite"" being metaphorically described? Choose the best word from the options:""
+ A) nurturing
+ B) harmful
+ C) profitable
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",B,"{'harmful': 'A', 'profitable': 'B', 'nurturing': 'C'}","{'A': 'nurturing', 'B': 'harmful', 'C': 'profitable'}"
+49,,"TEXT: My idea of pursuing happiness does not include the leech of taxation and the loss of freedoms by regulation without representation.
+QUESTION: How is the idea, concept, or object referred to by ""leech"" being metaphorically described? Choose the best word from the options:""
+ A) No option d
+ B) harmful
+ C) No option c
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",B,"{'harmful': 'A', 'No option c': 'B', 'No option d': 'C'}","{'A': 'No option d', 'B': 'harmful', 'C': 'No option c'}"
+50,,"TEXT: And their manipulation of rhetoric blinds taxpayers to the inappropriateness of both their means and ends.
+QUESTION: How is the idea, concept, or object referred to by ""blinds"" being metaphorically described? Choose the best word from the options:""
+ A) clear
+ B) authentic
+ C) deceived
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",C,"{'deceived': 'A', 'authentic': 'B', 'clear': 'C'}","{'A': 'clear', 'B': 'authentic', 'C': 'deceived'}"
+51,,"TEXT: We need to return to a constitutional federal government, instead of this bloated leech of bureaucracy.
+QUESTION: How is the idea, concept, or object referred to by ""leech"" being metaphorically described? Choose the best word from the options:""
+ A) solvable
+ B) positive
+ C) harmful
+FINAL ANSWER FORMATTING INSTRUCTION: Your final answer MUST be a single letter, in the form '/boxed[letter]', at the end of your response.",C,"{'harmful': 'A', 'solvable': 'B', 'positive': 'C'}","{'A': 'solvable', 'B': 'positive', 'C': 'harmful'}"
