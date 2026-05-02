@@ -94,10 +94,3 @@ print(
     f"Pearson r: {r_noun_p}, P-Value: {p_noun_p}"
 )
 
-#print(
-    #f"Actual Score 3 - Mann–Whitney P-Value: {mw_3_actual}, "
-    #f"Unpaired t-test P-Value: {t_3_actual}, "
-    #f"Spearman r: {r_3_actual}, Spearman P-Value: {r_3_actual_p}"
-#)
-
-

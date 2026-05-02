@@ -5,7 +5,6 @@ from sklearn.preprocessing import MinMaxScaler
 from graph_specificity_scores import graph_data
 import re
 from tagging import tag_target, extract_noun
-import time
 from sklearn.preprocessing import MinMaxScaler
 from get_statistics import get_mannwhitney_p_value, get_t_p_value, get_spearman_corr, get_pearson_corr, get_ks_p_value
 import pickle
@@ -109,7 +108,7 @@ def parse_box(response: str):
         except:
             return "E"
 
-def get_embeddings_for_each_word(path= home + "/metaphor_project/questions/results/",
+def get_embeddings_for_each_word(path= home + "/MetaphorMemorizationOrReasoning/questions/results/",
     files= ["open_target/deepseek-R1-target-open.csv", 
             "open_target/gpt-4o-target-open.csv",
             "open_target/gemma-27b-target-open.csv"], is_cot= False):
@@ -198,7 +197,7 @@ def calcualte_score_distribution(data) -> tuple:
     return score_1s, score_3s
 
 def create_results_csvs():
-    directory = home + '/metaphor_project/questions/results'
+    directory = home + '/MetaphorMemorizationOrReasoning/questions/results'
     extension = "target-open.csv"
     for file in os.listdir(directory):
         if file.endswith(extension):
@@ -222,7 +221,7 @@ def create_results_csvs():
 scaler = MinMaxScaler(feature_range=(0, 1))
 
 
-def create_comparision_file(path= home + "/metaphor_project/questions/results/summary", 
+def create_comparision_file(path= home + "/MetaphorMemorizationOrReasoning/questions/results/summary", 
     files= ["deepseek-R1_open_results_summary.csv", 
             "gpt-4o_open_results_summary.csv",
             "gemma-27b_open_results_summary.csv"]):
@@ -286,15 +285,6 @@ def create_comparision_file(path= home + "/metaphor_project/questions/results/su
             model= model
         )
 
-        #graph_data(
-            #results_df[[
-                #"response_score_1",
-                #"dataset_target_score_1",
-               # "specific_target_score_1"
-            #]],
-            #f"{model}_score_1_open_results"
-        #)
-
         # ---- Score 2 ----
         print_pairwise_statistics(
             results_df,
@@ -311,15 +301,6 @@ def create_comparision_file(path= home + "/metaphor_project/questions/results/su
             label= "response_score_2 vs specific_target_score_2",
             model= model
         )
-
-        #graph_data(
-        #    results_df[[
-               # "response_score_2",
-                #"dataset_target_score_2",
-                #"specific_target_score_2"
-            #]],
-            #f"{model}_score_2_open_results"
-       # )
 
         #additions: compute mean and sd for summary
         means = results_df[score_columns].mean()
@@ -358,43 +339,3 @@ if __name__ == "__main__":
     create_results_csvs()
     create_comparision_file()
     print(f"Completed building open ended target specificity summary file in directory: statistics/open_ended_target_specificity_summary.csv...\n")
-
-#time.sleep(900)
-
-
-
-'''
-files = ["deepseek-R1-target-open.csv", 
-            "gpt-4o-target-open.csv",
-            "gemma-27b-target-open.csv"]
-
-original_files = files
-
-path = "home + "/metaphor_project/questions/results"
-
-global_data = pd.read_csv("data_with_target_specificity_scores.csv")
-global_data = global_data.reset_index(drop= False)
-files = [path + "/" + f for f in files]
-i = 0
-for file in files:
-    file_df = pd.read_csv(file).reset_index(drop= False)
-    merged = global_data.merge(file_df, left_index= True, right_index= True, how= "inner")
-    merged["full_answer"] = merged["full_answer"].apply(lambda x: parse_box(x))
-    merged.dropna(inplace= True) #same order, no big deal
-    equals = merged[merged["original_target"].isin(merged["full_answer"])]
-    #print(equals[["original_target", "full_answer"]])
-    #time.sleep(60)
-    inside = merged[
-        merged.apply(
-            lambda row: row["full_answer"] in row["current_text"],
-            axis=1
-        )
-    ]
-    name = original_files[i].replace(".csv", "")
-    print(equals)
-    equals.to_csv(f"equals/{name}_where_they_are_equal.csv", index= False)
-    print(f"{file}: {(1 - (len(equals) / len(merged))) * 100:.2f}%")
-    print(inside)
-    print(f"{file}: {(1 - (len(inside) / len(merged))) * 100:.2f}%")
-    i += 1
-'''

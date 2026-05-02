@@ -2,10 +2,13 @@ import pandas as pd
 import spacy
 import time
 from word_forms.word_forms import get_word_forms
+from pathlib import Path
 
 nlp = spacy.load("en_core_web_sm")
 
-data = pd.read_csv("/home/vsiddons/metaphor_project/hyeju_annotations/for_question_generation.csv")
+home = str(Path.home())
+
+data = pd.read_csv(f"{home}/MetaphorMemorizationOrReasoning/annotations/for_question_generation.csv")
 
 def tag_target(target: str) -> list[tuple[str, str]]:
     doc = nlp(target)
