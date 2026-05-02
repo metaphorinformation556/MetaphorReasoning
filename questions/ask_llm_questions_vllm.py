@@ -12,6 +12,9 @@ from openai import OpenAI
 import os
 import gc
 import argparse
+from pathlib import Path
+
+home = str(Path.home())
 
 parser = argparse.ArgumentParser(
                     prog= 'RunQuestions',
@@ -588,8 +591,6 @@ NEW_MODELS = [
     ("deepseek-R1", "deepseek-R1", True),
 ]
 
-'''Remember to change NEW_GEMMA_ONLY back to NEW_MODELS'''
-
 if __name__ == '__main__':
     #needs fixed maybe
     if(args.type == "open"):
@@ -600,12 +601,12 @@ if __name__ == '__main__':
 
     elif args.type == "v_source":
         for model_name, short, thinking in NEW_MODELS:
-            test_model(model_name, f"mcq_source/vanilla_source_{short}", "MetaphorMemorizationOrReasoning/source_questions/data/updated_mcq_vanilla_source_questions.csv", True, thinking)
+            test_model(model_name, f"mcq_source/vanilla_source_{short}", f"{home}/MetaphorMemorizationOrReasoning/source_questions/data/updated_mcq_vanilla_source_questions.csv", True, thinking)
             print("results saved to directory: results/mcq_source")
 
     elif args.type == "n_source":
         for model_name, short, thinking in NEW_MODELS:
-            test_model(model_name, f"mcq_source/normal_source_{short}", "MetaphorMemorizationOrReasoning/source_questions/data/updated_mcq_normal_source_questions.csv", True, thinking)
+            test_model(model_name, f"mcq_source/normal_source_{short}", f"{home}/MetaphorMemorizationOrReasoning/source_questions/data/updated_mcq_normal_source_questions.csv", True, thinking)
             print("results saved to directory: results/mcq_source")
 
     elif args.type == "baseline_mapping":
@@ -628,8 +629,8 @@ if __name__ == '__main__':
 
     elif(args.type == "open_source"):
         #API
-        test_model("gpt-4o", "open_source/gpt-4o-source-open-full", "MetaphorMemorizationOrReasoning/annotations/for_question_generation.csv", True)
-        test_model("deepseek-R1", "open_source/deepseek-R1-source-open-full", "MetaphorMemorizationOrReasoning/annotations/for_question_generation.csv", True)
+        test_model("gpt-4o", "open_source/gpt-4o-source-open-full", f"{home}/MetaphorMemorizationOrReasoning/annotations/for_question_generation.csv", True)
+        test_model("deepseek-R1", "open_source/deepseek-R1-source-open-full", f"{home}/MetaphorMemorizationOrReasoning/annotations/for_question_generation.csv", True)
         print("results saved to directory: results/open_source")
 
     elif(args.type == "open_source_stage_2"):
