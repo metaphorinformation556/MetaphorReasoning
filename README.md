@@ -1,6 +1,6 @@
 **Directions**
 
-1. Create a folder called "conceptnet_embeddings" and then download the ConceptNet numberbatch embeddings pickle from https://huggingface.co/datasets/metaphorreasoning5632/conceptnet-embeddings.
+1. Create a folder called "conceptnet_embeddings" and then download the ConceptNet numberbatch embeddings pickle into that folder from https://huggingface.co/datasets/metaphorreasoning5632/conceptnet-embeddings.
 
 2. Open a virtual environment and run ``pip install -r requirements.txt``
 
