@@ -8,7 +8,7 @@ nlp = spacy.load("en_core_web_sm")
 
 home = str(Path.home())
 
-data = pd.read_csv(f"{home}/MetaphorMemorizationOrReasoning/annotations/for_question_generation.csv")
+data = pd.read_csv(f"{home}/MetaphorReasoning/annotations/for_question_generation.csv")
 
 def tag_target(target: str) -> list[tuple[str, str]]:
     doc = nlp(target)
@@ -62,15 +62,3 @@ def manual_override(word: str):
         return word
     else:
         return word
-
-#data["original_target"] = data["original_target"].apply(lambda x: posesive_to_base(x))
-#data["original_target"] = data["original_target"].apply(lambda x: chop_hyphen(x))
-#data["original_target"] = data["original_target"].apply(lambda x: nounify(x))
-
-#data["target_pos"] = data["target"].apply(lambda x: tag_target(x))
-#data["noun_target"] = data["target_pos"].apply(lambda x: extract_noun(x))
-
-#data["original_target"] = data["original_target"].apply(lambda x: manual_override(x))
-#data["noun_target"] = data["noun_target"].apply(lambda x: manual_override(x))
-
-#data.to_csv("for_question_generation_with_target_pos.csv", index= False)

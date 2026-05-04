@@ -558,7 +558,7 @@ def create_seojin_mcqs() -> None:
     data = pd.read_csv("data/for_testing.csv")
     data[["normal_question", "original", "permutation"]] = data.apply(lambda x: pd.Series(construct_mcq(x["mcq_prompt"]
     , x["A"], x["B"], x["C"], x["D"], True, True)), axis= 1)
-    data.to_csv("data/mcq_seojin.csv", index= False)
+    data.to_csv("data/mcq_none_or_all.csv", index= False)
 
 def create_open(is_cot: bool) -> None:
     data = pd.read_csv("data/for_testing.csv")
@@ -601,12 +601,12 @@ if __name__ == '__main__':
 
     elif args.type == "v_source":
         for model_name, short, thinking in NEW_MODELS:
-            test_model(model_name, f"mcq_source/vanilla_source_{short}", f"{home}/MetaphorMemorizationOrReasoning/source_questions/data/updated_mcq_vanilla_source_questions.csv", True, thinking)
+            test_model(model_name, f"mcq_source/vanilla_source_{short}", f"{home}/MetaphorReasoning/source_questions/data/updated_mcq_vanilla_source_questions.csv", True, thinking)
             print("results saved to directory: results/mcq_source")
 
     elif args.type == "n_source":
         for model_name, short, thinking in NEW_MODELS:
-            test_model(model_name, f"mcq_source/normal_source_{short}", f"{home}/MetaphorMemorizationOrReasoning/source_questions/data/updated_mcq_normal_source_questions.csv", True, thinking)
+            test_model(model_name, f"mcq_source/normal_source_{short}", f"{home}/MetaphorReasoning/source_questions/data/updated_mcq_normal_source_questions.csv", True, thinking)
             print("results saved to directory: results/mcq_source")
 
     elif args.type == "baseline_mapping":
@@ -629,8 +629,8 @@ if __name__ == '__main__':
 
     elif(args.type == "open_source"):
         #API
-        test_model("gpt-4o", "open_source/gpt-4o-source-open-full", f"{home}/MetaphorMemorizationOrReasoning/annotations/for_question_generation.csv", True)
-        test_model("deepseek-R1", "open_source/deepseek-R1-source-open-full", f"{home}/MetaphorMemorizationOrReasoning/annotations/for_question_generation.csv", True)
+        test_model("gpt-4o", "open_source/gpt-4o-source-open-full", f"{home}/MetaphorReasoning/annotations/for_question_generation.csv", True)
+        test_model("deepseek-R1", "open_source/deepseek-R1-source-open-full", f"{home}/MetaphorReasoning/annotations/for_question_generation.csv", True)
         print("results saved to directory: results/open_source")
 
     elif(args.type == "open_source_stage_2"):
@@ -648,7 +648,7 @@ if __name__ == '__main__':
     elif(args.type == "mcq_seojin"):
         print("mcq_none_or_all...\n")
         for model_name, short, thinking in NEW_MODELS:
-            test_model(model_name, f"mcq_target/4_option/{short}-target-mcq_none_or_all", "data/mcq_seojin.csv", False, thinking)
+            test_model(model_name, f"mcq_target/4_option/{short}-target-mcq_none_or_all", "data/mcq_none_or_all.csv", False, thinking)
             print("results saved to directory: results/mcq_target/4_option")
 
     else:

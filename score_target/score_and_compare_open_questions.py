@@ -16,7 +16,7 @@ home = str(Path.home())
 
 #get dict of conceptnet embeddings
 def get_conceptnet_embeddings() -> dict:
-    with open(home + "/advertising/GNN/conceptnet_embeddings/embeddings.pkl", "rb") as f:
+    with open(home + "/MetaphorReasoning/conceptnet_embeddings/embeddings.pkl", "rb") as f:
         conceptnet_embeddings = pickle.load(f)
         print("Finished loading ConceptNet embeddings...\n")
         return conceptnet_embeddings
@@ -108,7 +108,7 @@ def parse_box(response: str):
         except:
             return "E"
 
-def get_embeddings_for_each_word(path= home + "/MetaphorMemorizationOrReasoning/questions/results/",
+def get_embeddings_for_each_word(path= home + "/MetaphorReasoning/questions/results/",
     files= ["open_target/deepseek-R1-target-open.csv", 
             "open_target/gpt-4o-target-open.csv",
             "open_target/gemma-27b-target-open.csv"], is_cot= False):
@@ -197,7 +197,7 @@ def calcualte_score_distribution(data) -> tuple:
     return score_1s, score_3s
 
 def create_results_csvs():
-    directory = home + '/MetaphorMemorizationOrReasoning/questions/results'
+    directory = home + '/MetaphorReasoning/questions/results'
     extension = "target-open.csv"
     for file in os.listdir(directory):
         if file.endswith(extension):
@@ -221,7 +221,7 @@ def create_results_csvs():
 scaler = MinMaxScaler(feature_range=(0, 1))
 
 
-def create_comparision_file(path= home + "/MetaphorMemorizationOrReasoning/questions/results/summary", 
+def create_comparision_file(path= home + "/MetaphorReasoning/questions/results/summary", 
     files= ["deepseek-R1_open_results_summary.csv", 
             "gpt-4o_open_results_summary.csv",
             "gemma-27b_open_results_summary.csv"]):
