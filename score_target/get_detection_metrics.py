@@ -8,9 +8,9 @@ stemmer = PorterStemmer()
 
 home = str(Path.home())
 
-PATH = home + "MetaphorMemorizationOrReasoning/questions/results/open_target/"
+PATH = home + "MetaphorReasoning/questions/results/open_target/"
 
-conceptnet_path = home + "/advertising/GNN/conceptnet_embeddings/embeddings.pkl" ##change to yours
+conceptnet_path = home + "MetaphorReasoning/conceptnet_embeddings/embeddings.pkl" ##change to yours
 
 files = [
     "deepseek-R1-target-open.csv",
