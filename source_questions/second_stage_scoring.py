@@ -38,8 +38,8 @@ def break_dictionary_up(input: dict) -> list[int]:
     return [len(input[key]) for key in input.keys()]
 
 if __name__ == "__main__":
-    deepseek_data = pd.read_csv("results/open_source/2nd_stage_deepseek-R1.csv")
-    gpt_data = pd.read_csv("results/open_source/2nd_stage_gpt_4o.csv")
+    deepseek_data = pd.read_csv("results/2nd_stage_deepseek-R1.csv")
+    gpt_data = pd.read_csv("results/2nd_stage_gpt_4o.csv")
 
     deepseek_data["lm_source"] = deepseek_data["lm_source"].apply(lambda x: ast.literal_eval(x) if isinstance(x, str) else x)
     deepseek_data["metaphoricity_score"] = deepseek_data["metaphoricity_score"].apply(lambda x: ast.literal_eval(x) if isinstance(x, str) else x)
@@ -135,8 +135,8 @@ if __name__ == "__main__":
 
     print(f"After dropping invalid ratings, there are {len(deepseek_data)} deepseek samples and {len(gpt_data)} gpt samples.\n")
 
-    deepseek_data.to_csv("results/open_source/2nd_stage_deepseek_cleaned.csv", index= False)
-    gpt_data.to_csv("results/open_source/2nd_stage_gpt_cleaned.csv", index= False)
+    deepseek_data.to_csv("results/2nd_stage_deepseek_cleaned.csv", index= False)
+    gpt_data.to_csv("results/2nd_stage_gpt_cleaned.csv", index= False)
     
     deepseek_data["total_human_tokens"] = deepseek_data["lm_source"].apply(lambda x: len(x))
     gpt_data["total_human_tokens"] = gpt_data["lm_source"].apply(lambda x: len(x))
@@ -250,6 +250,51 @@ if __name__ == "__main__":
 
     print("Saved metrics to directory: metrics/second_stage_final_metrics.csv\n")
 
+    deepseek_metaphorical_count = deepseek_data["is_metaphorical"].sum()
+    deepseek_human_count_0 = deepseek_data["human_score_0"].sum()
+    deepseek_human_count_1 = deepseek_data["human_score_1"].sum()
+    deepseek_human_count_2 = deepseek_data["human_score_2"].sum()
+    deepseek_human_count_3 = deepseek_data["human_score_3"].sum()
+    deepseek_llm_human_only_count_0 = deepseek_data["llm_human_only_score_0"].sum()
+    deepseek_llm_human_only_count_1 = deepseek_data["llm_human_only_score_1"].sum()
+    deepseek_llm_human_only_count_2 = deepseek_data["llm_human_only_score_2"].sum()
+    deepseek_llm_human_only_count_3 = deepseek_data["llm_human_only_score_3"].sum()
 
+    gpt_metaphorical_count = gpt_data["is_metaphorical"].sum()
+    gpt_human_count_0 = gpt_data["human_score_0"].sum()
+    gpt_human_count_1 = gpt_data["human_score_1"].sum()
+    gpt_human_count_2 = gpt_data["human_score_2"].sum()
+    gpt_human_count_3 = gpt_data["human_score_3"].sum()
+    gpt_llm_human_only_count_0 = gpt_data["llm_human_only_score_0"].sum()
+    gpt_llm_human_only_count_1 = gpt_data["llm_human_only_score_1"].sum()
+    gpt_llm_human_only_count_2 = gpt_data["llm_human_only_score_2"].sum()
+    gpt_llm_human_only_count_3 = gpt_data["llm_human_only_score_3"].sum()
+
+    counts_only_metrics = pd.DataFrame([{
+        "model": "deepseek",
+        "metaphorical_count": deepseek_metaphorical_count,
+        "human_count_0": deepseek_human_count_0,
+        "human_count_1": deepseek_human_count_1,
+        "human_count_2": deepseek_human_count_2,
+        "human_count_3": deepseek_human_count_3,
+        "llm_human_only_count_0": deepseek_llm_human_only_count_0,
+        "llm_human_only_count_1": deepseek_llm_human_only_count_1,
+        "llm_human_only_count_2": deepseek_llm_human_only_count_2,
+        "llm_human_only_count_3": deepseek_llm_human_only_count_3,
+    }, {
+        "model": "gpt",
+        "metaphorical_count": gpt_metaphorical_count,
+        "human_count_0": gpt_human_count_0,
+        "human_count_1": gpt_human_count_1,
+        "human_count_2": gpt_human_count_2,
+        "human_count_3": gpt_human_count_3,
+        "llm_human_only_count_0": gpt_llm_human_only_count_0,
+        "llm_human_only_count_1": gpt_llm_human_only_count_1,
+        "llm_human_only_count_2": gpt_llm_human_only_count_2,
+        "llm_human_only_count_3": gpt_llm_human_only_count_3,
+    }])
+
+    counts_only_metrics.to_csv("metrics/second_stage_counts_only.csv", index= False)
+    print("Saved exact counts metrics to directory: metrics/second_stage_counts_only.csv\n")
 
 
